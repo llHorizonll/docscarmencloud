@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Carmen Cloud Manual",
   description: "Document for carmen.blue",
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -26,7 +27,7 @@ export default defineConfig({
           {
             text: "Changelog",
             link: "/changelog/index",
-            activeMatch:"/changelog/"
+            activeMatch: "/changelog/",
           },
         ],
       },
@@ -133,7 +134,7 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/llHorizonll/docscarmencloud" }],
     search: {
       provider: "local",
     },

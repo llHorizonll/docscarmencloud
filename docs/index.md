@@ -6,6 +6,9 @@ hero:
   name: "Carmen Cloud Manual"
   text: "Document for carmen.blue"
   tagline: Self Learning Portal
+  image:
+    src: /logo_CARMEN_Classic-Blue_low-res.png
+    alt: Carmen Cloud
   # actions:
   #   - theme: brand
   #     text: Document
