@@ -43,7 +43,7 @@ Function นี้ใช้กำหนด Permission เข้าใช้ง�
 
 4. เลือก BU ที่จะกำหนดสิทธิให้กับ User
 
-5. กด <img src="../edit_icon.png" style="display: inline-block;" />
+5. กด <img src="../public/edit_icon.png" style="display: inline-block;" />
 
 6. กำหนดสิทธิการใช้งานในแต่ละฟังก์ชัน วิธีการดังต่อไปสี้
 

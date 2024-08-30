@@ -27,7 +27,7 @@ lang: th-TH
 
 ระแบบจะแสดงรายการสินทรัพย์ที่สามารถ disposal ได้
 
-1.6 กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหาสินทรัพย์ที่ต้องการได้
+1.6 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหาสินทรัพย์ที่ต้องการได้
 
 1.7 จากนั้นเลือกสินทรัพย์ที่ต้องการตัดจำหน่าย
 
@@ -41,7 +41,7 @@ lang: th-TH
 
 ![alt text](image-36.png)
 
-2.3. กดปุ่ม <img src="../disposal_icon.png" style="display: inline-block;" />
+2.3. กดปุ่ม <img src="../public/disposal_icon.png" style="display: inline-block;" />
 
 ![alt text](image-37.png)
 

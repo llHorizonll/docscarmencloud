@@ -13,7 +13,7 @@ lang: th-TH
 
 1.2. เลือกฟังก์ชัน Budget
 
-1.3. กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" />
+1.3. กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" />
 
 ![alt text](image-58.png)
 
@@ -43,8 +43,8 @@ lang: th-TH
 
 เมนูคำสั่งอื่นที่เกี่ยวข้อง
 
-<img src="../add_icon.png" style="display: inline-block;" /> สร้าง Budget
+<img src="../public/add_icon.png" style="display: inline-block;" /> สร้าง Budget
 
-<img src="../edit_icon.png" style="display: inline-block;" /> แก้ไข Budget
+<img src="../public/edit_icon.png" style="display: inline-block;" /> แก้ไข Budget
 
-<img src="../del_icon.png" style="display: inline-block;" /> การลบ Budget
+<img src="../public/del_icon.png" style="display: inline-block;" /> การลบ Budget

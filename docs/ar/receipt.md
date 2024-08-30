@@ -13,7 +13,7 @@ Function นี้ใช้สำหรับการรับชำระห�
 
 2. เลือกฟังก์ชัน Receipt ระบบจะแสดงหน้าจอ ตามภาพด้านล่าง
 
-3. กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า Receipt
+3. กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้า Receipt
 
 ![alt text](image-37.png)
 

@@ -16,7 +16,7 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 1.2. Click เลือก Template Voucher
 
-1.3. กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" />
+1.3. กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" />
 
 ![alt text](image-25.png)
 
@@ -61,13 +61,13 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 1.10. การใช้งานปุ่มอื่น ๆ หน้าจอ
 
-<img src="../add_icon.png" style="display: inline-block;" /> สร้างเอกสารแม่แบบ
+<img src="../public/add_icon.png" style="display: inline-block;" /> สร้างเอกสารแม่แบบ
 
-<img src="../edit_icon.png" style="display: inline-block;" /> แก้ไขเอกสารแม่แบบ
+<img src="../public/edit_icon.png" style="display: inline-block;" /> แก้ไขเอกสารแม่แบบ
 
-<img src="../del_icon.png" style="display: inline-block;" /> การยกเลิกเอกสารแม่แบบ
+<img src="../public/del_icon.png" style="display: inline-block;" /> การยกเลิกเอกสารแม่แบบ
 
-<img src="../print_icon.svg" style="display: inline-block;" /> พิมพ์เอกสาร
+<img src="../public/print_icon.svg" style="display: inline-block;" /> พิมพ์เอกสาร
 
 ## การสร้าง Template จากการ Copy บนหน้าจอ Journal Voucher
 
@@ -82,7 +82,7 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 ![alt text](image-30.png)
 
 2.4 ระบบจะเปิด JV ที่เลือกมา
-2.5 Click <img src="../copy_icon.png" style="display: inline-block;" />
+2.5 Click <img src="../public/copy_icon.png" style="display: inline-block;" />
 
 ![alt text](image-31.png)
 
@@ -104,8 +104,8 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-3.1 กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Template Voucher
+3.1 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Template Voucher
 
-3.2 กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv
+3.2 กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv
 
-3.3 กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล
+3.3 กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล

@@ -13,7 +13,7 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 1.2. Click เลือก Allocation Voucher
 
-1.3. กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" />
+1.3. กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" />
 
 ![alt text](image-48.png)
 
@@ -65,13 +65,13 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 1.9. เมนูคำสั่งอื่นที่เกี่ยวข้อง
 
-<img src="../add_icon.png" style="display: inline-block;" /> สร้างเอกสารแม่แบบ
+<img src="../public/add_icon.png" style="display: inline-block;" /> สร้างเอกสารแม่แบบ
 
-<img src="../edit_icon.png" style="display: inline-block;" /> แก้ไขเอกสารแม่แบบ
+<img src="../public/edit_icon.png" style="display: inline-block;" /> แก้ไขเอกสารแม่แบบ
 
-<img src="../del_icon.png" style="display: inline-block;" /> การยกเลิกเอกสารแม่แบบ
+<img src="../public/del_icon.png" style="display: inline-block;" /> การยกเลิกเอกสารแม่แบบ
 
-<img src="../copy_icon.png" style="display: inline-block;" /> คัดลอกเอกสารแม่แบบ สามารถคัดลอกได้เป็น 4 ประเภท
+<img src="../public/copy_icon.png" style="display: inline-block;" /> คัดลอกเอกสารแม่แบบ สามารถคัดลอกได้เป็น 4 ประเภท
 
 <p align="center">
     <img src="./image-8.png"  />
@@ -83,7 +83,7 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 2.2. Click เลือก Allocation
 
-2.3. กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" />
+2.3. กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" />
 
 ![alt text](image-52.png)
 
@@ -121,8 +121,8 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 
 การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-3.1 กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Allocation Voucher
+3.1 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Allocation Voucher
 
-3.2 กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv
+3.2 กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv
 
-3.3 กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล
+3.3 กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล

@@ -13,7 +13,7 @@ Function นี้ใช้สำหรับสร้างประเภท�
 
 1.2. เลือก Dimension
 
-1.3. กดปุ่ม Add <img src="../add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
+1.3. กดปุ่ม Add <img src="../public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
 
 ![alt text](image-46.png)
 
@@ -80,7 +80,7 @@ Function นี้ใช้สำหรับสร้างประเภท�
 
 ![alt text](image-50.png)
 
-3.3 กดปุ่ม <img src="../del_icon.png" style="display: inline-block;" />
+3.3 กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 <p align="center">
     <img src="./image-51.png"  />
@@ -105,8 +105,8 @@ Function นี้ใช้สำหรับสร้างประเภท�
 
 ## การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-4.1 กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Dimension Code
+4.1 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Dimension Code
 
-4.2 กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลรหัสวิเคราะห์ออกจากระบบเป็น .csv
+4.2 กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลรหัสวิเคราะห์ออกจากระบบเป็น .csv
 
-4.3 กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลรหัสวิเคราะห์
+4.3 กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลรหัสวิเคราะห์

@@ -13,7 +13,7 @@ Function นี้ใช้สร้าง user name และ Password เข�
 
 2. เลือกที่ User
 
-3. กดปุ่ม Add <img src="../add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
+3. กดปุ่ม Add <img src="../public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
 
 ![alt text](image-4.png)
 

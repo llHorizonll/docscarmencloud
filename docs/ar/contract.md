@@ -17,7 +17,7 @@ Function นี้ใช้สำหรับ บันทึกสัญญา�
 
 ![alt text](image-25.png)
 
-4. เมื่อเข้าสู่หน้า A/R Profile ให้ Click เลือก Tab Contract และให้กดปุ่ม <img src="../edit_icon.png" style="display: inline-block;" /> ด้านบนขวามือ
+4. เมื่อเข้าสู่หน้า A/R Profile ให้ Click เลือก Tab Contract และให้กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> ด้านบนขวามือ
 
 5. หลังจากเข้าสู่หน้าจอ CONTRACT ให้ Click ที่สัญลักษณ์ <img src="./image-26.png" style="display: inline-block;" /> เพื่อสร้างเอกสาร Contract
 

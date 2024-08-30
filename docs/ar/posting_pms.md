@@ -48,7 +48,7 @@ Function นี้ใช้สำหรับการ post ข้อมูล C
 
 7.1 Mapping ในระบบ
 
-7.1.1 กดปุ่ม <img src="../edit_icon.svg" style="display: inline-block;" /> หน้ารหัส หรือชื่อของ Guest / Credit Card
+7.1.1 กดปุ่ม <img src="../public/edit_icon.svg" style="display: inline-block;" /> หน้ารหัส หรือชื่อของ Guest / Credit Card
 
 7.1.2 ระบบจะแสดงหน้าต่างให้เลือกรหัส AR Profile
 
@@ -60,7 +60,7 @@ Function นี้ใช้สำหรับการ post ข้อมูล C
 
 7.2 Mapping ใน Excel และ import กลับเข้ามาในระบบ
 
-7.2.1 กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ download ข้อมูลออกไปเป็นไฟล์นามสกุล .csv ที่สามารถเปิดด้วย excel
+7.2.1 กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ download ข้อมูลออกไปเป็นไฟล์นามสกุล .csv ที่สามารถเปิดด้วย excel
 
 7.2.2 กรอกรหัส AR Profile ใน excel ที่ Column ชื่อ “ArNo” ให้ครบทุกบรรทัด
 

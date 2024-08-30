@@ -13,7 +13,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 1.2 เลือกเมนู Journal Voucher
 
-1.3 กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" />
+1.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" />
 
 ![alt text](image.png)
 
@@ -77,7 +77,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 ![alt text](image-6.png)
 
 2.4 ระบบจะเปิด JV ที่เลือกมา
-2.5 Click เมนูคำสั่ง <img src="../copy_icon.png" style="display: inline-block;" /> เพื่อทำการคัดลอก JV ใบนั้น
+2.5 Click เมนูคำสั่ง <img src="../public/copy_icon.png" style="display: inline-block;" /> เพื่อทำการคัดลอก JV ใบนั้น
 
 ![alt text](image-7.png)
 
@@ -98,7 +98,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 เปิดเอกสาร JV ที่ต้องการ copy
 
-2.6.1.2 Click เลือก <img src="../copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher
+2.6.1.2 Click เลือก <img src="../public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher
 
 2.6.1.3 Click **<span class="btn">OK</span>** เพื่อยืนยันการคัดลอก
 
@@ -130,7 +130,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 2.6.1.6 เปิดเอกสาร JV ที่ต้องการคัดลอก
 
-2.6.1.7 Click เลือก <img src="../copy_icon.png" style="display: inline-block;" /> และเลือก Copy and reverse transaction
+2.6.1.7 Click เลือก <img src="../public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy and reverse transaction
 
 2.6.1.8 Click **<span class="btn">OK</span>** เพื่อยืนยันการคัดลอก
 
@@ -156,7 +156,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 ![alt text](image-16.png)
 
-2.6.1.12 Click เลือก <img src="../copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher with zero amount
+2.6.1.12 Click เลือก <img src="../public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher with zero amount
 
 <p align="center">
     <img src="./image-17.png"  />
@@ -178,7 +178,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 3.2 Click เลือกเมนู Journal Voucher
 
-3.3 กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่างการสร้าง Journal Voucher
+3.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่างการสร้าง Journal Voucher
 
 ![alt text](image-19.png)
 
@@ -212,8 +212,8 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 ## การใช้งานปุ่มอื่น ๆ หน้าจอ
 
-1.1. กดปุ่ม <img src="../edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไขเอกสาร JV ที่เปิดขึ้นมา
+1.1. กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไขเอกสาร JV ที่เปิดขึ้นมา
 
-1.2. กดปุ่ม <img src="../void_icon.png" style="display: inline-block;" /> เพื่อยกเลิกเอกสาร JV ที่เปิดขึ้นมา
+1.2. กดปุ่ม <img src="../public/void_icon.png" style="display: inline-block;" /> เพื่อยกเลิกเอกสาร JV ที่เปิดขึ้นมา
 
-1.3. กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์เอกสาร Journal Voucher
+1.3. กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์เอกสาร Journal Voucher

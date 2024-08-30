@@ -13,7 +13,7 @@ lang: th-TH
 
 1.2 เลือก Department Code
 
-1.3 กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่าง Department ให้กำหนดค่าดังต่อไปนี้
+1.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่าง Department ให้กำหนดค่าดังต่อไปนี้
 
 ![alt text](image-30.png)
 
@@ -46,7 +46,7 @@ lang: th-TH
 
 ![alt text](image-32.png)
 
-1.8 กดปุ่ม <img src="../edit_icon.png" style="display: inline-block;" /> จะสามารถแก้ไขได้ 2 ส่วน ได้แก่
+1.8 กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> จะสามารถแก้ไขได้ 2 ส่วน ได้แก่
 
 - Description
 - Select Account code
@@ -73,7 +73,7 @@ lang: th-TH
 
 ![alt text](image-34.png)
 
-1.13 กดปุ่ม <img src="../del_icon.png" style="display: inline-block;" />
+1.13 กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 <p align="center">
     <img src="./image-35.png"  />
@@ -98,8 +98,8 @@ lang: th-TH
 
 ## การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-1.17. กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Department Code
+1.17. กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Department Code
 
-1.18. กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลแผนกออกจากระบบเป็น .csv
+1.18. กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลแผนกออกจากระบบเป็น .csv
 
-1.19. กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลแผนก
+1.19. กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลแผนก

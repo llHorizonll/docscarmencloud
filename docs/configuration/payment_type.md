@@ -15,7 +15,7 @@ Function นี้ใช้สำหรับบันทึกประเภ�
 
 1.2. เลือก Payment type
 
-1.3. กดปุ่ม Add <img src="../add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
+1.3. กดปุ่ม Add <img src="../public/add_icon.png" style="display: inline-block;" /> ด้านบน ขวามือ
 
 ![alt text](image-40.png)
 
@@ -77,7 +77,7 @@ Function นี้ใช้สำหรับบันทึกประเภ�
 
 ![alt text](image-44.png)
 
-3.3 กดปุ่ม <img src="../del_icon.png" style="display: inline-block;" />
+3.3 กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 <p align="center">
     <img src="./image-45.png"  />
@@ -104,8 +104,8 @@ Function นี้ใช้สำหรับบันทึกประเภ�
 
 4. การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-4.1 กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Payment Code
+4.1 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Payment Code
 
-4.2 กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ประเภทการชำระเงินออกจากระบบเป็น .csv
+4.2 กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ประเภทการชำระเงินออกจากระบบเป็น .csv
 
-4.3 กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ประเภทการชำระเงิน
+4.3 กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ประเภทการชำระเงิน

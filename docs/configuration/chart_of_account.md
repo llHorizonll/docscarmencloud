@@ -9,7 +9,7 @@ lang: th-TH
 
 1.1 กดปุ่ม Configuration > Chat Of Account
 
-1.2 กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่าง Chart of Account ให้กำหนดค่าดังต่อไปนี้
+1.2 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่าง Chart of Account ให้กำหนดค่าดังต่อไปนี้
 
 ![alt text](image-36.png)
 
@@ -88,7 +88,7 @@ lang: th-TH
 
 1.12 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการลบ
 
-1.13 กดปุ่ม <img src="../del_icon.png" style="display: inline-block;" />
+1.13 กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 
 1.14 ระบบจะขึ้นหน้าต่างให้ยืนยันการลบ
 
@@ -109,8 +109,8 @@ lang: th-TH
 
 ## การใช้งานปุ่มอื่น ๆ บนหน้าจอ
 
-1.16 กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Currency
+1.16 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Currency
 
-1.17 กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลอัตราแลกเปลี่ยนออกจากระบบเป็น .csv
+1.17 กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลอัตราแลกเปลี่ยนออกจากระบบเป็น .csv
 
-1.18 กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลอัตราแลกเปลี่ยน
+1.18 กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูลอัตราแลกเปลี่ยน

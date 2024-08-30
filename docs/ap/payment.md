@@ -13,7 +13,7 @@ Function นี้ใช้สำหรับการชำระเงิน�
 
 2. เลือกฟังก์ชัน Payment ระบบจะแสดงหน้าจอ ตามภาพด้านล่าง
 
-3. กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าจอ Payment เพื่อให้ระบุข้อมูลการชำระเงิน
+3. กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าจอ Payment เพื่อให้ระบุข้อมูลการชำระเงิน
 
 ![alt text](image-21.png)
 
@@ -80,8 +80,8 @@ Function นี้ใช้สำหรับการชำระเงิน�
 
 ระบบจะแสดงหน้าจอ ตัวอย่างตามภาพด้านล่าง
 
-- กด <img src="../edit_icon.svg" style="display: inline-block;" /> ในกรณีต้องการแก้ไขข้อมูลประเภท หัก ณ ที่จ่าย
-- กด <img src="../delete_icon.svg" style="display: inline-block;" /> ในกรณีต้องการ ลบ ข้อมูลประเภท หัก ณ ที่จ่าย
+- กด <img src="../public/edit_icon.svg" style="display: inline-block;" /> ในกรณีต้องการแก้ไขข้อมูลประเภท หัก ณ ที่จ่าย
+- กด <img src="../public/delete_icon.svg" style="display: inline-block;" /> ในกรณีต้องการ ลบ ข้อมูลประเภท หัก ณ ที่จ่าย
 
 ![alt text](image-29.png)
 
@@ -121,15 +121,15 @@ Function นี้ใช้สำหรับการชำระเงิน�
 </p>
 
 11. เมนูคำสั่งอื่นที่เกี่ยวข้อง <br/>
-    <img src="../add_icon.png" style="display: inline-block;" /> สร้าง Payment <br/>
-    <img src="../edit_icon.png" style="display: inline-block;" /> แก้ไข Payment (ทำไม่ได้ หากมีการ Approve, Print cheque หรือ อยู่ใน Period ที่ปิดแล้ว) <br/>
-    <img src="../void_icon.png" style="display: inline-block;" /> ยกเลิก Payment (ทำไม่ได้ หากมีการ Approve, Print cheque หรือ อยู่ใน Period ที่ปิดแล้ว) <br/>
-    <img src="../print_icon.png" style="display: inline-block;" /> พิมพ์ Payment Voucher <br/>
-    <img src="../print_cheque_icon.png" style="display: inline-block;" /> พิมพ์เช็ค <br/>
-    <img src="../print_wht_icon.png" style="display: inline-block;" /> พิมพ์ใบภาษีหัก ณ ที่จ่าย <br/>
+    <img src="../public/add_icon.png" style="display: inline-block;" /> สร้าง Payment <br/>
+    <img src="../public/edit_icon.png" style="display: inline-block;" /> แก้ไข Payment (ทำไม่ได้ หากมีการ Approve, Print cheque หรือ อยู่ใน Period ที่ปิดแล้ว) <br/>
+    <img src="../public/void_icon.png" style="display: inline-block;" /> ยกเลิก Payment (ทำไม่ได้ หากมีการ Approve, Print cheque หรือ อยู่ใน Period ที่ปิดแล้ว) <br/>
+    <img src="../public/print_icon.png" style="display: inline-block;" /> พิมพ์ Payment Voucher <br/>
+    <img src="../public/print_cheque_icon.png" style="display: inline-block;" /> พิมพ์เช็ค <br/>
+    <img src="../public/print_wht_icon.png" style="display: inline-block;" /> พิมพ์ใบภาษีหัก ณ ที่จ่าย <br/>
 
 12. การใช้งานปุ่มอื่น ๆ บนหน้าจอ <br/>
 
-- กดปุ่ม <img src="../search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Payment <br/>
-- กดปุ่ม <img src="../cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv <br/>
-- กดปุ่ม <img src="../print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล <br/>
+- กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Payment <br/>
+- กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv <br/>
+- กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล <br/>

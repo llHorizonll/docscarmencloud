@@ -30,17 +30,17 @@ Activity Log คือการตรวจสอบกิจกรรม หร
 
 1.5 ระบบจะแสดงข้อมูลในส่วนของความคิดเห็นในเอกสาร และไฟล์แนบต่าง ๆ ของเอกสารนั้น
 
-1.6 หากต้องการลบ comment หรือไฟล์แนบให้กด <img src="../del_icon.svg" style="display: inline-block;" />
+1.6 หากต้องการลบ comment หรือไฟล์แนบให้กด <img src="../public/delete_icon.svg" style="display: inline-block;" />
 
-1.7 หากต้องการใส่ comment เพิ่มเติม ให้กรอกข้อความลงไปและกด <img src="../send_icon.svg" style="display: inline-block;" />
+1.7 หากต้องการใส่ comment เพิ่มเติม ให้กรอกข้อความลงไปและกด <img src="../public/send_icon.svg" style="display: inline-block;" />
 
-1.8 หากต้องการใส่รูปภาพหรือไฟล์แนบต่าง ๆ ให้กด <img src="../attach_icon.svg" style="display: inline-block;" /> เพื่อเลือกรูปหรือไฟล์แนบ
+1.8 หากต้องการใส่รูปภาพหรือไฟล์แนบต่าง ๆ ให้กด <img src="../public/attach_icon.svg" style="display: inline-block;" /> เพื่อเลือกรูปหรือไฟล์แนบ
 
 ![alt text](image-4.png)
 
 ## การใช้งาน Activity Log
 
-<img src="../manage_history_icon.svg" style="display: inline-block;" /> Activity Log คือ การบันทึกกิจกรรมของเอกสารในรูปแบบต่างๆ ดังต่อไปนี้
+<img src="../public/manage_history_icon.svg" style="display: inline-block;" /> Activity Log คือ การบันทึกกิจกรรมของเอกสารในรูปแบบต่างๆ ดังต่อไปนี้
 
 - สร้างเอกสาร (Add Data) ระบบจะแสดงรายละเอียดถึงวันเวลาในการ <span class="asterisk">”สร้าง”</span> เอกสาร เช่น สร้างโดยใคร สร้างวันที่เท่าไหร่ และสร้างเวลาไหน ซึ่งผู้ใช้งานจะสามารถตรวจสอบได้จากหน้าต่างใบงานของระบบ Carmen Accounting ได้เลย
 - การแก้ไขข้อมูลในเอกสาร (Update Data) ระบบจะแสดงรายละเอียดถึงวันเวลาในการ <span class="asterisk">“แก้ไข”</span> เอกสาร เช่น สร้างโดยใคร สร้างวันที่เท่าไหร่ และสร้างเวลาไหน ซึ่งผู้ใช้งานจะสามารถตรวจสอบได้จากหน้าต่างใบงานของระบบ Carmen Accounting ได้เช่นกัน
@@ -60,7 +60,7 @@ Activity Log คือการตรวจสอบกิจกรรม หร
 
 ![alt text](image-7.png)
 
-2.4 Click สัญลักษณ์ <img src="../manage_history_icon.svg" style="display: inline-block;" /> เพื่อตรวจกิจกรรมของเอกสาร
+2.4 Click สัญลักษณ์ <img src="../public/manage_history_icon.svg" style="display: inline-block;" /> เพื่อตรวจกิจกรรมของเอกสาร
 
 ![alt text](image-8.png)
 

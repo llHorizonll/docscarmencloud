@@ -90,16 +90,16 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 
 เมนูสำหรับใช้งานอื่นๆที่เกี่ยวข้อง
 
-<img src="../add_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการจะสร้างเอกสารบันทึกข้อมูล Assets Details ใหม่ <br/>
-<img src="../edit_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการแก้ไขข้อมูลในเอกสารที่ทำการบันทึกไปเรียบร้อยแล้ว <br/>
-<img src="../del_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการลบเอกสารที่ได้บันทึกไปแล้ว <span style="color:red">(สินทรัพย์ที่อยู่ใน Period ที่ปิดไปแล้วจะไม่สามารถลบข้อมูล และแก้ไขได้เพียง account code เท่านั้น)</span> <br/>
-<img src="../copy_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการคัดลอกข้อมูลจากประเภทสินทรัพย์ชนิดเดียวกัน มีข้อมูลเหมือนกัน เพื่อต้องการแตก
+<img src="../public/add_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการจะสร้างเอกสารบันทึกข้อมูล Assets Details ใหม่ <br/>
+<img src="../public/edit_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการแก้ไขข้อมูลในเอกสารที่ทำการบันทึกไปเรียบร้อยแล้ว <br/>
+<img src="../public/del_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการลบเอกสารที่ได้บันทึกไปแล้ว <span style="color:red">(สินทรัพย์ที่อยู่ใน Period ที่ปิดไปแล้วจะไม่สามารถลบข้อมูล และแก้ไขได้เพียง account code เท่านั้น)</span> <br/>
+<img src="../public/copy_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการคัดลอกข้อมูลจากประเภทสินทรัพย์ชนิดเดียวกัน มีข้อมูลเหมือนกัน เพื่อต้องการแตก
 รายการสินทรัพย์ให้มีจำนวนมากกว่า 1 รายการ
 <br/>
-<img src="../disposal_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการทราบรายละเอียดการตัดจำหน่ายสินทรัพย์ <br/>
-<img src="../preasset_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการสร้างทะเบียนสินทรัพย์จาก Pre-Register Asset <br/>
-<img src="../print_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Register Asset Form <br/>
-<img src="../print_barcode_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Barcode <br/>
+<img src="../public/disposal_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการทราบรายละเอียดการตัดจำหน่ายสินทรัพย์ <br/>
+<img src="../public/preasset_icon.png" style="display: inline-block;" /> ใช้ในกรณีต้องการสร้างทะเบียนสินทรัพย์จาก Pre-Register Asset <br/>
+<img src="../public/print_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Register Asset Form <br/>
+<img src="../public/print_barcode_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Barcode <br/>
 
 ## การบันทึกสินทรัพย์ด้วยการ Copy จากสินทรัพย์ที่มีอยู่ในระบบ
 
@@ -134,7 +134,7 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 
 ![alt text](image-19.png)
 
-2.7 ระบบแสดงรายการสินทรัพย์ที่ทำการคัดลอกสำเร็จ จากหน้าจอหนี้สามารถ Click เครื่องหมาย <img src="../edit_icon.svg" style="display: inline-block;" /> เพื่อทำการแก้ไขข้อมูลต่อไป
+2.7 ระบบแสดงรายการสินทรัพย์ที่ทำการคัดลอกสำเร็จ จากหน้าจอหนี้สามารถ Click เครื่องหมาย <img src="../public/edit_icon.svg" style="display: inline-block;" /> เพื่อทำการแก้ไขข้อมูลต่อไป
 
 ![alt text](image-20.png)
 
@@ -144,11 +144,11 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 
 3.2 กดปุ่ม Asset Register
 
-3.3 กดปุ่ม <img src="../add_icon.png" style="display: inline-block;" /> เพื่อเพิ่มสินทรัพย์ใหม่ลงระบบ
+3.3 กดปุ่ม <img src="../public/add_icon.png" style="display: inline-block;" /> เพื่อเพิ่มสินทรัพย์ใหม่ลงระบบ
 
 ![alt text](image-21.png)
 
-3.4 จากรูปด้านล่างให้ CLICK <img src="../preasset_icon.png" style="display: inline-block;" /> เลือกเมนู
+3.4 จากรูปด้านล่างให้ CLICK <img src="../public/preasset_icon.png" style="display: inline-block;" /> เลือกเมนู
 
 ![alt text](image-22.png)
 
