@@ -1,0 +1,14 @@
+.asterisk {
+  color: red;
+}
+.btn {
+  color: #0b91f3;
+}
+
+.vp-doc ul {
+  list-style: " - ";
+}
+
+.vp-doc ul > li > ul {
+  list-style: " • ";
+}
