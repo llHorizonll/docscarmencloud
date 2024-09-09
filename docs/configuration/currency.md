@@ -44,7 +44,7 @@ Function นี้ใช้สำหรับบันทึกสกุลเ�
 
 1.7. กดปุ่ม Currency
 
-1.8. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency ที่ต้องการแก้ไข
+1.8. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency ที่ต้องการแก้ไข
 
 ![alt text](image-26.png)
 
@@ -71,7 +71,7 @@ Function นี้ใช้สำหรับบันทึกสกุลเ�
 
 1.12. กดปุ่ม Currency
 
-1.13. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency ที่ต้องการลบ
+1.13. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency ที่ต้องการลบ
 
 ![alt text](image-28.png)
 

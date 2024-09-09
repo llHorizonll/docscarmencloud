@@ -9,7 +9,7 @@ lang: th-TH
 
 Function นี้ใช้สำหรับกำหนดข้อมูลบริษัทและโรงแรมของลูกค้า
 
-1. คลิกข้าสู่ Configuration
+1. Click เข้าสู่ Configuration
 
 2. เลือก Company Profile
 

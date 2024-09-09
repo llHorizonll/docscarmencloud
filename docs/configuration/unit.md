@@ -9,7 +9,7 @@ lang: th-TH
 
 ## การเพิ่มหน่วย Unit
 
-1.1. คลิกเมนู Configuration
+1.1. Click เมนู Configuration
 
 1.2. เลือก Unit
 
@@ -43,7 +43,7 @@ lang: th-TH
 
 1.7. กดปุ่ม Unit
 
-1.8. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Unit Code ที่ต้องการแก้ไข
+1.8. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Unit Code ที่ต้องการแก้ไข
 
 ![alt text](image-54.png)
 
@@ -70,7 +70,7 @@ lang: th-TH
 
 1.12. กดปุ่ม Unit
 
-1.13. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Unit Code ที่ต้องการลบ
+1.13. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Unit Code ที่ต้องการลบ
 
 ![alt text](image-56.png)
 

@@ -11,7 +11,7 @@ lang: th-TH
 
 1. ไปที่ Asset Module
 
-2. คลิกที่ฟังก์ชัน Procedure เลือกคำสั่ง Close Period
+2. Click ที่ฟังก์ชัน Procedure เลือกคำสั่ง Close Period
 
 ![alt text](image-54.png)
 

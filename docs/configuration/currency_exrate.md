@@ -48,7 +48,7 @@ Function นี้ใช้สำหรับบันทึกอัตรา�
 
 1.8. กดปุ่ม Currency
 
-1.9. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency Exchange Rate ที่ต้องการแก้ไข
+1.9. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency Exchange Rate ที่ต้องการแก้ไข
 
 ![alt text](image-19.png)
 
@@ -76,7 +76,7 @@ Function นี้ใช้สำหรับบันทึกอัตรา�
 
 1.13. กดปุ่ม Currency
 
-1.14. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency Exchange Rate ที่ต้องการลบ
+1.14. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Currency Exchange Rate ที่ต้องการลบ
 
 ![alt text](image-21.png)
 

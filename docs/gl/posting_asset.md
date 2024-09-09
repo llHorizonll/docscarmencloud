@@ -9,7 +9,7 @@ lang: th-TH
 
 ## การ Post ข้อมูลค่าเสื่อมราคาและการขาย
 
-1. คลิกเข้าสู่ General Ledger Module
+1. Click เข้าสู่ General Ledger Module
 
 2. เลือกฟังก์ชัน Procedure
 

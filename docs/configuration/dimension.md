@@ -9,7 +9,7 @@ Function นี้ใช้สำหรับสร้างประเภท�
 
 ## การเพิ่ม Dimension
 
-1.1. คลิกเมนู Configuration
+1.1. Click เมนู Configuration
 
 1.2. เลือก Dimension
 
@@ -46,7 +46,7 @@ Function นี้ใช้สำหรับสร้างประเภท�
 
 2.1 กดปุ่ม Dimension
 
-2.2 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Dimension Code ที่ต้องการแก้ไข
+2.2 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Dimension Code ที่ต้องการแก้ไข
 
 ![alt text](image-48.png)
 
@@ -76,7 +76,7 @@ Function นี้ใช้สำหรับสร้างประเภท�
 
 3.1 กดปุ่ม Dimension
 
-3.2 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Dimension Code ที่ต้องการลบ
+3.2 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Dimension Code ที่ต้องการลบ
 
 ![alt text](image-50.png)
 

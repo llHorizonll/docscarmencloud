@@ -10,7 +10,7 @@ Function นี้ใช้สำหรับตรวจสอบใบกำ�
 
 ## การยืนยันยอดภาษีซื้อ (Input Tax Reconciliation) (1-5)
 
-1. คลิกเข้าสู่ Account Payable Module
+1. Click เข้าสู่ Account Payable Module
 
 2. เลือกฟังก์ชัน Procedure ส่วนของ Input Tax Reconciliation <img src="./image-37.png" style="display: inline-block;" />
 

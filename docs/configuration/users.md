@@ -9,7 +9,7 @@ lang: th-TH
 Function นี้ใช้สร้าง user name และ Password เข้าใช้งานระบบ
 ขั้นตอนการสร้าง User และ Password
 
-1. คลิกเมนู Configuration
+1. Click เมนู Configuration
 
 2. เลือกที่ User
 

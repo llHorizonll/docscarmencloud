@@ -64,6 +64,8 @@ export default defineConfig({
           { text: "Posting AP invoice from recieving", link: "/ap/recevingToAp" },
           { text: "Invoice", link: "/ap/invoice" },
           { text: "Payment", link: "/ap/payment" },
+          { text: "Deposit Payment", link: "/ap/deposit_payment" },
+          { text: "Apply Deposit with Invoice", link: "/ap/apply_deposit_pay_with_inv" },
           { text: "Cheque Reconciliation", link: "/ap/cheque_reconciliation" },
           { text: "Input Tax Reconciliation", link: "/ap/input_tax_reconciliation" },
           { text: "WHT Reconciliation", link: "/ap/wht_reconciliation" },

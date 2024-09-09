@@ -9,7 +9,7 @@ lang: th-TH
 
 ## การปิดรอบบัญชี
 
-1. คลิกเข้าสู่ General Ledger Module
+1. Click เข้าสู่ General Ledger Module
 
 2. เลือกฟังก์ชัน Procedure
 

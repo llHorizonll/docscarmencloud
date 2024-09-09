@@ -11,13 +11,13 @@ lang: th-TH
 
 ## การตัดจำหน่ายสินทรัพย์ที่ Asset Disposal
 
-1.1 คลิกปุ่ม Asset
+1.1 Click ปุ่ม Asset
 
 1.2 เลือก Asset Disposal
 
 ![alt text](image-33.png)
 
-1.3 คลิกปุ่ม Add ระบบจะแสดง หน้าต่าง Select Disposal Type เป็น Default แบบ Quantity เพื่อตัดจำหน่ายสินทรัพย์แบบจำนวน
+1.3 Click ปุ่ม Add ระบบจะแสดง หน้าต่าง Select Disposal Type เป็น Default แบบ Quantity เพื่อตัดจำหน่ายสินทรัพย์แบบจำนวน
 
 1.4 กด **<span class="btn">OK</span>**
 

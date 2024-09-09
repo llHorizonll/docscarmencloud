@@ -8,7 +8,7 @@ lang: th-TH
 การดึงข้อมูล AR Invoice และ AR Receipt จากระบบ Account Receivable มาลงบันทึกเป็นสมุดบัญชีรายวันขาย และสมุดบัญชีรายวันรับในระบบบัญชีแยกประเภท โดยมีขั้นตอนดังต่อไปนี้
 การ Post ข้อมูล AR Invoice และ Receipt เข้า GL
 
-1. คลิกเข้าสู่ General Ledger Module
+1. Click เข้าสู่ General Ledger Module
 
 2. เลือกฟังก์ชัน Procedure
 

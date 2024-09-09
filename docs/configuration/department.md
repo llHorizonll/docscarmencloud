@@ -9,7 +9,7 @@ lang: th-TH
 
 การสร้างแผนก Department Code ในการบันทึกบัญชี
 
-1.1 คลิกเข้าสู่ Configuration
+1.1 Click เข้าสู่ Configuration
 
 1.2 เลือก Department Code
 
@@ -42,7 +42,7 @@ lang: th-TH
 
 1.6. กดปุ่ม Department
 
-1.7. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Code Department ที่ต้องการแก้ไข
+1.7. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Code Department ที่ต้องการแก้ไข
 
 ![alt text](image-32.png)
 
@@ -69,7 +69,7 @@ lang: th-TH
 
 1.11 กดปุ่ม Department
 
-1.12 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Department ที่ต้องการลบ
+1.12 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Department ที่ต้องการลบ
 
 ![alt text](image-34.png)
 

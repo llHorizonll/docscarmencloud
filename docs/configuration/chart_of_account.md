@@ -59,7 +59,7 @@ lang: th-TH
 
 1.6 กดปุ่ม Chat Of Account
 
-1.7 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการแก้ไข
+1.7 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการแก้ไข
 
 ![alt text](image-38.png)
 
@@ -86,7 +86,7 @@ lang: th-TH
 
 1.11 กดปุ่ม Chat Of Account
 
-1.12 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการลบ
+1.12 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการลบ
 
 1.13 กดปุ่ม <img src="../public/del_icon.png" style="display: inline-block;" />
 

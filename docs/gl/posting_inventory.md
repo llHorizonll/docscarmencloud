@@ -9,7 +9,7 @@ lang: th-TH
 
 ## การ Post ข้อมูล Extra cost มาบันทึกบัญชีที่ GL
 
-- คลิกเข้าสู่ General Ledger Module
+- Click เข้าสู่ General Ledger Module
 - เลือกฟังก์ชัน Procedure
 - ไปที่ Posting from Inventory มีให้เลือก 2 Option ได้แก่
 

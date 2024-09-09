@@ -9,7 +9,7 @@ lang: th-TH
 
 Function นี้ใช้สำหรับการบันทึกใบแจ้งหนี้ หรือ ใบกำกับภาษี และใบลดหนี้ ในระบบ
 
-1. คลิกเข้าสู่ Account Payable Module
+1. Click เข้าสู่ Account Payable Module
 
 2. เลือกฟังก์ชัน Invoice
 

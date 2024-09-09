@@ -11,7 +11,7 @@ Function นี้ใช้สำหรับบันทึกประเภ�
 
 ## การเพิ่ม Payment Type
 
-1.1. คลิกเมนู Configuration
+1.1. Click เมนู Configuration
 
 1.2. เลือก Payment type
 
@@ -46,7 +46,7 @@ Function นี้ใช้สำหรับบันทึกประเภ�
 
 2.1. กดปุ่ม Payment Type
 
-2.2. คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Payment Code ที่ต้องการแก้ไข
+2.2. Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Payment Code ที่ต้องการแก้ไข
 
 ![alt text](image-42.png)
 
@@ -73,7 +73,7 @@ Function นี้ใช้สำหรับบันทึกประเภ�
 
 3.1 กดปุ่ม Payment Type
 
-3.2 คลิกที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Payment Code ที่ต้องการลบ
+3.2 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> หน้า Payment Code ที่ต้องการลบ
 
 ![alt text](image-44.png)
 
