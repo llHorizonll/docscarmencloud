@@ -22,10 +22,10 @@ lang: th-TH
 **หมายเหตุ** เครื่องหมาย <span class="asterisk">\*</span>
 (สัญลักษณ์ \* ช่องที่จำเป็นต้องระบุ)
 
-- <span class="asterisk">\*</span> Department กำหนดแผนกที่ต้องการป้อนข้อมูล
-- <span class="asterisk">\*</span> Account# กำหนดรหัสบัญชีที่ต้องการป้อนข้อมูล
-- Period รอบปีงบประมาณ
-- Number กำหนดจำนวน Budget ต่อเดือน และบันทึกเป็นรายปี
+- <span class="asterisk">\*</span> Department > กำหนดแผนกที่ต้องการป้อนข้อมูล
+- <span class="asterisk">\*</span> Account# > กำหนดรหัสบัญชีที่ต้องการป้อนข้อมูล
+- Period > รอบปีงบประมาณ
+- Number > กำหนดจำนวน Budget ต่อเดือน และบันทึกเป็นรายปี
 
 ---
 
