@@ -22,9 +22,9 @@ lang: th-TH
 **หมายเหตุ** เครื่องหมาย <span class="asterisk">\*</span>
 (สัญลักษณ์ \* ช่องที่จำเป็นต้องระบุ)
 
-- <span class="asterisk">\*</span> Code กำหนดรหัสแผนก
-- Description กำนดชื่อแผนก
-- Select Account code ใช้กำหนดรหัสบัญชีที่สามารถใช้คู่กับแผนกได้ เช่น แผนก Front Office สามารถใช้ได้เฉพาะ Account code ในหมวดรายได้ค่าห้องเท่านั้น
+- <span class="asterisk">\*</span> Code > กำหนดรหัสแผนก
+- Description > กำนดชื่อแผนก
+- Select Account code > ใช้กำหนดรหัสบัญชีที่สามารถใช้คู่กับแผนกได้ เช่น แผนก Front Office สามารถใช้ได้เฉพาะ Account code ในหมวดรายได้ค่าห้องเท่านั้น
   จะช่วยป้องกัน user เลือก Account code ผิดแผนกได้
 - กด **<span class="btn">SAVE</span>** เพื่อบันทึกข้อมูล หรือ Cancel เพื่อยกเลิก
 
