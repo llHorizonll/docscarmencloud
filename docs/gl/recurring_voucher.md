@@ -22,12 +22,12 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 **หมายเหตุ** เครื่องหมาย <span class="asterisk">\*</span>
 (สัญลักษณ์ \* ช่องที่จำเป็นต้องระบุ)
 
-- <span class="asterisk">\*</span> Prefix กำหนดประเภทสมุดบัญชีที่ต้องการสร้าง Template
-- Type กำหนดประเภท ระบบ Default เป็น “Recurring”
-- Description กำหนดคำอธิบายที่ต้องการให้แสดงในหน้า JV
-- From กำหนด Period เริ่มต้นบันทึก JV
-- To กำหนด Period สิ้นสุดการบันทึก JV
-- Recurring Every Period กำหนดรอบของเดือน (Period) ให้ระบบสร้าง JV โดยอัตโนมัติ เช่น
+- <span class="asterisk">\*</span> Prefix > กำหนดประเภทสมุดบัญชีที่ต้องการสร้าง Template
+- Type > กำหนดประเภท ระบบ Default เป็น “Recurring”
+- Description > กำหนดคำอธิบายที่ต้องการให้แสดงในหน้า JV
+- From > กำหนด Period เริ่มต้นบันทึก JV
+- To > กำหนด Period สิ้นสุดการบันทึก JV
+- Recurring Every Period > กำหนดรอบของเดือน (Period) ให้ระบบสร้าง JV โดยอัตโนมัติ เช่น
   - 1 คือ สร้าง 1 JV ในทุก ๆ 1 เดือน
   - 2 คือ สร้าง 1 JV ในทุก ๆ 2 เดือน
   - 3 คือ สร้าง 1 JV ในทุก ๆ 3 เดือน (ไตรมาส)
@@ -43,13 +43,13 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 **หมายเหตุ** เครื่องหมาย <span class="asterisk">\*</span>
 (สัญลักษณ์ \* ช่องที่จำเป็นต้องระบุ)
 
-- <span class="asterisk">\*</span> Department กำหนด Department Code
-- <span class="asterisk">\*</span> Account # กำหนด Account code
-- Comment คำอธิบายรายการ
-- <span class="asterisk">\*</span> Currency กำหนด Currency Code
-- <span class="asterisk">\*</span> Rate กำหนด Currency Rate
-- <span class="asterisk">\*</span> Amount Dr / Amount Cr ใส่ยอดที่ต้องการบันทึก
-- Dimension ใส่ข้อมูล Dimension (ถ้ามี)
+- <span class="asterisk">\*</span> Department > กำหนด Department Code
+- <span class="asterisk">\*</span> Account # > กำหนด Account code
+- Comment > คำอธิบายรายการ
+- <span class="asterisk">\*</span> Currency > กำหนด Currency Code
+- <span class="asterisk">\*</span> Rate > กำหนด Currency Rate
+- <span class="asterisk">\*</span> Amount Dr / Amount Cr > ใส่ยอดที่ต้องการบันทึก
+- Dimension > ใส่ข้อมูล Dimension (ถ้ามี)
 
 ---
 
