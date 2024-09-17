@@ -22,19 +22,19 @@ Function นี้ใช้สำหรับการ post ข้อมูล C
 
 5. ระบบจะแสดงข้อมูลให้เลือกดังนี้
 
-- From กำหนดวันที่เริ่มต้นที่ต้องการ post ข้อมูล
-- To กำหนดวันที่สิ้นสุดที่ต้องการ post ข้อมูล
-  Select Balance Account กำหนดข้อมูลในการบันทึกบัญชี
-- Department กำหนดแผนก
-- Dr. Acc. Code กำหนดบัญชีด้าน Debit เพื่อบันทึกบัญชีในใบแจ้งหนี้ Invoice
-- Cr. Acc. Code กำหนดบัญชีด้าน Credit เพื่อบันทึกบัญชีในใบแจ้งหนี้ Invoice
-- Tax กำหนดบัญชีภาษีขายเพื่อบันทึกบัญชีในใบแจ้งหนี้ Invoice
-- Tax Type วิธีการคำนวณภาษีขาย
+- From > กำหนดวันที่เริ่มต้นที่ต้องการ post ข้อมูล
+- To > กำหนดวันที่สิ้นสุดที่ต้องการ post ข้อมูล
+  Select Balance Account > กำหนดข้อมูลในการบันทึกบัญชี
+- Department > กำหนดแผนก
+- Dr. Acc. Code > กำหนดบัญชีด้าน Debit เพื่อบันทึกบัญชีในใบแจ้งหนี้ Invoice
+- Cr. Acc. Code > กำหนดบัญชีด้าน Credit เพื่อบันทึกบัญชีในใบแจ้งหนี้ Invoice
+- Tax > กำหนดบัญชีภาษีขายเพื่อบันทึกบัญชีในใบแจ้งหนี้ Invoice
+- Tax Type > วิธีการคำนวณภาษีขาย
   - Add = ราคายังไม่รวมภาษีขาย
   - Include = ราคารวมภาษีขาย
   - None = ไม่มีภาษีขาย
-- Tax Rate กำหนด % ของภาษีขาย
-- Mapping Code กดปุ่มนี้เพื่อทำการแก้ไขการ mapping ข้อมูล Guest / Credit Card กับ AR Profile
+- Tax Rate > กำหนด % ของภาษีขาย
+- Mapping Code > กดปุ่มนี้เพื่อทำการแก้ไขการ mapping ข้อมูล Guest / Credit Card กับ AR Profile
 
 6. กด **<span class="btn">POST</span>** เพื่อยืนยันการ post ข้อมูลจากระบบ PMS
 
