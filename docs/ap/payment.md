@@ -87,7 +87,7 @@ Function นี้ใช้สำหรับการชำระเงิน�
 
 7.  เลื่อน scroll bar ลงที่ด้านล่างสุด ให้กำหนดรหัสผังบัญชีที่จะใช้บันทึกบัญชีไปที่ General Ledger Module ดังต่อไปนี้ <br/>
     <img src="./image-30.png" style="display: inline-block;" /><br/>
-    7.1. Payment Account กำหนดรหัสบัญชีที่จะใช้บันทึกการตัดจ่าย เช่น บัญชี Bank<br/>
+    7.1. Payment Account > กำหนดรหัสบัญชีที่จะใช้บันทึกการตัดจ่าย เช่น บัญชี Bank<br/>
 
     - <span class="asterisk">\*</span> Dept. Code > กำหนด Department Code สำหรับใช้บันทึกบัญชี <br/>
     - <span class="asterisk">\*</span> Acc. Code > กำหนด Account Code สำหรับใช้บันทึกบัญชี<br/>
