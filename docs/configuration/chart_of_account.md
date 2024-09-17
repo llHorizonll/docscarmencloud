@@ -19,24 +19,24 @@ lang: th-TH
 (สัญลักษณ์ \* ช่องที่จำเป็นต้องระบุ)
 
 - <span class="asterisk">\*</span> กำหนดรหัสบัญชี
-- Status กำหนด สถานะของ Account Code
-  - Active เปิดใช้งาน
-  - In-active ปิดไม่ให้ใช้งาน
-- <span class="asterisk">\*</span> Description ระบุคำอธิบายภาษาอังกฤษ
-- <span class="asterisk">\*</span> Description (Local) ระบุคำอธิบายภาษาไทย
-- <span class="asterisk">\*</span> Nature กำหนดลักษณะตามผังบัญชี 5 ประเภท (เมื่อมีการนำ Account Code ไปใช้ในการบันทึกบัญชีแล้ว จะไม่สามารถแก้ไข หรือเปลี่ยน Acc. Nature ได้)
+- Status > กำหนด สถานะของ Account Code
+  - Active > เปิดใช้งาน
+  - In-active > ปิดไม่ให้ใช้งาน
+- <span class="asterisk">\*</span> Description > ระบุคำอธิบายภาษาอังกฤษ
+- <span class="asterisk">\*</span> Description (Local) > ระบุคำอธิบายภาษาไทย
+- <span class="asterisk">\*</span> Nature > กำหนดลักษณะตามผังบัญชี 5 ประเภท (เมื่อมีการนำ Account Code ไปใช้ในการบันทึกบัญชีแล้ว จะไม่สามารถแก้ไข หรือเปลี่ยน Acc. Nature ได้)
   - หมวด 1 สินทรัพย์ Dr.
   - หมวด 2 หนี้สิน Cr
   - หมวด 3 ทุน Cr.
   - หมวด 4 รายได้ Cr.
   - หมวด 5 ค่าใช้จ่าย Dr.
-- <span class="asterisk">\*</span>Type กำหนดประเภทของรหัสบัญชีในระบบมี 4 ประเภท คือ
-  - Header หมวดบัญชีคุม ไม่ถูกนำคำนวณในการบันทึกบัญชี
-  - Balance Sheet รหัสบัญชีที่สัมพันธ์กับงบดุล
-  - Income Statement รหัสบัญชีที่สัมพันธ์กับงบกำไรขาดทุน
+- <span class="asterisk">\*</span>Type > กำหนดประเภทของรหัสบัญชีในระบบมี 4 ประเภท คือ
+  - Header > หมวดบัญชีคุม ไม่ถูกนำคำนวณในการบันทึกบัญชี
+  - Balance Sheet > รหัสบัญชีที่สัมพันธ์กับงบดุล
+  - Income Statement > รหัสบัญชีที่สัมพันธ์กับงบกำไรขาดทุน
     เมื่อทำขั้นตอน Year End ระบบจะกลับบัญชีในหมวดรายได้และค่าใช้ให้เป็น 0 และบันทึกกำไรขาดทุนตอนสิ้นปีให้อัตโนมัติ
-  - Statistic รหัสบัญชีที่ใช้ในการบันทึกข้อมูลทางสถิติ
-- <span class="asterisk">\*</span>Available In Module กำหนด Module ที่สามารถใช้รหัสบัญชีนี้ได้โดยการติ๊กเครื่องหมายถูกหน้า Module เพื่อป้องกันการบันทึกรหัสบัญชีใน Module ที่ไม่ต้องการ
+  - Statistic > รหัสบัญชีที่ใช้ในการบันทึกข้อมูลทางสถิติ
+- <span class="asterisk">\*</span>Available In Module > กำหนด Module ที่สามารถใช้รหัสบัญชีนี้ได้โดยการติ๊กเครื่องหมายถูกหน้า Module เพื่อป้องกันการบันทึกรหัสบัญชีใน Module ที่ไม่ต้องการ
 
   - Account Payable
   - Account Receivable
