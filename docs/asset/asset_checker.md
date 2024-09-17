@@ -26,10 +26,10 @@ Asset checker สามารถใช้ได้บน Browser เช่น Ch
 
 5. สามารถกรอกข้อมูลเพื่อ Update ดังนี้
 
-- Location ทำการบันทึก location ที่พบสินทรัพย์นี้
-- Serial Number บันทึก Serial number ของสินทรัพย์ เพื่อ update ข้อมูลเข้าระบบ
-- Specification บันทึก specification ของสินทรัพย์ เพื่อ update ข้อมูลเข้าระบบ
-- Remark บันทึกข้อมูลเพิ่มเติมของสินทรัพย์เข้าระบบ
+- Location > ทำการบันทึก location ที่พบสินทรัพย์นี้
+- Serial Number > บันทึก Serial number ของสินทรัพย์ เพื่อ update ข้อมูลเข้าระบบ
+- Specification > บันทึก specification ของสินทรัพย์ เพื่อ update ข้อมูลเข้าระบบ
+- Remark > บันทึกข้อมูลเพิ่มเติมของสินทรัพย์เข้าระบบ
 
 6. กด **<span class="btn">SAVE</span>** เพื่อบันทึกข้อมูลสินทรัพย์รหัสดังกล่าว
 
