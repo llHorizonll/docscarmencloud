@@ -19,11 +19,11 @@ lang: th-TH
 
 1.4. ระบบจะแสดงหน้าต่าง Unit ให้ระบุข้อมูลดังต่อไปนี้
 
-- Code กำหนด Unit Code
-- Status กำหนด Status ของ Unit
-  - Active เปิดให้ใช้งาน
-  - Inactive ปิดไม่ให้ใช้งาน
-- Description ระบุชื่อของหน่วยที่จะใช้
+- Code > กำหนด Unit Code
+- Status > กำหนด Status ของ Unit
+  - Active > เปิดให้ใช้งาน
+  - Inactive > ปิดไม่ให้ใช้งาน
+- Description > ระบุชื่อของหน่วยที่จะใช้
 
 ---
 
