@@ -21,7 +21,7 @@ Function นี้ใช้สำหรับการชำระเงิน�
 
 **หมายเหตุ** เครื่องหมาย <span class="asterisk">\*</span> คือช่องที่จำเป็นต้องระบุ
 
-- Payment No เลขลำดับที่ของใบชำหระหนี้ (ระบบจะกำหนดโดยอัตโนมัติ)
+- Payment No > เลขลำดับที่ของใบชำหระหนี้ (ระบบจะกำหนดโดยอัตโนมัติ)
 - <span class="asterisk">\*</span> Payment Date > วันที่สร้างเอกสารทำจ่าย (Payment Prepare)
 - <span class="asterisk">\*</span> Vendor > ระบุรหัสหรือชื่อเจ้าหนี้ (สามารถพิมพ์รหัส หรือ ชื่อ ลงในช่อง \*Vendor เพื่อค้นหาได้เลย)
 - <span class="asterisk">\*</span> Currency > ระบุสกุลเงิน (ระบบจะใช้ข้อมูล Default ตามที่ตั้งค่าไว้ใน Setting)
