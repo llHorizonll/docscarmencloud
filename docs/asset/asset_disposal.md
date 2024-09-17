@@ -51,58 +51,58 @@ lang: th-TH
 
 3.1.1 Asset Disposal ข้อมูลของสินทรัพย์ที่ต้องการตัดจำหน่าย
 
-- Asset No. รหัสสินทรัพย์ และเลขลำดับที่
-- Name ชื่อสินทรัพย์
-- Input Date วันที่บันทึกสินทรัพย์เข้าระบบ
-- Category ประเภทสินทรัพย์
-- Department แผนกที่เป็นเจ้าของสินทรัพย์
-- Acquire Date วันที่เริ่มคำนวณค่าเสื่อมของสินทรัพย์จริง
-- Location สถานที่ตั้งสินทรัพย์
-- Serial No. หมายเลข Serial ของสินทรัพย์
-- Specification รายละเอียดสินทรัพย์
-- Remark หมายเหตุ หรือ ข้อมูลเพิ่มเติมสำหรับสินทรัพย์
+- Asset No. > รหัสสินทรัพย์ และเลขลำดับที่
+- Name > ชื่อสินทรัพย์
+- Input Date > วันที่บันทึกสินทรัพย์เข้าระบบ
+- Category > ประเภทสินทรัพย์
+- Department > แผนกที่เป็นเจ้าของสินทรัพย์
+- Acquire Date > วันที่เริ่มคำนวณค่าเสื่อมของสินทรัพย์จริง
+- Location > สถานที่ตั้งสินทรัพย์
+- Serial No. > หมายเลข Serial ของสินทรัพย์
+- Specification > รายละเอียดสินทรัพย์
+- Remark > หมายเหตุ หรือ ข้อมูลเพิ่มเติมสำหรับสินทรัพย์
 
 ![alt text](image-38.png)
 
 3.1.2 Remain Value มูลค่าคงเหลือของสินทรัพย์ที่ตัดจำหน่าย ณ วันที่ตัดจำหน่าย
 
-- Last Cost มูลค่าของสินทรัพย์ต่อชิ้น
-- Available จำนวนคงเหลือของสินทรัพย์
-- Total Value มูลค่าทั้งหมดของสินทรัพย์
-- Accu Depre ค่าเสื่อมราคาสะสมของสินทรัพย์
-- Netbook Value มูลค่าคงเหลือของสินทรัพย์
+- Last Cost > มูลค่าของสินทรัพย์ต่อชิ้น
+- Available > จำนวนคงเหลือของสินทรัพย์
+- Total Value > มูลค่าทั้งหมดของสินทรัพย์
+- Accu Depre > ค่าเสื่อมราคาสะสมของสินทรัพย์
+- Netbook Value > มูลค่าคงเหลือของสินทรัพย์
 
 3.1.3 Disposal ข้อมูลการตัดจำหน่าย
 
-- Disposal Type \* เลือกประเภทการตัดจำหน่ายเป็น Amount หรือ Quantity (ปัจจุบันระบบจะรองรับแบบ Quantity เท่านั้น)
-- Disposal Date \* ระบุวันที่ ที่ต้องการตัดจำหน่ายสินทรัพย์
-- Amount/Unit \* ระบุมูลค่าของสินทรัพย์ที่ต้องการตัดจำหน่าย (หากเลือก Disposal Typeเป็น Amount)
-- QTY. \* ระบุจำนวนสินทรัพย์ที่ต้องการตัดจำหน่าย (หากเลือก Disposal Typeเป็น QTY.)
-- Total Asset Value มูลค่าสินทรัพย์ที่ต้องการตัดจำหน่าย
+- Disposal Type \* > เลือกประเภทการตัดจำหน่ายเป็น Amount หรือ Quantity (ปัจจุบันระบบจะรองรับแบบ Quantity เท่านั้น)
+- Disposal Date \* > ระบุวันที่ ที่ต้องการตัดจำหน่ายสินทรัพย์
+- Amount/Unit \* > ระบุมูลค่าของสินทรัพย์ที่ต้องการตัดจำหน่าย (หากเลือก Disposal Typeเป็น Amount)
+- QTY. \* > ระบุจำนวนสินทรัพย์ที่ต้องการตัดจำหน่าย (หากเลือก Disposal Typeเป็น QTY.)
+- Total Asset Value > มูลค่าสินทรัพย์ที่ต้องการตัดจำหน่าย
 
 3.1.4 Sale Value มูลค่าการขาย หรือตัดจำหน่าย
 
-- Sale Amount ระบุราคาขาย หรือมูลค่าตัดจำหน่าย
-- Net Book Value มูลค่าคงเหลือของสินทรัพย์ที่ตัดจำหน่าย
-- Gain/Loss Amount กำไรขาดทุนจากการขายสินทรัพย์ (Sale Amount – Net Book Value)
+- Sale Amount > ระบุราคาขาย หรือมูลค่าตัดจำหน่าย
+- Net Book Value > มูลค่าคงเหลือของสินทรัพย์ที่ตัดจำหน่าย
+- Gain/Loss Amount > กำไรขาดทุนจากการขายสินทรัพย์ (Sale Amount – Net Book Value)
 
 ![alt text](image-39.png)
 
-3.1.5 Asset Account การบันทึกบัญชีเพื่อลดยอดสินทรัพย์และค่าเสื่อมราคาสะสม (ระบบจะใช้ข้อมูล default ที่ตั้งค่าไว้ในรหัสสินทรัพย์นั้น)
+3.1.5 Asset Account > การบันทึกบัญชีเพื่อลดยอดสินทรัพย์และค่าเสื่อมราคาสะสม (ระบบจะใช้ข้อมูล default ที่ตั้งค่าไว้ในรหัสสินทรัพย์นั้น)
 
-- Asset Department ระบุ Department code ของสินทรัพย์ที่จะขาย (ใส่ GEN ได้เนื่องจาก Account code ในหมวด Balance Sheet ไม่จำเป็นต้อง ระบุแผนก)
-- Asset Account (Credit) ระบุ Account code ของสินทรัพย์ที่ตัดจำหน่ายเพื่อลดยอดสินทรัพย์ทางบัญชี
-- Accu. Department ระบุ Department code ของค่าเสื่อมราคาสะสม
-- Accu. Account (Debit) ระบุ Account code ของค่าเสื่อมราคาสะสมเพื่อลดยอดค่าเสื่อมราคาสะสมทางบัญชี
+- Asset Department > ระบุ Department code ของสินทรัพย์ที่จะขาย (ใส่ GEN ได้เนื่องจาก Account code ในหมวด Balance Sheet ไม่จำเป็นต้อง ระบุแผนก)
+- Asset Account (Credit) > ระบุ Account code ของสินทรัพย์ที่ตัดจำหน่ายเพื่อลดยอดสินทรัพย์ทางบัญชี
+- Accu. Department > ระบุ Department code ของค่าเสื่อมราคาสะสม
+- Accu. Account (Debit) > ระบุ Account code ของค่าเสื่อมราคาสะสมเพื่อลดยอดค่าเสื่อมราคาสะสมทางบัญชี
 
 ![alt text](image-40.png)
 
-3.1.6 Disposal Account การบันทึกบัญชีเพื่อบันทึกกำไรขาดทุนจากการขายสินทรัพย์และเงินสด หรือเงินฝากธนาคารที่ได้รับจากการขายหรือตัดจำหน่าย
+3.1.6 Disposal Account > การบันทึกบัญชีเพื่อบันทึกกำไรขาดทุนจากการขายสินทรัพย์และเงินสด หรือเงินฝากธนาคารที่ได้รับจากการขายหรือตัดจำหน่าย
 
-- Gain/Loss Department ระบุ Department code ของกำไรขาดทุนจากการขายสินทรัพย์
-- Gain/Loss Account ระบุ Account code ของกำไรขาดทุนจากการขายสินทรัพย์
-- Sale Department ระบุ Department code ของเงินสด หรือเงินฝากธนาคาร
-- Sale Account (Debit) ระบุ Account code ของเงินสด หรือเงินฝากธนาคาร
+- Gain/Loss Department > ระบุ Department code ของกำไรขาดทุนจากการขายสินทรัพย์
+- Gain/Loss Account > ระบุ Account code ของกำไรขาดทุนจากการขายสินทรัพย์
+- Sale Department > ระบุ Department code ของเงินสด หรือเงินฝากธนาคาร
+- Sale Account (Debit) > ระบุ Account code ของเงินสด หรือเงินฝากธนาคาร
 
 3.1.7 กดปุ่ม **<span class="btn">SAVE</span>** เพื่อบันทึก Disposal หรือ Cancel เพื่อยกเลิก
 
