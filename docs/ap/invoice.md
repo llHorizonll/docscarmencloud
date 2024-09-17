@@ -49,13 +49,13 @@ Function นี้ใช้สำหรับการบันทึกใบ�
 
 5. กดปุ่ม เพื่อเพิ่มข้อมูลในส่วนของInvoice Detail ระบบจะแสดงหน้าต่างขึ้นมาให้ระบุข้อมูลดังต่อไปนี้
 
-- <span class="asterisk">\*</span> Department กำหนด Department Code ที่จะใช้ในการบันทึกบัญชีที่ GL
+- <span class="asterisk">\*</span> Department > กำหนด Department Code ที่จะใช้ในการบันทึกบัญชีที่ GL
 - Comment ใส่รายละเอียดรายละเอียดของสินค้า หรือ บริการ
-- <span class="asterisk">\*</span> Unit หน่วยซื้อ
-- <span class="asterisk">\*</span> Qty. จำนวนที่ซื้อ
-- <span class="asterisk">\*</span> Price/Unit ราคาต่อหน่วย
-- <span class="asterisk">\*</span> Dr Acc Code รหัสบัญชีค่าใช้จ่าย
-- <span class="asterisk">\*</span> Cr Acc. Code รหัสบัญชีเจ้าหนี้การค้า
+- <span class="asterisk">\*</span> Unit > หน่วยซื้อ
+- <span class="asterisk">\*</span> Qty. > จำนวนที่ซื้อ
+- <span class="asterisk">\*</span> Price/Unit > ราคาต่อหน่วย
+- <span class="asterisk">\*</span> Dr Acc Code > รหัสบัญชีค่าใช้จ่าย
+- <span class="asterisk">\*</span> Cr Acc. Code > รหัสบัญชีเจ้าหนี้การค้า
 
   **Vat 1 คือ ภาษีมูลค่าเพิ่ม**
 
