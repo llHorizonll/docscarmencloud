@@ -25,7 +25,7 @@ lang: th-TH
     <img src="./image-34.png"  />
 </p>
 
-ระแบบจะแสดงรายการสินทรัพย์ที่สามารถ disposal ได้
+ระบบจะแสดงรายการสินทรัพย์ที่สามารถ disposal ได้
 
 1.6 กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหาสินทรัพย์ที่ต้องการได้
 
