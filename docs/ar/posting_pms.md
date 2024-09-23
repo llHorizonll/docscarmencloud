@@ -37,6 +37,7 @@ Function นี้ใช้สำหรับการ post ข้อมูล C
 - Mapping Code > กดปุ่มนี้เพื่อทำการแก้ไขการ mapping ข้อมูล Guest / Credit Card กับ AR Profile
 
 6. กด **<span class="btn">POST</span>** เพื่อยืนยันการ post ข้อมูลจากระบบ PMS
+(image-78.png)
 
 ## การ Mapping รหัสลูกหนี้ ระหว่าง Carmen และ PMS
 
