@@ -27,7 +27,7 @@ Dashboard จะนำข้อมูลที่มีการบันทึ�
 
 **วิธีการตั้งค่าเพื่อแสดงข้อมูล**
 
-1.  Click ที่ปุ่ม ![image info](image7.png) ด้านหลังของ Dashboard
+1.  Click ที่ปุ่ม <img src="./image7.png" style="display: inline-block;" /> ด้านหลังของ Dashboard
 
 2.  กำหนดข้อมูลดังต่อไปนี้
 
@@ -63,7 +63,7 @@ Dashboard จะนำข้อมูลที่มีการบันทึ�
 
 **วิธีการตั้งค่าเพื่อแสดงข้อมูล**
 
-1.  Click ที่ปุ่ม ![image info](image7.png) ด้านหลังของ Dashboard
+1.  Click ที่ปุ่ม <img src="./image7.png" style="display: inline-block;" /> ด้านหลังของ Dashboard
 
 2.  กำหนดข้อมูลดังต่อไปนี้
 
@@ -90,7 +90,7 @@ Dashboard จะนำข้อมูลที่มีการบันทึ�
 
 **วิธีการตั้งค่าเพื่อแสดงข้อมูล**
 
-1.  Click ที่ปุ่ม ![image info](image7.png) ด้านหลังของ Dashboard
+1.  Click ที่ปุ่ม <img src="./image7.png" style="display: inline-block;" /> ด้านหลังของ Dashboard
 
 2.  กำหนดข้อมูลดังต่อไปนี้
 
@@ -137,7 +137,7 @@ Dashboard จะนำข้อมูลที่มีการบันทึ�
 
 **วิธีการตั้งค่าเพื่อแสดงข้อมูล**
 
-1.  Click ที่ปุ่ม ![image info](image7.png) ด้านหลังของ Dashboard
+1.  Click ที่ปุ่ม <img src="./image7.png" style="display: inline-block;" /> ด้านหลังของ Dashboard
 
 2.  กำหนดข้อมูลดังต่อไปนี้
 
