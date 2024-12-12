@@ -13,7 +13,11 @@ export default defineConfig({
         text: "Changelog",
         items: [
           {
-            text: "🆕 August2024 Relaese Infomation",
+            text: "🆕 November2024 Relaese Infomation",
+            link: "/nov2024",
+          },
+          {
+            text: "August2024 Relaese Infomation",
             link: "/aug2024",
           },
           {
