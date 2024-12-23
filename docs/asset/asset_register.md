@@ -82,7 +82,7 @@ Asset Account กำหนดรหัส Department Code และ Account Code
     <img src="./image-13.png"  />
 </p>
 
-## Videoประกอบ 
+## Video ประกอบ 
 
 ### Asset Registration | การลงทะเบียนสินทรัพย์ 
 
@@ -149,9 +149,9 @@ Asset Account กำหนดรหัส Department Code และ Account Code
     <img src="./image-20.png"  />
 </p>
 
-## Videoประกอบ 
+## Video ประกอบ 
 
-### Asset Registration | การลงทะเบียนสินทรัพย์ 
+### Asset Registration | การลงทะเบียนสินทรัพย์หลายชิ้นในคราวเดียว 
 
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2T6wIdPu_Kg?si=oGA4fRIEoMjna4iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
