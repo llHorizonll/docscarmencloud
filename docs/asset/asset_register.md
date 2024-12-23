@@ -78,7 +78,16 @@ Asset Account กำหนดรหัส Department Code และ Account Code
   1.6 เมื่อ save แล้ว ระบบจะทำการคำนวณค่าเสื่อมราคาเอาไว้ให้ล่วงหน้า ตั้งแต่วันเริ่มต้น จนสิ้นสุด
   หมายเหตุ: หัวข้อที่มีเครื่องหมาย \* อยู่ด้านหน้าคือข้อมูลที่จำเป็นต้องระบุ
 
-![alt text](image-13.png)
+<p align="center">
+    <img src="./image-13.png"  />
+</p>
+
+## Videoประกอบ 
+
+### Asset Registration | การลงทะเบียนสินทรัพย์ 
+
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hnREj9whgUc?si=MqybJ9QImp5b_-g9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## วิธีคำนวณค่าเสื่อมราคา
 
@@ -226,13 +235,4 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 ## ตัวอย่าง JV สำหรับการบันทึกบัญชีค่าเสื่อมราคาจากการ Posting Asset to GL
 
 ![alt text](image-29.png)
-<p align="center">
-    <img src="./image-30.png"  />
-</p>
-
-## Videoประกอบ 
-
-### Asset Registration | การลงทะเบียนสินทรัพย์ 
-
-<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hnREj9whgUc?si=MqybJ9QImp5b_-g9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![alt text](image-30.png)
