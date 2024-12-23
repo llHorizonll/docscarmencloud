@@ -7,6 +7,8 @@ lang: th-TH
 
 Function นี้ใช้สำหรับการ Post ข้อมูลรายการทรัพย์สินที่ผ่านขั้นตอนการซื้อจาก Module Receiving หรือ AP เพื่อนำรายละเอียดสินค้า และราคาสินค้ามาใช้สำหรับบันทึกทรัพย์สินและใช้คำนวนค่าเสื่อมราคา โดยสามารถดึงข้อมูลตามขั้นตอนดังนี้
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hnREj9whgUc?si=MqybJ9QImp5b_-g9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **หมายเหตุ**
 
 - จะต้องทำการตัดสินใจว่าจะ post ข้อมูลจาก Receiving หรือ AP
