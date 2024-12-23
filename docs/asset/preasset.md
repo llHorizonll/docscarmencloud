@@ -74,6 +74,7 @@ Function นี้ใช้สำหรับการ Post ข้อมูล�
 ![alt text](image-10.png)
 
 ---
+
 วีดีโอประกอบ
 ## Asset Registration | การลงทะเบียนสินทรัพย์
 
