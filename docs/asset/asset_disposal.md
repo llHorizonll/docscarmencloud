@@ -31,7 +31,16 @@ lang: th-TH
 
 1.7 จากนั้นเลือกสินทรัพย์ที่ต้องการตัดจำหน่าย
 
-![alt text](image-35.png)
+<p align="center">
+    <img src="./image-35.png"  />
+</p>
+
+## Video ประกอบ 
+
+### Disposal Asset | การขาย หรือ ตัดจำหน่ายทรัพย์สินพร้อมบันทึกบัญชีตัดจำหน่าย 
+
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hPNbGS4j_00?si=I15pteF_4LEzfbhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## การตัดจำหน่ายสินทรัพย์ที่ Asset Register
 
