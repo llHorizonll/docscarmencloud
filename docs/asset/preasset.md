@@ -71,7 +71,9 @@ Function นี้ใช้สำหรับการ Post ข้อมูล�
     + **Posted** > ข้อมูลถูกบันทึกเป็นทรัพย์สินแล้ว
     + **Void** > ข้อมูลถูกยกเลิก
 
-![alt text](image-10.png)
+<p align="center">
+    <img src="./image-10.png"  />
+</p>
 
 --- 
 
