@@ -136,3 +136,7 @@ Function นี้ใช้สำหรับการรับชำระห�
 <p align="center">
     <img src="./image-6.png"  />
 </p>
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Receipt | การสร้างใบเสร็จรับเงิน</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Wxfv97HItY?si=r8wZ-Sf3QECZ3rZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
