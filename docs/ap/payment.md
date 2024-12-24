@@ -133,3 +133,8 @@ Function นี้ใช้สำหรับการชำระเงิน�
 - กดปุ่ม <img src="../public/search_icon.svg" style="display: inline-block;" /> เพื่อค้นหา Payment <br/>
 - กดปุ่ม <img src="../public/cloud_download_icon.svg" style="display: inline-block;" /> เพื่อ Export ข้อมูลออกจากระบบเป็น .csv <br/>
 - กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล <br/>
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Payment | การชำระใบแจ้งหนี้</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sqoL-_wDfZ4?si=7Mv8diqm8hk_37If" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
