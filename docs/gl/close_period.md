@@ -45,3 +45,8 @@ lang: th-TH
 6. การปิดบัญชีนี้ เป็นการปิดรอบบัญชีในส่วนของ General Ledgers Module เท่านั้น
 
 7. หากต้องการเปิด Period ให้ FC, Account Manger หรือผู้มีอำนาจส่ง E-Mail ถึง Support เพื่อทำการขอเปิด Period
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Year Ending | การปิดปีบัญชี</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-8mV5Mkb2yk?si=wPnP1OMqwQldKfic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
