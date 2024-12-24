@@ -219,6 +219,12 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
     <img src="./image-4.png"  />
 </p>
 
+<p style="margin: 0;">Video ประกอบ</p>
+<h5 style="margin: 0;">Create and Apply Template Voucher | การสร้างเทมเพลทใบสำคัญบันทึกบัญชีและการนำไปใช้
+</h5>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ns4pX7l-JI?si=UTR98KtbWwuBCwdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## การใช้งานปุ่มอื่น ๆ หน้าจอ
 
 1.1. กดปุ่ม <img src="../public/edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไขเอกสาร JV ที่เปิดขึ้นมา
