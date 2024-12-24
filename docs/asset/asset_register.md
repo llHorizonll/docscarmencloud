@@ -82,9 +82,11 @@ Asset Account กำหนดรหัส Department Code และ Account Code
     <img src="./image-13.png" />
 </p>
 
-### Asset Registration | การลงทะเบียนสินทรัพย์ Video
+<p>Video</p>
+<h3>Asset Registration | การลงทะเบียนสินทรัพย์</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnREj9whgUc?si=MqybJ9QImp5b_-g9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## วิธีคำนวณค่าเสื่อมราคา
