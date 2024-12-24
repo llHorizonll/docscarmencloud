@@ -147,15 +147,14 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 2.7 ระบบแสดงรายการสินทรัพย์ที่ทำการคัดลอกสำเร็จ จากหน้าจอหนี้สามารถ Click เครื่องหมาย <img src="../public/edit_icon.svg" style="display: inline-block;" /> เพื่อทำการแก้ไขข้อมูลต่อไป
 
 <p align="center">
-    <img src="./image-20.png"  />
+    <img src="./image-20.png" />
 </p>
 
-## Video ประกอบ 
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Asset Registration | การลงทะเบียนสินทรัพย์หลายชิ้นในคราวเดียว</h3>
 
-### Asset Registration | การลงทะเบียนสินทรัพย์หลายชิ้นในคราวเดียว 
-
-<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2T6wIdPu_Kg?si=oGA4fRIEoMjna4iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## การบันทึกสินทรัพย์โดยใช้ข้อมูลจาก Pre-Register Asset
 
