@@ -131,4 +131,12 @@ Function ที่ใช้ในกรณี ต้องการเพิ่�
 
 ## ตัวอย่างรายงานภาษีซื้อ
 
-![alt text](image-50.png)
+
+<p align="center">
+    <img src="./image-50.png" />
+</p>
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Input Vat Reconciliation | การตรวจสอบรายการใบกำกับภาษีซื้อ</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9VefhfqbF1A?si=qDpprUdG2-2Z0hD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
