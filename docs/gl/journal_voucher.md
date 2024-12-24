@@ -66,6 +66,11 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
     <img src="./image-4.png"  />
 </p>
 
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Journal Voucher | การสร้างใบสำคัญบันทึกบัญชี</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1l56IQeyTPI?si=cprMY0-VDohZqRe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## การสร้าง Journal Voucher โดย Copy
 
 2.1 Click เข้าสู่ General Ledger Module
