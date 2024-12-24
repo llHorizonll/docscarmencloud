@@ -157,7 +157,14 @@ Carmen Work Book คือ Excel file ตาม Standard ของ Carmen ที
 
   4.4. กด Import to Budget เพื่อ upload ข้อมูลเข้าระบบ
 
-![alt text](image-27.png)
+<p align="center">
+    <img src="./image-27.png" />
+</p>
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Import Budget from Excel | การนำเข้างบประมาณจาก Excel</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7vcH7hh1_XQ?si=WyFsbs81Afjjp4sD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Account Detail
 
