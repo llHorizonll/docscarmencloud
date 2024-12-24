@@ -70,6 +70,10 @@ Carmen Work Book คือ Excel file ตาม Standard ของ Carmen ที
 <p align="center">
     <img src="./image-25.png"  />
 </p>
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Create JV from Excel | การสร้างใบสำคัญบันทึกบัญชีจาก Excel</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAl70vMVPCE?si=qYMwk9sOS7RPlG1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## JV Allocation Import
 
