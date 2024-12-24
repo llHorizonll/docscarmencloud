@@ -81,9 +81,8 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 <p align="center">
     <img src="./image-13.png"  />
 </p>
-<br/>
-Video ประกอบ
 
+Video ประกอบ
 ### Asset Registration | การลงทะเบียนสินทรัพย์ 
 
 <br/>
