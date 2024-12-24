@@ -176,6 +176,10 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 <p align="center">
     <img src="./image-15.png"  />
 </p>
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Copy Function on JV | การใช้คำสั่ง Copy ในการสร้างใบสำคัญบันทึกบัญชี</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G2GIeVFl_h4?si=EFRHIwDQ-bdRBJ3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## การสร้าง Journal Voucher จาก Template
 
