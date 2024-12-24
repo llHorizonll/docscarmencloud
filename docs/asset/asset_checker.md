@@ -58,3 +58,9 @@ Asset checker สามารถใช้ได้บน Browser เช่น Ch
 <p align="center">
     <img src="./image-53.png"  />
 </p>
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Mobile Asset Checking | การตรวจเช็คทรัพย์สินตามสถานที่ด้วยฟังค์ชั่นบนมือถือ
+</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hs4BcnsRCtM?si=_MG89F03PS5J3ia1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
