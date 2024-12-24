@@ -121,6 +121,11 @@ Function นี้ใช้ในกรณีที่ต้องการค�
     <img src="./image-6.png"  />
 </p>
 
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Invoice | การสร้างใบแจ้งหนี้</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQvEjdwqyKU?si=mSuRF8mQ1cr1AB-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## การสร้าง A/R Invoice จาก Folio
 
 เป็นการสร้างใบแจ้งหนี้ (Invoice) โดยอ้างอิงข้อมูลจาก PMS Interface เพื่อรับรู้ข้อมูลลง AR Aging เท่านั้น ดังนั้นใบแจ้งหนี้ที่บันทึกด้วยรายละเอียดของ Folio จะไม่มีการบันทึกบัญชีลงใน GL อีก เนื่องจากลูกหนี้ City Ledger หรือ Credit Card ได้ทำการบันทึกบัญชีในขั้นตอน interface กับ GL เรียบร้อยแล้ว
