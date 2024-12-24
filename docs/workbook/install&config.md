@@ -142,4 +142,11 @@ https://saledemo.carmen.blue/carmen.api
 
 8.2 กด Refresh เพื่อ update ข้อมูล
 
-![alt text](image-20.png)
+<p align="center">
+    <img src="./image-20.png" />
+</p>
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Setup | การตั้งค่าก่อนเริ่มใช้งาน</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y42UT8szy-M?si=8PvPXm1nOeV5OAWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
