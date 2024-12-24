@@ -121,4 +121,12 @@ Function นี้ใช้สำหรับการคัดลอกใบ�
 
 - ตัวอย่าง CN ในระบบ
 
-![alt text](image-20.png)
+
+<p align="center">
+    <img src="./image-20.png" />
+</p>
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Invoice | การสร้างใบแจ้งหนี้</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R69tQPAHvvQ?si=PBx7dNUed3E9i6Cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
