@@ -122,6 +122,6 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 4.3 กดปุ่ม <img src="../public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์ข้อมูล
 
 <p style="margin: 0;">Video ประกอบ</p>
-<h3 style="margin: 0;">Recurring Voucher | การสร้างใบสำคัญบันทึกบัญชีแบบประจำหรือกำหนดระยะเวลา</h3>
+<h4 style="margin: 0;">Recurring Voucher | การสร้างใบสำคัญบันทึกบัญชีแบบประจำหรือกำหนดระยะเวลา</h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_xGrmDp6cs?si=NzB0c9sx8-Ui3SBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
