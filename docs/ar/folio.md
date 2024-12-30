@@ -14,7 +14,7 @@ Function นี้ใช้สำหรับดู Transaction ที่มา�
 2. กด Folio เพื่อแสดงข้อมูล Folio
 
 <p align="center">
-   สำหรับ Folio ที่มีสัญลักษณ์ <img src="./visibility.png" style="display: inline-block;" /> อยู่ข้างหน้า แสดงว่า Folio นี้ยังไม่มีการสร้างใบแจ้งหนี้ Invoice ดังนั้น สามารถ Void Folio ใบดังกล่าวได้
+   สำหรับ Folio ที่มีสัญลักษณ์<img src="../public/delete_icon.svg" style="display: inline-block;" /> อยู่ข้างหน้า แสดงว่า Folio นี้ยังไม่มีการสร้างใบแจ้งหนี้ Invoice ดังนั้น สามารถ Void Folio ใบดังกล่าวได้
 </p>
 
 <p align="center">
