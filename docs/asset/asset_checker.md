@@ -34,7 +34,7 @@ Asset checker สามารถใช้ได้บน Browser เช่น Ch
 
 6. กด **<span class="btn">SAVE</span>** เพื่อบันทึกข้อมูลสินทรัพย์รหัสดังกล่าว
 
-![alt text](image-46.png)
+![alt text](image-46..png)
 
 ## การใส่ Comment และแนบภาพถ่ายเพิ่มเติม
 
