@@ -15,7 +15,7 @@ Function นี้ใช้สำหรับดู Transaction ที่มา�
 
 <p align="center">
    สำหรับ Folio ที่มีสัญลักษณ์<img src="../public/delete_icon.svg" style="display: inline-block;" /> อยู่ข้างหน้า แสดงว่า Folio นี้ยังไม่มีการสร้างใบแจ้งหนี้ Invoice ดังนั้น
-   <span style="display: block; text-align: left;">สามารถ Void Folio ใบดังกล่าวได้</span>
+   <span style="display: block; text-align: left;">สามารถ Void Folio ใบดังกล่าวได้ เพื่อใช้ในกรณีที่มีการ post folio ผิด หรือ Folio ที่ใช้ในการปรับปรุงจากระบบ PMS จึงไม่ต้องการออกใบแจ้งหนี้</span>
 </p>
 
 
