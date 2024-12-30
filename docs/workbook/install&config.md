@@ -11,7 +11,7 @@ Carmen Add-In ใช้สำหรับการส่งและรับข
 
 - Upload Transaction เข้าระบบ เช่น JV และ Budget ด้วย Carmen Workbook
 
-![alt text](image.png)
+
 
 ## ความต้องการพื้นฐานของเครื่อง Client (System requirement)
 
@@ -21,15 +21,14 @@ Carmen Add-In ใช้สำหรับการส่งและรับข
 
 ขั้นตอนการติดตั้ง Installation
 
-ขั้นตอนการติดตั้ง API สำหรับ Carmen Add In ขอยกตัวอย่างจากระบบ sale demo
+ขั้นตอนการติดตั้ง API สำหรับ Carmen Add In 
 
-https://saledemo.carmen.blue/
 
 ## การติดตั้ง Carmen Add in
 
 1.1 Download Excel Add-In จาก URL ของลูกค้าตามด้วย /carmen.api
 
-https://saledemo.carmen.blue/carmen.api
+https://xxxxx.carmen.blue/carmen.api
 
 1.2 Download Excel Add-In x32 หรือ x64 (32/64 Bit ขึ้นอยู่กับ Windows ของลูกค้า)
 
@@ -43,7 +42,7 @@ https://saledemo.carmen.blue/carmen.api
 ## การติดตั้ง Application Configuration
 
 2.1 Download Application Configuration จาก URL ของลูกค้าตามด้วย /carmen.api
-https://saledemo.carmen.blue/carmen.api
+https://xxxxx.carmen.blue/carmen.api
 
 2.2 Download Application Configuration x32 หรือ x64 (32/64 Bit ขึ้นอยู่กับ Windows ของลูกค้า)
 
