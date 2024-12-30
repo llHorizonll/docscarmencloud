@@ -26,6 +26,7 @@ Asset checker สามารถใช้ได้บน Browser เช่น Ch
 
 5. สามารถกรอกข้อมูลเพื่อ Update ดังนี้
 
+- Asset Photo > Cick ที่รูปสินทรัพย์เพื่อใส่รูปภาพของสินทรัพย์โดยใช้กล้องเพื่อถ่ายรูปสินทรัพย์หรือใช้รูปภาพที่มีอยู่แล้ว
 - Location > ทำการบันทึก location ที่พบสินทรัพย์นี้
 - Serial Number > บันทึก Serial number ของสินทรัพย์ เพื่อ update ข้อมูลเข้าระบบ
 - Specification > บันทึก specification ของสินทรัพย์ เพื่อ update ข้อมูลเข้าระบบ
