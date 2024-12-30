@@ -46,7 +46,7 @@ https://xxxxx.carmen.blue/carmen.api
 
 2.2 Download Application Configuration x32 หรือ x64 (32/64 Bit ขึ้นอยู่กับ Windows ของลูกค้า)
 
-![alt text](image-4.png)
+![alt text](image-1.png)
 
 2.3 Double Click ไฟล์ที่ download <img src="./image-5.png" style="display: inline-block;" />
 
