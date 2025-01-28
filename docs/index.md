@@ -39,7 +39,7 @@ features:
   - title: Carmen Work Book
     details: Carmen Add-In ใช้สำหรับการส่งและรับข้อมูลจากระบบผ่าน Excel
     link: /workbook/install&config
-  - title: TRAINING CENTER
-    details: kjhgg
-    link: /training_center/
+  - title: Training Center
+    details:
+    link: /carmencloud/
 ---
