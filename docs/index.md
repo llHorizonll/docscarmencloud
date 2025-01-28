@@ -41,5 +41,5 @@ features:
     link: /workbook/install&config
   - title: TRAINING CENTER
     details: kjhgg
-    link: /TRAINING CENTER/index.md, 
+    link: /training_center/
 ---
