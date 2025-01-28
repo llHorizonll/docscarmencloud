@@ -52,6 +52,7 @@ export default defineConfig({
       provider: "local",
     },
   },
+  cacheDir: './.vitepress/.vite'
 });
 
 function sidebarAll() {
