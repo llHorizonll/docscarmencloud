@@ -144,7 +144,7 @@ export default defineConfig({
       },
       {
         text: "TRAINING CENTER",
-        link: "/TRAINING CENTER/index.md",      
+        link: "/TRAINING CENTER/",      
       },
     ],
 
