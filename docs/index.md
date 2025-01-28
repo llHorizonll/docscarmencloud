@@ -41,5 +41,5 @@ features:
     link: /workbook/install&config
   - title: Training Center
     details:
-    link: /carmencloud/
+    link: /training_center/
 ---
