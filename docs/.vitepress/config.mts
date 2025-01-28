@@ -51,7 +51,7 @@ export default defineConfig({
         text: "General Ledger",
         collapsed: true,
         items: [
-          { text: "Journal Voucher", link: "/gl/journal_voucher" },
+          { text: "Journal Voucher", link: "/gl/journal_voucher"},
           { text: "Template Voucher", link: "/gl/template_voucher" },
           { text: "Recurring Voucher", link: "/gl/recurring_voucher" },
           { text: "Amortization Voucher", link: "/gl/amortization_voucher" },
@@ -141,6 +141,10 @@ export default defineConfig({
           { text: "Dimension", link: "/configuration/dimension" },
           { text: "Unit", link: "/configuration/unit" },
         ],
+      },
+      {
+        text: "TRAINING CENTER",
+        link: "/TRAINING CENTER/index.md",      
       },
     ],
 
