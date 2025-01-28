@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TRAINING CENTER",
+  title: "CARMEN",
   description: "Document for carmen.blue",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   themeConfig: {
@@ -42,7 +42,7 @@ export default defineConfig({
       // { text: "Examples", link: "/markdown-examples" },
     ],
     sidebar: {
-      "/": { base: "/carmen_cloud/", items: sidebarAll() },
+      "/carmen_cloud/": { base: "/carmen_cloud/", items: sidebarAll() },
       "/training_center/": { base: "/training_center/", items: sidebarTraining() },
     },
 
@@ -58,7 +58,7 @@ function sidebarAll() {
   return [
     {
       text: "Dashboard",
-      link: "/dashboard/",
+      link: "/dashboard",
     },
     {
       text: "General Ledger",
@@ -155,10 +155,6 @@ function sidebarAll() {
         { text: "Unit", link: "/configuration/unit" },
       ],
     },
-    {
-      text: "TRAINING CENTER",
-      link: "/training_center/",
-    },
   ];
 }
 
@@ -196,7 +192,7 @@ function sidebarTraining() {
           items: [
             {
               text: "on-permise AP",
-              link: "/carmen-on-permise/AP",
+              link: "/carmen_onpermise/AP",
             },
           ],
         },
@@ -206,7 +202,7 @@ function sidebarTraining() {
           items: [
             {
               text: "on-permise AR",
-              link: "/carmen-on-permise/AR",
+              link: "/carmen_onpermise/AR",
             },
           ],
         },
@@ -216,7 +212,7 @@ function sidebarTraining() {
           items: [
             {
               text: "on-permise GL",
-              link: "/carmen-on-permise/GL",
+              link: "/carmen_onpermise/GL",
             },
           ],
         },
