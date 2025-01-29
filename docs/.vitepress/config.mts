@@ -171,12 +171,31 @@ function sidebarTraining() {
         },
 
         {
-          text: "AR",
+          text: "Account Receivable",
           collapsed: true,
           items: [],
         },
+
         {
-          text: "GL",
+          text: "Fixed Asset",
+          collapsed: true,
+          items: [],
+        },
+
+        {
+          text: "Asset Checker",
+          collapsed: true,
+          items: [],
+        },
+
+        {
+          text: "General Ledger",
+          collapsed: true,
+          items: [],
+        },
+
+        {
+          text: "Work Book",
           collapsed: true,
           items: [],
         },
