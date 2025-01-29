@@ -165,7 +165,7 @@ function sidebarTraining() {
       collapsed: false,
       items: [
         {
-          text: "AP",
+          text: "Account Payable",
           collapsed: true,
           items: [],
         },
