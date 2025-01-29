@@ -1,12 +1,12 @@
- -How to create an invoice manually
+ - How to create an invoice manually
 
       การสร้างใบแจ้งหนี้ด้วยตนเอง
 
- -How to create an invoice by copying from existing invoice
+ - How to create an invoice by copying from existing invoice
 
       การสร้างใบแจ้งหนี้จากรายการที่เคยบันทึก
 
- -How to create a credit note
+ - How to create a credit note
 
       การสร้างใบลดหนี้
  

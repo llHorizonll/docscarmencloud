@@ -1,9 +1,14 @@
-How to reconcile input tax
+- How to reconcile input tax
 
-How to maintain input tax invoice from another module
+     การตรวจสอบรายการใบกำกับภาษีซื้อ
 
-How to print an input VAT report
+- How to maintain input tax invoice from another module
 
+     การบันทึกใบกำกับภาษีซื้อจาก module อื่น
+
+- How to print an input VAT report
+
+     การจัดพิมพ์รายงานภาษีซื้อ
 
 <h3 style="margin: 0;">Input Vat Reconciliation | การตรวจสอบรายการใบกำกับภาษีซื้อ</h3>
 

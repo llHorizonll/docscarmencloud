@@ -192,12 +192,24 @@ function sidebarTraining() {
           ],
         },
         {
-          text: "AR",
+          text: "Account Receivable",
           collapsed: true,
           items: [
             {
-              text: "on-permise AR",
-              link: "/carmen_onpermise/AR",
+              text: "Customer(AR)Profile",
+              link: "/carmen_cloud/AR/index1",
+            },
+            {
+              text: "Invoice",
+              link: "/carmen_cloud/AR/index2",
+            },
+            {
+              text: "Create Invoice from City Ledger Folio",
+              link: "/carmen_cloud/AR/index3",
+            },
+            {
+              text: "Receipt",
+              link: "/carmen_cloud/AR/index4",
             },
           ],
         },

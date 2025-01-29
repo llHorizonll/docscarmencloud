@@ -1,7 +1,10 @@
-How to settle outstanding invoices and make a vendor payment fully or partially
+- How to maintain withholding tax form and report  from another module
 
-How to settle outstanding invoices and apply CN to the Vendor's payment
+     การบันทึกภาษีหัก ณ ที่จ่ายพร้อมรายงานจากส่วนงานอื่น
 
+- How to print a WHT certificate, WHT Report and export text file for Revenue Department
+
+     การจัดพิมพ์หนังสือรับรองการหักภาษี ณ ที่จ่าย รายงานภาษีหัก ณ ที่จ่าย และ การ export ไฟล์สำหรับสรรพากร
 
 <h3 style="margin: 0;">Withholding Tax Reconciliation|การตรวจสอบภาษีหัก ณ ที่จ่าย</h3>
 

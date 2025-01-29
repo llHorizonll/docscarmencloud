@@ -1,4 +1,4 @@
--How to create vendor profile
+- How to create vendor profile
 
       การสร้างทะเบียนเจ้าหนี้
 
