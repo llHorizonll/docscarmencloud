@@ -166,7 +166,7 @@ function sidebarTraining() {
       items: [
         {
           text: "Account Payable",
-          link: "/training_center/AP",
+          link: "/training_center/Account Payable/Cloud_AP",
           collapsed: true,
           items: [],
         },
