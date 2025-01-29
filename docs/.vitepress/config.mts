@@ -246,8 +246,40 @@ function sidebarTraining() {
           collapsed: true,
           items: [
             {
-              text: "on-permise GL",
-              link: "/carmen_onpermise/AR",
+              text: "Journal Voucher",
+              link: "/carmen_cloud/General_Ledger/index",
+            },
+            {
+              text: "Copy Function on JV",
+              link: "/carmen_cloud/General_Ledger/index1",
+            },
+            {
+              text: "Create and Apply Template Voucher",
+              link: "/carmen_cloud/General_Ledger/index2",
+            },
+            {
+              text: "Allocation Voucher ",
+              link: "/carmen_cloud/General_Ledger/index3",
+            },
+            {
+              text: "Recurring Voucher",
+              link: "/carmen_cloud/General_Ledger/index4",
+            },
+            {
+              text: "Amortization Voucher  ",
+              link: "/carmen_cloud/General_Ledger/index5",
+            },
+            {
+              text: "Budget ",
+              link: "/carmen_cloud/General_Ledger/index6",
+            },
+            {
+              text: "Posting from Other Modules  ",
+              link: "/carmen_cloud/General_Ledger/index7",
+            },
+            {
+              text: "Year Ending",
+              link: "/carmen_cloud/General_Ledger/index8",
             },
           ],
         },
