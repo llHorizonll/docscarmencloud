@@ -166,6 +166,7 @@ function sidebarTraining() {
       items: [
         {
           text: "Account Payable",
+          link: "/training_center/Account Payable",
           collapsed: true,
           items: [],
         },
