@@ -166,39 +166,33 @@ function sidebarTraining() {
       items: [
         {
           text: "Account Payable",
-          link: "/training_center/Account Payable/Cloud_AP",
           collapsed: true,
-          items: [],
+          items: [
+            {
+              text: "How to create vendor profile",
+              link: "/training_center/Account_Payable",
+            },
+          ],
         },
-
         {
-          text: "Account Receivable",
+          text: "AR",
           collapsed: true,
-          items: [],
+          items: [
+            {
+              text: "on-permise AR",
+              link: "/carmen_onpermise/AR",
+            },
+          ],
         },
-
         {
-          text: "Fixed Asset",
+          text: "GL",
           collapsed: true,
-          items: [],
-        },
-
-        {
-          text: "Asset Checker",
-          collapsed: true,
-          items: [],
-        },
-
-        {
-          text: "General Ledger",
-          collapsed: true,
-          items: [],
-        },
-
-        {
-          text: "Work Book",
-          collapsed: true,
-          items: [],
+          items: [
+            {
+              text: "on-permise GL",
+              link: "/carmen_onpermise/GL",
+            },
+          ],
         },
       ],
     },
