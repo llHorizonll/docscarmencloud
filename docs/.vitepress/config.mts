@@ -170,7 +170,7 @@ function sidebarTraining() {
           items: [
             {
               text: "How to create vendor profile",
-              link: "/training_center/AP_cloud",
+              link: "/training_center/AP",
             },
           ],
         },
