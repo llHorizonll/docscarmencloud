@@ -219,15 +219,15 @@ function sidebarTraining() {
           items: [
             {
               text: "Asset Registration",
-              link: "/carmen_cloud/Asset_Checker/index1",
+              link: "/carmen_cloud/Fixed Asset/index1",
             },
             {
               text: "Batch Asset Registration",
-              link: "/carmen_cloud/Asset_Checker/index2",
+              link: "/carmen_cloud/Fixed Asset/index2",
             },
             {
               text: "Disposal Asset",
-              link: "/carmen_cloud/Asset_Checker/index3",
+              link: "/carmen_cloud/Fixed Asset/index3",
             },
           ],
         },
@@ -236,8 +236,8 @@ function sidebarTraining() {
           collapsed: true,
           items: [
             {
-              text: "on-permise GL",
-              link: "/carmen_onpermise/AR",
+              text: "Mobile Asset Checking ",
+              link: "/carmen_cloud/Asset Checker/index1",
             },
           ],
         },
