@@ -266,15 +266,15 @@ function sidebarTraining() {
               link: "/carmen_cloud/General_Ledger/index4",
             },
             {
-              text: "Amortization Voucher  ",
+              text: "Amortization Voucher",
               link: "/carmen_cloud/General_Ledger/index5",
             },
             {
-              text: "Budget ",
+              text: "Budget",
               link: "/carmen_cloud/General_Ledger/index6",
             },
             {
-              text: "Posting from Other Modules  ",
+              text: "Posting from Other Modules",
               link: "/carmen_cloud/General_Ledger/index7",
             },
             {
