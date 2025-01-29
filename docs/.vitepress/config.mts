@@ -214,7 +214,45 @@ function sidebarTraining() {
           ],
         },
         {
-          text: "GL",
+          text: "Fixed Asset",
+          collapsed: true,
+          items: [
+            {
+              text: "Asset Registration",
+              link: "/carmen_cloud/Asset_Checker/index1",
+            },
+            {
+              text: "Batch Asset Registration",
+              link: "/carmen_cloud/Asset_Checker/index2",
+            },
+            {
+              text: "Disposal Asset",
+              link: "/carmen_cloud/Asset_Checker/index3",
+            },
+          ],
+        },
+        {
+          text: "Asset Checker",
+          collapsed: true,
+          items: [
+            {
+              text: "on-permise GL",
+              link: "/carmen_onpermise/AR",
+            },
+          ],
+        },
+        {
+          text: "General Ledger",
+          collapsed: true,
+          items: [
+            {
+              text: "on-permise GL",
+              link: "/carmen_onpermise/AR",
+            },
+          ],
+        },
+        {
+          text: "Work Book",
           collapsed: true,
           items: [
             {
