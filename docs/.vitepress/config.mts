@@ -169,9 +169,26 @@ function sidebarTraining() {
           collapsed: true,
           items: [
             {
-              text: "How to create vendor profile",
-              link: "/training_center/AP",
+              text: "Vendor_Profile",
+              link: "/carmen_cloud/AP/index",
             },
+            {
+              text: "Invoice",
+              link: "/carmen_cloud/AP/index1",
+            },
+            {
+              text: "Payment",
+              link: "/carmen_cloud/AP/index2",
+            },
+            {
+              text: "Input_Vat_Reconciliation",
+              link: "/carmen_cloud/AP/index3",
+            },
+            {
+              text: "Withholding_Tax_Reconciliation",
+              link: "/carmen_cloud/AP/index4",
+            },
+            
           ],
         },
         {
@@ -190,7 +207,7 @@ function sidebarTraining() {
           items: [
             {
               text: "on-permise GL",
-              link: "/carmen_onpermise/GL",
+              link: "/carmen_onpermise/AR",
             },
           ],
         },
