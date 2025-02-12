@@ -506,12 +506,12 @@ function sidebarTraining() {
           items: [
             {
               text: "TA Data Setup",
-              link: "/carmen_onpermise/TA Data Setup/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             
             {
               text: "TA Holiday Data Setup",
-              link: "/carmen_onpermise/TA Holiday Data Setup/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
           ],
         },
@@ -521,23 +521,23 @@ function sidebarTraining() {
           items: [
             {
               text: "Transaction",
-              link: "/carmen_onpermise/Transaction/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Staffing Data Setup",
-              link: "/carmen_onpermise/Staffing Data Setup/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Resignation",
-              link: "/carmen_onpermise/Requisition/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Employee Profile",
-              link: "/carmen_onpermise/Employee Profile/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Add New Employee",
-              link: "/carmen_onpermise/Add New Employee/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
           ],
         },
@@ -547,23 +547,23 @@ function sidebarTraining() {
           items: [
             {
               text: "Workflow Management",
-              link: "/carmen_onpermise/Workflow Management/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Security",
-              link: "/carmen_onpermise/Security/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Import",
-              link: "/carmen_onpermise/Cadena_Import/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "General Settings",
-              link: "/carmen_onpermise/General Settings/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
             {
               text: "Email Management",
-              link: "/carmen_onpermise/Email Management/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
           ],
         },
@@ -573,7 +573,7 @@ function sidebarTraining() {
           items: [
             {
               text: "Leave Data Setup",
-              link: "/carmen_onpermise/Leave Data Setup/index1",
+              link: "/carmen_onpermise/Addin_FinancialReport/index1",
             },
           
           ],
