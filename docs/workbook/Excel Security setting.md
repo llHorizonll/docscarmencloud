@@ -6,6 +6,7 @@ lang: th-TH
 # Excel Security setting for Carmen Add-in
 
 การตั้งค่าเพิ่มเติมบน Excel เกี่ยวกับ Security เพื่อให้ Carmen Add-In สามารถใช้งานได้สมบูรณ์
+
 1.ไปที่ File แล้ว Excel จะแสดงแถบด้านข้าง
 ![alt text](image-33.png)
 
