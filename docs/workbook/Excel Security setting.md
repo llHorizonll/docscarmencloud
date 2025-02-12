@@ -32,11 +32,4 @@ lang: th-TH
 5.6. กด OK เพื่อเสร็จสิ้นการตั้งค่า Trust Center
 6.กด OK อีกครั้งเพื่อเสร็จสิ้นการตั้งค่า Excel Options
 
-<p align="center">
-    <img src="./image-20.png" />
-</p>
 
-<p style="margin: 0;">Video ประกอบ</p>
-<h3 style="margin: 0;">Setup | การตั้งค่าก่อนเริ่มใช้งาน</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y42UT8szy-M?si=8PvPXm1nOeV5OAWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
