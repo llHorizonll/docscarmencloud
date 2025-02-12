@@ -121,6 +121,7 @@ export default defineConfig({
         items: [
           { text: "Installation and Configuration", link: "/workbook/install&config" },
           { text: "Work Book Function", link: "/workbook/function" },
+          { text: "Excel Security setting", link: "/workbook/Excel Security setting" },
         ],
       },
       {
