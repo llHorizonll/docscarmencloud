@@ -529,7 +529,7 @@ function sidebarTraining() {
             },
             {
               text: "Resignation",
-              link: "/carmen_onpermise/Requisition/index1",
+              link: "/carmen_onpermise/Cadena_Resignation/index1",
             },
             {
               text: "Employee Profile",
