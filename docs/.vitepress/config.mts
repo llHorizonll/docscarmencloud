@@ -288,8 +288,23 @@ function sidebarTraining() {
           collapsed: true,
           items: [
             {
-              text: "on-permise GL",
-              link: "/carmen_onpermise/AR",
+              text: "set up a business unit (BU)",
+              link: "/carmen_cloud/Work_Book/index1",
+            },
+
+            {
+              text: "How to upload a journal voucher (JV) from excel",
+              link: "/carmen_cloud/Work_Book/index2",
+            },
+
+            {
+              text: "How to upload JV allocation from excel",
+              link: "/carmen_cloud/Work_Book/index3",
+            },
+
+            {
+              text: "How to upload a budget from excel",
+              link: "/carmen_cloud/Work_Book/index4",
             },
           ],
         },
@@ -300,31 +315,181 @@ function sidebarTraining() {
       collapsed: false,
       items: [
         {
-          text: "Account Payable",
+          text: "Inventory",
           collapsed: true,
           items: [
             {
-              text: "on-permise AP",
-              link: "/carmen_onpermise/AP",
+              text: "Receiving",
+              link: "/carmen_onpermise/Receiving/index1",
+            },
+
+            {
+              text: "Requisition",
+              link: "/carmen_onpermise/Receiving/index2",
+            },
+
+            {
+              text: "Transfer",
+              link: "/carmen_onpermise/Receiving/index3",
+            },
+
+            {
+              text: "Issue",
+              link: "/carmen_onpermise/Receiving/index4",
+            },
+
+            {
+              text: "Adjustmen/Sale",
+              link: "/carmen_onpermise/Receiving/index5",
+            },
+
+            {
+              text: "Procedure",
+              link: "/carmen_onpermise/Receiving/index6",
+            },
+
+            {
+              text: "Report",
+              link: "/carmen_onpermise/Receiving/index7",
             },
           ],
         },
         {
-          text: "AR",
+          text: "Recipe",
           collapsed: true,
           items: [
             {
-              text: "on-permise AR",
+              text: "Recipe",
               link: "/carmen_onpermise/AR",
             },
           ],
         },
         {
-          text: "GL",
+          text: "Asset Management",
           collapsed: true,
           items: [
             {
-              text: "on-permise GL",
+              text: "Asset Register",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Procedure",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Asset Disposal",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Report",
+              link: "/carmen_onpermise/AR",
+            },
+          ],
+        },
+        {
+          text: "General Ledger",
+          collapsed: true,
+          items: [
+            {
+              text: "Chart of Account",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Budget",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Journal Voucher",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Standard Voucher (Recurring)",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Procedure",
+              link: "/carmen_onpermise/AR",
+            },
+
+            {
+              text: "Report",
+              link: "/carmen_onpermise/AR",
+            },
+          ],
+        },
+        {
+          text: "Add In",
+          collapsed: true,
+          items: [
+            {
+              text: "Financial Report",
+              link: "/carmen_onpermise/AR",
+            },
+          ],
+        },
+        {
+          text: "Account Payable",
+          collapsed: true,
+          items: [
+            {
+              text: "Cloud Highlight",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Vendor",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Invoice",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Payment",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Procedure",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Report",
+              link: "/carmen_onpermise/GL",
+            },
+          ],
+        },
+        {
+          text: "Account Receivable",
+          collapsed: true,
+          items: [
+            {
+              text: "AR Profile",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Invoice",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Receipt",
+              link: "/carmen_onpermise/GL",
+            },
+
+            {
+              text: "Report",
               link: "/carmen_onpermise/GL",
             },
           ],
@@ -334,7 +499,86 @@ function sidebarTraining() {
     {
       text: "Cadena",
       collapsed: false,
-      items: [],
+      items: [
+        {
+          text: "Time Attandance",
+          collapsed: true,
+          items: [
+            {
+              text: "TA Data Setup",
+              link: "/carmen_cloud/AP/index",
+            },
+            
+            {
+              text: "TA Holiday Data Setup",
+              link: "/carmen_cloud/AP/index1",
+            },
+          ],
+        },
+        {
+          text: "Staffing",
+          collapsed: true,
+          items: [
+            {
+              text: "Transaction",
+              link: "/carmen_cloud/AR/index1",
+            },
+            {
+              text: "Staffing Data Setup",
+              link: "/carmen_cloud/AR/index2",
+            },
+            {
+              text: "Resignation",
+              link: "/carmen_cloud/AR/index3",
+            },
+            {
+              text: "Employee Profile",
+              link: "/carmen_cloud/AR/index4",
+            },
+            {
+              text: "Add New Employee",
+              link: "/carmen_cloud/AR/index4",
+            },
+          ],
+        },
+        {
+          text: "System Setting",
+          collapsed: true,
+          items: [
+            {
+              text: "Workflow Management",
+              link: "/carmen_cloud/Fixed Asset/index1",
+            },
+            {
+              text: "Security",
+              link: "/carmen_cloud/Fixed Asset/index2",
+            },
+            {
+              text: "Import",
+              link: "/carmen_cloud/Fixed Asset/index3",
+            },
+            {
+              text: "General Settings",
+              link: "/carmen_cloud/Fixed Asset/index3",
+            },
+            {
+              text: "Email Management",
+              link: "/carmen_cloud/Fixed Asset/index3",
+            },
+          ],
+        },
+        {
+          text: "Leave Management",
+          collapsed: true,
+          items: [
+            {
+              text: "Leave Data Setup",
+              link: "/carmen_cloud/Asset Checker/index1",
+            },
+          
+          ],
+        },
+      ],
     },
   ];
 }
