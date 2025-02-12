@@ -1,7 +1,13 @@
-- How to Receiving Items
+- How to Record Asset 
 
-       การรับสินค้า
+       การบันทึกสินทรัพย์
 
-<h3 style="margin: 0;">Inventory & Recipe - Receiving (Windows Version)</h3>
+- How to Copy Asset
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRbRo_xxNV4?si=XKqHdnSAXl7eb5PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       การคัดลองสินทรัพย์       
+
+<h6 style="margin: 0;">Asset Management - Configuration & Vender List (Windows Version)</h6>
+
+<h6 style="margin: 0;">Carmen Software Free Training</h6>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ybu2l8nVas?si=Rcg7XOjSMr_HW2k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
