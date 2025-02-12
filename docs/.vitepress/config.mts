@@ -360,7 +360,7 @@ function sidebarTraining() {
           items: [
             {
               text: "Recipe",
-              link: "/carmen_onpermise/AR",
+              link: "/carmen_onpermise/Receiving/index8",
             },
           ],
         },

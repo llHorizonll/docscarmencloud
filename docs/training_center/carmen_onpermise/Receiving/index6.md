@@ -1,7 +1,8 @@
-- How to create AR Profile
+- How to do Stock Cout and Close Period
 
-       การสร้างทะเบียนลูกหนี้
+       การนับ Stock และการปิด Period
 
-<h3 style="margin: 0;">Customer (AR) Profile|การสร้างทะเบียนลูกหนี้</h3>
+<h6 style="margin: 0;">Inventory & Recipe - Close Inventory (Windows Version) │Carmen Software Free Training 2023
+</h6>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHaW5EHWZNg?si=dRalvNfq0j4k2o03" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hOAx6kV5rXY?si=PnIFuYQrrdvBUGrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

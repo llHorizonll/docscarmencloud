@@ -1,7 +1,7 @@
-- How to create AR Profile
+- How to Receiving Items
 
-       การสร้างทะเบียนลูกหนี้
+       การรับสินค้า
 
-<h3 style="margin: 0;">Customer (AR) Profile|การสร้างทะเบียนลูกหนี้</h3>
+<h3 style="margin: 0;">Inventory & Recipe - Receiving (Windows Version)</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHaW5EHWZNg?si=dRalvNfq0j4k2o03" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRbRo_xxNV4?si=XKqHdnSAXl7eb5PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
