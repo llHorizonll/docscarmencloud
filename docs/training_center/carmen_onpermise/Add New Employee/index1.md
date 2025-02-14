@@ -1,7 +1,7 @@
-- How to Receiving Items
+- How to Add New Employee
 
-       การรับสินค้า
+       การสร้างพนักงานใหม่
 
-<h3 style="margin: 0;">Inventory & Recipe - Receiving (Windows Version)</h3>
+<h3 style="margin: 0;">ST Add Employee</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRbRo_xxNV4?si=XKqHdnSAXl7eb5PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qajiYVmUwwg?si=ykTODUmXgfh9Gcnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

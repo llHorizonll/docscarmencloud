@@ -409,13 +409,13 @@ function sidebarTraining() {
             },
 
             {
-              text: "Standard Voucher (Recurring)",
+              text: "Standard Voucher (Recurring) and Data Posting",
               link: "/carmen_onpermise/GL_Recurring/index1",
             },
 
             {
-              text: "Procedure",
-              link: "/carmen_onpermise/GL_Procedure/index1",
+              text: "Close Period and Year End",
+              link: "/carmen_onpermise/ClosePeriod_and_Year_End/index1",
             },
 
             {
@@ -450,7 +450,7 @@ function sidebarTraining() {
 
             {
               text: "Invoice",
-              link: "/carmen_onpermise/AR_Invoice/index1",
+              link: "/carmen_onpermise/AP_Invoice/index1",
             },
 
             {

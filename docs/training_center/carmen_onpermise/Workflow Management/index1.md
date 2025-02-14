@@ -1,7 +1,7 @@
-- How to Receiving Items
+- How to set Approval Workflow
 
-       การรับสินค้า
+       การตั้งค่าการอนุมัติ
 
-<h3 style="margin: 0;">Inventory & Recipe - Receiving (Windows Version)</h3>
+<h3 style="margin: 0;">SY Workflow Management</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRbRo_xxNV4?si=XKqHdnSAXl7eb5PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oCIUbJcGdvQ?si=N7JN7k9ill1Qh7aa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

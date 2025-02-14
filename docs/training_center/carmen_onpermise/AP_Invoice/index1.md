@@ -1,7 +1,9 @@
-- How to Receiving Items
+- How to Record Invoice
 
-       การรับสินค้า
+       การบันทึกใบแจ้งนี้
 
-<h3 style="margin: 0;">Inventory & Recipe - Receiving (Windows Version)</h3>
+<h3 style="margin: 0;">Account Payable AP - Ep.2 Invoice (Windows Version)</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRbRo_xxNV4?si=XKqHdnSAXl7eb5PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h3 style="margin: 0;">Carmen Software Free Training 2023</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AP_yjesKnm4?si=EuVJHYUza1DRGc0C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

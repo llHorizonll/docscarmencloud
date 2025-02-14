@@ -1,13 +1,17 @@
-- How to Record Asset 
+- How to Create JV from Template 
 
-       การบันทึกสินทรัพย์
+       การบันทึก JV ด้วย  Template
 
-- How to Copy Asset
+- How to Create JV by copy
 
-       การคัดลองสินทรัพย์       
+       การบันทึก JV ด้วยการ Copy       
 
-<h6 style="margin: 0;">Asset Management - Configuration & Vender List (Windows Version)</h6>
+- How to Create JV from Excel Clipboard
+
+       การบันทึก JV ด้วย Clipboard จาก Excel  
+
+<h6 style="margin: 0;">General Ledger (GL) - Standard Journal Voucher (Windows Version)</h6>
 
 <h6 style="margin: 0;">Carmen Software Free Training</h6>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ybu2l8nVas?si=Rcg7XOjSMr_HW2k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMTnYuvfce8?si=Azrxecl3XCt0X94Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,13 +1,17 @@
-- How to Record Asset 
+- How to Create Standard Voucher (Recurring) 
 
-       การบันทึกสินทรัพย์
+       การสร้าง Template สำหรับ Recurring Voucher
+      
+- How to Apply Standard Voucher (Recurring) 
 
-- How to Copy Asset
+       การนำ Recurring Voucher มาบันทึก JV
 
-       การคัดลองสินทรัพย์       
+- How to Post Data from Other Module 
 
-<h6 style="margin: 0;">Asset Management - Configuration & Vender List (Windows Version)</h6>
+       การ Post ข้อมูลจาก module ต่าง ๆ เข้า GL
+              
+<h6 style="margin: 0;">General Ledger (GL) - Posting Procedure (Windows Version)</h6>
 
 <h6 style="margin: 0;">Carmen Software Free Training</h6>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ybu2l8nVas?si=Rcg7XOjSMr_HW2k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AdvbzmCj09I?si=40H3tCE28WU5jRzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
