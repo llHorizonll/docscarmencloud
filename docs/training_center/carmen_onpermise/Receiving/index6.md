@@ -1,6 +1,6 @@
 - How to do Stock Cout and Close Period
 
-       การนับ Stock และการปิด Period
+       การนับ Stock Count and Close Period และการปิด Period
 
 <h3 style="margin: 0;">Inventory & Recipe - Close Inventory (Windows Version)</h3>
 

@@ -339,7 +339,7 @@ function sidebarTraining() {
             },
 
             {
-              text: "Adjustmen/Sale",
+              text: "Adjustment / Sale",
               link: "/carmen_onpermise/Receiving/index5",
             },
 
