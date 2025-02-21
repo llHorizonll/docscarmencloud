@@ -38,7 +38,7 @@ features:
     link: /carmen_cloud/configuration
   - title: Carmen Work Book
     details: Carmen Add-In ใช้สำหรับการส่งและรับข้อมูลจากระบบผ่าน Excel
-    link: /carmen_cloud/workbook/install&config
+    link: /carmen_cloud/workbook/index/
   - title: Training Center
     details: รวบรวม Video การใช้งานระบบ Carmen
     link: /training_center/

@@ -179,26 +179,27 @@ function sidebarTraining() {
         {
           text: "Account Payable",
           collapsed: true,
+          base: '/training_center/carmen_cloud/ap-',
           items: [
             {
               text: "Vendor_Profile",
-              link: "/carmen_cloud/AP/index",
+              link: "index",
             },
             {
               text: "Invoice",
-              link: "/carmen_cloud/AP/index1",
+              link: "/carmen_cloud/index1",
             },
             {
               text: "Payment",
-              link: "/carmen_cloud/AP/index2",
+              link: "/carmen_cloud/index2",
             },
             {
               text: "Input_Vat_Reconciliation",
-              link: "/carmen_cloud/AP/index3",
+              link: "/carmen_cloud/index3",
             },
             {
               text: "Withholding_Tax_Reconciliation",
-              link: "/carmen_cloud/AP/index4",
+              link: "/carmen_cloud/index4",
             },
             
           ],
