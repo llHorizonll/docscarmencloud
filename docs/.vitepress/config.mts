@@ -130,8 +130,13 @@ function sidebarAll() {
       },
       {
         text: "Comment and Document Management & Activity Log",
-        link: "/comment/",
+        collapsed: true,
+        base: '/carmen_cloud/comment/CM-',
+        items: [
+          { text: "Comment and Document Management & Activity Log", link: "comment" },
+        ],
       },
+     
       {
         text: "Work Book",
         collapsed: true,
