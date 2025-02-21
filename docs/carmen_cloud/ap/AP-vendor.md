@@ -2,7 +2,6 @@
 title: Vendor
 lang: th-TH
 ---
-
 # Vendor
 
 ## การสร้าง Vendor
