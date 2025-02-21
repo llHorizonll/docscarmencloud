@@ -40,6 +40,6 @@ features:
     details: Carmen Add-In ใช้สำหรับการส่งและรับข้อมูลจากระบบผ่าน Excel
     link: /carmen_cloud/workbook/install&config
   - title: Training Center
-    details:
+    details: รวบรวม Video การใช้งานระบบ Carmen
     link: /training_center/
 ---
