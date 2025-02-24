@@ -43,7 +43,8 @@ export default defineConfig({
     ],
     sidebar: {
       "/carmen_cloud/": { base: "/carmen_cloud/", items: sidebarAll() },
-      "/training_center/": { base: "/training_center/", items: sidebarTraining() },
+      "/training_center/": { base: "/training_center/carmen_cloud/", items: sidebarTraining() },
+      "/carmen_onpermise/": { base: "/training_center/carmen_onpermise/", items: sidebarTraining() },
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/llHorizonll/docscarmencloud" }],
@@ -179,7 +180,7 @@ function sidebarTraining() {
         {
           text: "Account Payable",
           collapsed: true,
-          base: '/training_center/carmen_cloud/ap-',
+          base: '/training_center/carmen_cloud/AP/ap-',
           items: [
             {
               text: "Vendor_Profile",
@@ -187,19 +188,19 @@ function sidebarTraining() {
             },
             {
               text: "Invoice",
-              link: "/carmen_cloud/index1",
+              link: "index1",
             },
             {
               text: "Payment",
-              link: "/carmen_cloud/index2",
+              link: "index2",
             },
             {
               text: "Input_Vat_Reconciliation",
-              link: "/carmen_cloud/index3",
+              link: "index3",
             },
             {
               text: "Withholding_Tax_Reconciliation",
-              link: "/carmen_cloud/index4",
+              link: "index4",
             },
             
           ],
@@ -207,117 +208,122 @@ function sidebarTraining() {
         {
           text: "Account Receivable",
           collapsed: true,
+          base: '/training_center/carmen_cloud/AR/ar-',
           items: [
             {
               text: "Customer(AR)Profile",
-              link: "/carmen_cloud/AR/index1",
+              link: "index1",
             },
             {
               text: "Invoice",
-              link: "/carmen_cloud/AR/index2",
+              link: "index2",
             },
             {
               text: "Create Invoice from City Ledger Folio",
-              link: "/carmen_cloud/AR/index3",
+              link: "index3",
             },
             {
               text: "Receipt",
-              link: "/carmen_cloud/AR/index4",
+              link: "index4",
             },
           ],
         },
         {
           text: "Fixed Asset",
           collapsed: true,
+          base: '/training_center/carmen_cloud/Fixed Asset/asset-',
           items: [
             {
               text: "Asset Registration",
-              link: "/carmen_cloud/Fixed Asset/index1",
+              link: "index1",
             },
             {
               text: "Batch Asset Registration",
-              link: "/carmen_cloud/Fixed Asset/index2",
+              link: "index2",
             },
             {
               text: "Disposal Asset",
-              link: "/carmen_cloud/Fixed Asset/index3",
+              link: "index3",
             },
           ],
         },
         {
           text: "Asset Checker",
           collapsed: true,
+          base: '/training_center/carmen_cloud/Asset Checker/ac-',
           items: [
             {
               text: "Mobile Asset Checking ",
-              link: "/carmen_cloud/Asset Checker/index1",
+              link: "index1",
             },
           ],
         },
         {
           text: "General Ledger",
           collapsed: true,
+          base: '/training_center/carmen_cloud/General_Ledger/gl-',
           items: [
             {
               text: "Journal Voucher",
-              link: "/carmen_cloud/General_Ledger/index",
+              link: "index",
             },
             {
               text: "Copy Function on JV",
-              link: "/carmen_cloud/General_Ledger/index1",
+              link: "index1",
             },
             {
               text: "Create and Apply Template Voucher",
-              link: "/carmen_cloud/General_Ledger/index2",
+              link: "index2",
             },
             {
               text: "Allocation Voucher ",
-              link: "/carmen_cloud/General_Ledger/index3",
+              link: "index3",
             },
             {
               text: "Recurring Voucher",
-              link: "/carmen_cloud/General_Ledger/index4",
+              link: "index4",
             },
             {
               text: "Amortization Voucher",
-              link: "/carmen_cloud/General_Ledger/index5",
+              link: "index5",
             },
             {
               text: "Budget",
-              link: "/carmen_cloud/General_Ledger/index6",
+              link: "index6",
             },
             {
               text: "Posting from Other Modules",
-              link: "/carmen_cloud/General_Ledger/index7",
+              link: "index7",
             },
             {
               text: "Year Ending",
-              link: "/carmen_cloud/General_Ledger/index8",
+              link: "index8",
             },
           ],
         },
         {
           text: "Work Book",
           collapsed: true,
+          base: '/training_center/carmen_cloud/Work_Book/wb-',
           items: [
             {
               text: "set up a business unit (BU)",
-              link: "/carmen_cloud/Work_Book/index1",
+              link: "index1",
             },
 
             {
               text: "How to upload a journal voucher (JV) from excel",
-              link: "/carmen_cloud/Work_Book/index2",
+              link: "index2",
             },
 
             {
               text: "How to upload JV allocation from excel",
-              link: "/carmen_cloud/Work_Book/index3",
+              link: "index3",
             },
 
             {
               text: "How to upload a budget from excel",
-              link: "/carmen_cloud/Work_Book/index4",
+              link: "index4",
             },
           ],
         },
@@ -330,40 +336,41 @@ function sidebarTraining() {
         {
           text: "Inventory",
           collapsed: true,
+          base: '/training_center/Carmen_onpermise/Receiving/iv-',
           items: [
             {
               text: "Receiving",
-              link: "/carmen_onpermise/Receiving/index1",
+              link: "index1",
             },
 
             {
               text: "Requisition",
-              link: "/carmen_onpermise/Receiving/index2",
+              link: "index2",
             },
 
             {
               text: "Transfer",
-              link: "/carmen_onpermise/Receiving/index3",
+              link: "index3",
             },
 
             {
               text: "Issue",
-              link: "/carmen_onpermise/Receiving/index4",
+              link: "index4",
             },
 
             {
               text: "Adjustmen/Sale",
-              link: "/carmen_onpermise/Receiving/index5",
+              link: "index5",
             },
 
             {
               text: "Procedure",
-              link: "/carmen_onpermise/Receiving/index6",
+              link: "index6",
             },
 
             {
               text: "Report",
-              link: "/carmen_onpermise/Receiving/index7",
+              link: "index7",
             },
           ],
         },
@@ -373,7 +380,7 @@ function sidebarTraining() {
           items: [
             {
               text: "Recipe",
-              link: "/carmen_onpermise/Receiving/index8",
+              link: "index8",
             },
           ],
         },
