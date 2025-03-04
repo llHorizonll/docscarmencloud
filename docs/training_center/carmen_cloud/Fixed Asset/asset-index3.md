@@ -1,3 +1,5 @@
+# Disposal Asset
+
 - How to do asset disposal
 
        การขาย หรือ ตัดจำหน่ายทรัพย์สิน พร้อมบันทึกบัญชีตัดจำหน่าย

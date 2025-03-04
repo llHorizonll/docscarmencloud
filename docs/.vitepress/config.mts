@@ -145,6 +145,7 @@ function sidebarAll() {
         items: [
           { text: "Installation and Configuration", link: "install&config" },
           { text: "Work Book Function", link: "function" },
+          { text: "Excel Security setting for Carmen Add-in", link: "excelsecurity" },
         ],
       },
       {
@@ -183,7 +184,7 @@ function sidebarTraining() {
           base: '/training_center/carmen_cloud/AP/ap-',
           items: [
             {
-              text: "Vendor_Profile",
+              text: "Vendor Profile",
               link: "index",
             },
             {
@@ -195,11 +196,11 @@ function sidebarTraining() {
               link: "index2",
             },
             {
-              text: "Input_Vat_Reconciliation",
+              text: "Input_Vat Reconciliation",
               link: "index3",
             },
             {
-              text: "Withholding_Tax_Reconciliation",
+              text: "Withholding Tax Reconciliation",
               link: "index4",
             },
             
@@ -325,6 +326,11 @@ function sidebarTraining() {
               text: "How to upload a budget from excel",
               link: "index4",
             },
+
+            {
+              text: "Excel Security setting for Carmen Add-in",
+              link: "index5",
+            },
           ],
         },
       ],
@@ -336,7 +342,7 @@ function sidebarTraining() {
         {
           text: "Inventory",
           collapsed: true,
-          base: '/training_center/Carmen_onpermise/Receiving/iv-',
+          base: '/training_center/carmen_onpermise/INVENTORY/iv-',
           items: [
             {
               text: "Receiving",
@@ -359,7 +365,7 @@ function sidebarTraining() {
             },
 
             {
-              text: "Adjustmen/Sale",
+              text: "Adjustmen / Sale",
               link: "index5",
             },
 
@@ -377,140 +383,146 @@ function sidebarTraining() {
         {
           text: "Recipe",
           collapsed: true,
+          base: '/training_center/carmen_onpermise/RECIPE/re-',
           items: [
             {
               text: "Recipe",
-              link: "index8",
+              link: "index",
             },
           ],
         },
         {
           text: "Asset Management",
           collapsed: true,
+          base: '/training_center/carmen_onpermise/ASSET/s-',
           items: [
             {
               text: "Asset Register",
-              link: "/carmen_onpermise/Asset_Register/index1",
+              link: "index1",
             },
 
             {
               text: "Procedure",
-              link: "/carmen_onpermise/Asset_Procedure/index1",
+              link: "index2",
             },
 
             {
               text: "Asset Disposal",
-              link: "/carmen_onpermise/Asset_Disposal/index1",
+              link: "index3",
             },
 
             {
               text: "Report",
-              link: "/carmen_onpermise/Asset_Report/index1",
+              link: "index4",
             },
           ],
         },
         {
           text: "General Ledger",
           collapsed: true,
+          base: '/training_center/carmen_onpermise/GlONPERMISE/g-',
           items: [
             {
               text: "Chart of Account",
-              link: "/carmen_onpermise/GL_ChartofAccount/index1",
+              link: "index1",
             },
 
             {
               text: "Budget",
-              link: "/carmen_onpermise/GL_Budget/index1",
+              link: "index2",
             },
 
             {
               text: "Journal Voucher",
-              link: "/carmen_onpermise/GL_Journal_Voucher/index1",
+              link: "index3",
             },
 
             {
               text: "Standard Voucher (Recurring) and Data Posting",
-              link: "/carmen_onpermise/GL_Recurring/index1",
+              link: "index4",
             },
 
             {
               text: "Close Period and Year End",
-              link: "/carmen_onpermise/ClosePeriod_and_Year_End/index1",
+              link: "index5",
             },
 
             {
               text: "Report",
-              link: "/carmen_onpermise/GL_Report/index1",
+              link: "index6",
             },
           ],
         },
         {
           text: "Add In",
           collapsed: true,
+          base: '/training_center/carmen_onpermise/Addin/add-',
           items: [
             {
               text: "Financial Report",
-              link: "/carmen_onpermise/Addin_FinancialReport/index1",
+              link: "index1",
             },
           ],
         },
         {
           text: "Account Payable",
           collapsed: true,
+          base: '/training_center/carmen_onpermise/ApONPERMISE/a-',
           items: [
             {
               text: "Cloud Highlight",
-              link: "/carmen_onpermise/AP_Cloud_Highlight/index1",
+              link: "index1",
             },
 
             {
               text: "Vendor",
-              link: "/carmen_onpermise/AP_Vendor/index1",
+              link: "index2",
             },
 
             {
               text: "Invoice",
-              link: "/carmen_onpermise/AP_Invoice/index1",
+              link: "index3",
             },
 
             {
               text: "Payment",
-              link: "/carmen_onpermise/AP_Payment/index1",
+              link: "index4",
             },
 
             {
               text: "Procedure",
-              link: "/carmen_onpermise/AP_Procedure/index1",
+              link: "index5",
             },
 
             {
               text: "Report",
-              link: "/carmen_onpermise/AP_Report/index1",
+              link: "index6",
             },
           ],
         },
         {
           text: "Account Receivable",
           collapsed: true,
+          base: '/training_center/carmen_onpermise/ArONPERMISE/r-',
           items: [
             {
               text: "AR Profile",
-              link: "/carmen_onpermise/AR_Profile/index1",
+              link: "index1",
             },
 
             {
               text: "Invoice",
-              link: "/carmen_onpermise/AR_Invoice/index1",
+              link: "index2",
             },
 
             {
               text: "Receipt",
-              link: "/carmen_onpermise/AR_Receipt/index1",
+              link: "index3",
             },
 
             {
               text: "Report",
-              link: "/carmen_onpermise/AR_Report/index1",
+              link: "index4",
             },
           ],
         },
@@ -519,6 +531,7 @@ function sidebarTraining() {
     {
       text: "Cadena",
       collapsed: false,
+      base: '/training_center/carmen_onpermise/CADENA/ca-',
       items: [
         {
           text: "Time Attandance",
@@ -526,12 +539,12 @@ function sidebarTraining() {
           items: [
             {
               text: "TA Data Setup",
-              link: "/carmen_onpermise/TA Data Setup/index1",
+              link: "index1",
             },
             
             {
               text: "TA Holiday Data Setup",
-              link: "/carmen_onpermise/TA Holiday Data Setup/index1",
+              link: "index2",
             },
           ],
         },
@@ -541,23 +554,23 @@ function sidebarTraining() {
           items: [
             {
               text: "Transaction",
-              link: "/carmen_onpermise/Transaction/index1",
+              link: "index3",
             },
             {
               text: "Staffing Data Setup",
-              link: "/carmen_onpermise/Staffing Data Setup/index1",
+              link: "index4",
             },
             {
               text: "Resignation",
-              link: "/carmen_onpermise/Cadena_Resignation/index1",
+              link: "index5",
             },
             {
               text: "Employee Profile",
-              link: "/carmen_onpermise/Employee Profile/index1",
+              link: "index6",
             },
             {
               text: "Add New Employee",
-              link: "/carmen_onpermise/Add New Employee/index1",
+              link: "index7",
             },
           ],
         },
@@ -567,23 +580,23 @@ function sidebarTraining() {
           items: [
             {
               text: "Workflow Management",
-              link: "/carmen_onpermise/Workflow Management/index1",
+              link: "index8",
             },
             {
               text: "Security",
-              link: "/carmen_onpermise/Security/index1",
+              link: "index9",
             },
             {
               text: "Import",
-              link: "/carmen_onpermise/Cadena_Import/index1",
+              link: "index10",
             },
             {
               text: "General Settings",
-              link: "/carmen_onpermise/General Settings/index1",
+              link: "index11",
             },
             {
               text: "Email Management",
-              link: "/carmen_onpermise/Email Management/index1",
+              link: "index12",
             },
           ],
         },
@@ -593,7 +606,7 @@ function sidebarTraining() {
           items: [
             {
               text: "Leave Data Setup",
-              link: "/carmen_onpermise/Leave Data Setup/index1",
+              link: "index13",
             },
           
           ],

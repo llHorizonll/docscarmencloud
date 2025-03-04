@@ -1,3 +1,5 @@
+# set up a business unit (BU)
+
 - How to set up a business unit (BU)
 
        การตั้งค่าก่อนเริ่มใช้งาน

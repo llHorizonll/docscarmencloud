@@ -1,3 +1,5 @@
+# Payment
+
 - How to settle outstanding invoices and make a vendor payment fully or partially
 
      การทำชำระเงินใบแจ้งหนี้แบบเต็มจำนวน หรือ บางส่วน

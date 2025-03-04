@@ -1,3 +1,5 @@
+# Posting from Other Modules
+
 - How to post transactions from another module to the general ledger (GL)
 
        การบันทึกข้อมูลจาก module อื่น ๆ เป็น JV ใน GL
