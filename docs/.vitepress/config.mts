@@ -365,13 +365,8 @@ function sidebarTraining() {
             },
 
             {
-<<<<<<< HEAD
-              text: "Adjustment / Sale",
-              link: "/carmen_onpermise/Receiving/index5",
-=======
               text: "Adjustmen / Sale",
               link: "index5",
->>>>>>> dev
             },
 
             {
