@@ -1,0 +1,14 @@
+# set up a business unit (BU)
+
+- How to set up a business unit (BU)
+
+       การตั้งค่าก่อนเริ่มใช้งาน
+       
+- How to use Carmen's Excel AddIn
+
+       ขั้นตอนการเข้าใช้งาน CARMNE'S Excel Add In
+       
+
+<h3 style="margin: 0;">Setup|การตั้งค่าก่อนเริ่มใช้งาน</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y42UT8szy-M?si=dJbXgFh_YYLNgixc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
