@@ -10,7 +10,7 @@
 
 - How to Create JV from Excel Clipboard
 
-       การบันทึก JV ด้วย Clipboard จาก Excel  
+       การบันทึกJVด้วยClipboardจากExcel  
 
 <h6 style="margin: 0;">General Ledger (GL) - Standard Journal Voucher (Windows Version)</h6>
 
