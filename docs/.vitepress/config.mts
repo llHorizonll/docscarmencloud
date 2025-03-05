@@ -365,12 +365,12 @@ function sidebarTraining() {
             },
 
             {
-              text: "Adjustmen / Sale",
+              text: "Adjustment / Sale",
               link: "index5",
             },
 
             {
-              text: "Procedure",
+              text: "Stock count and Close period",
               link: "index6",
             },
 
