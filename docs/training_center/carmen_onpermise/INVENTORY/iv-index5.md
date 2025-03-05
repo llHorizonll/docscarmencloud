@@ -1,4 +1,4 @@
-# Adjustmen / Sale
+# Adjustment / Sale
 
 - How to Adjust Inventory
 
