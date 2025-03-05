@@ -308,7 +308,7 @@ function sidebarTraining() {
           base: '/training_center/carmen_cloud/Work_Book/wb-',
           items: [
             {
-              text: "set up a business unit (BU)",
+              text: "Set up a business unit (BU)",
               link: "index1",
             },
 
