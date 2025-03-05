@@ -402,7 +402,7 @@ function sidebarTraining() {
             },
 
             {
-              text: "Procedure",
+              text: "Depreciation calculation",
               link: "index2",
             },
 
