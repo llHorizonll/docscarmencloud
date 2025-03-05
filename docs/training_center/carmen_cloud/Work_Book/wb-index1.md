@@ -1,4 +1,4 @@
-# set up a business unit (BU)
+# Set up a business unit (BU)
 
 - How to set up a business unit (BU)
 
