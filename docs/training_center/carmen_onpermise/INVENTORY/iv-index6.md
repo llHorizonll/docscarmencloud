@@ -1,4 +1,4 @@
-# Financial Report
+# Stock count and Close period
 
 - How to do Stock Cout and Close Period
 
