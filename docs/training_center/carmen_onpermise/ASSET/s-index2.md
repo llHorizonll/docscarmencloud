@@ -1,4 +1,4 @@
-# Procedure
+# Depreciation calculation
 
 - How to Calculate Depreciation and View Report
 
