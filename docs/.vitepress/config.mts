@@ -196,7 +196,7 @@ function sidebarTraining() {
               link: "index2",
             },
             {
-              text: "Input_Vat Reconciliation",
+              text: "Input Vat Reconciliation",
               link: "index3",
             },
             {
