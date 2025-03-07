@@ -1,8 +1,7 @@
 # Financial Report
 
-- Standard Financial Report
-
-       ตัวอย่างงบการเงินของ Carmen
+- Standard Financial Report<br/>
+ตัวอย่างงบการเงินของ Carmen<br/>
 
 <h3 style="margin: 0;">Financial Report - Sample Standard Sheet (Windows Version)</h3>
 

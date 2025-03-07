@@ -1,12 +1,10 @@
 # Report
 
-- How to view Invoice Detail Report
+- How to view Invoice Detail Report<br/>
+การดูรายงาน Invoice Detail<br/>
 
-       การดูรายงาน Invoice Detail
-
-- How to view Aging Report
-
-       การดูรายงาน Aging
+- How to view Aging Report<br/>
+การดูรายงาน Aging<br/>
 
 <h3 style="margin: 0;">Account Receivable (AR) - Report (Windows Version)</h3>
 

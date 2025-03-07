@@ -1,8 +1,7 @@
 # Transaction
 
-- How to set Transaction for Staff
-
-       การตั้งค่าข้อมูลเงินเดือนให้พนักงาน
+- How to set Transaction for Staff<br/>
+การตั้งค่าข้อมูลเงินเดือนให้พนักงาน<br/>
 
 <h3 style="margin: 0;">ST Transaction</h3>
 

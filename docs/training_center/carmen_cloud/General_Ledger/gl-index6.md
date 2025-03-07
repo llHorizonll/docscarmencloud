@@ -1,8 +1,7 @@
 # Budget
 
-- How to set up budget
-
-       การบันทึกงบประมาณ
+- How to set up budget<br/>
+การบันทึกงบประมาณ<br/>
 
 <h4 style="margin: 0;">Budget|การบันทึกงบประมาณ</h4>
 

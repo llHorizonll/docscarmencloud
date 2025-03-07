@@ -1,8 +1,7 @@
 # Create and Apply Template Voucher
 
-- How to create a journal voucher (JV) from JV template
-
-       การตั้งค่า และ สร้าง JV ด้วย Template 
+- How to create a journal voucher (JV) from JV template<br/>
+การตั้งค่า และ สร้าง JV ด้วย Template<br/>
 
 <h5 style="margin: 0;">Create and Apply Template Voucher|การสร้างเทมเพลทใบสำคัญบันทึกบัญชีและการนำไปใช้</h5>
 

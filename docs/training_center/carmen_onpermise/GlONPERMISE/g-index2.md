@@ -1,8 +1,7 @@
 # Budget
 
-- How to Record Budget and View Report 
-
-       การบันทึกงบประมาณและการดูรายงาน
+- How to Record Budget and View Report<br/> 
+การบันทึกงบประมาณและการดูรายงาน<br/>
        
 
 <h6 style="margin: 0;">General Ledger (GL) - Budget (Windows Version)</h6>

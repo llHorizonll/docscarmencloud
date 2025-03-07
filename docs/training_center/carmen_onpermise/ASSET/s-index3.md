@@ -1,8 +1,7 @@
 # Asset Disposal
 
-- How to Dispose Asset
-
-       การบันทึกขายสินทรัพย์
+- How to Dispose Asset<br/>
+การบันทึกขายสินทรัพย์<br/>
 
 <h3 style="margin: 0;">Asset Management - Disposal List (Windows Version)</h3>
 

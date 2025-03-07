@@ -1,8 +1,7 @@
 # Allocation Voucher
 
-- How to create an allocation voucher
-
-       การตั้งค่า และ สร้าง JV แบบปันส่วนด้วย Allocation Voucher
+- How to create an allocation voucher<br/>
+การตั้งค่า และ สร้าง JV แบบปันส่วนด้วย Allocation Voucher<br/>
 
 <h4 style="margin: 0;">Allocation Voucher | การสร้างใบสำคัญบันทึกบัญชีแบบจัดสรรปันส่วนบัญชี</h4>
 

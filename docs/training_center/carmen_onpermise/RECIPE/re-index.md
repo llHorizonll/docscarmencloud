@@ -1,8 +1,7 @@
 # Recipe
 
-- How to Create Recipe
-
-       การบันทึกเมนูอาหารและวัตถุดิบ
+- How to Create Recipe<br/>
+การบันทึกเมนูอาหารและวัตถุดิบ<br/>
 
 <h3 style="margin: 0;">Inventory & Recipe - Recipe (Windows Version)</h3>
 

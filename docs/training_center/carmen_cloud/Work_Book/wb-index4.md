@@ -1,8 +1,7 @@
 # How to upload a budget from excel
 
-- How to upload a budget from excel
-
-       การนำเข้างบประมาณประจำปี ผ่าน Excel
+- How to upload a budget from excel<br/>
+การนำเข้างบประมาณประจำปี ผ่าน Excel
 
 <h3 style="margin: 0;">Import Budget from Excel|การนำเข้างบประมาณจาก Excel</h3>
 

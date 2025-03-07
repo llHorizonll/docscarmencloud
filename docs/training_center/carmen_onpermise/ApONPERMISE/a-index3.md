@@ -1,8 +1,7 @@
 # Invoice
 
-- How to Record Invoice
-
-       การบันทึกใบแจ้งนี้
+- How to Record Invoice<br/>s
+การบันทึกใบแจ้งนี้<br/>
 
 <h3 style="margin: 0;">Account Payable AP - Ep.2 Invoice (Windows Version)</h3>
 

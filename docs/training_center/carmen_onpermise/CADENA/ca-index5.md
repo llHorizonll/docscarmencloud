@@ -1,12 +1,10 @@
 # Resignation
 
-- How to Record Asset 
+- How to Record Asset<br/>
+การบันทึกสินทรัพย์<br/>
 
-       การบันทึกสินทรัพย์
-
-- How to Copy Asset
-
-       การคัดลองสินทรัพย์       
+- How to Copy Asset<br/>
+การคัดลองสินทรัพย์<br/>       
 
 <h6 style="margin: 0;">Asset Management - Configuration & Vender List (Windows Version)</h6>
 

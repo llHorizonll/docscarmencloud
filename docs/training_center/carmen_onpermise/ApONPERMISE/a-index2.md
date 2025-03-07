@@ -1,8 +1,7 @@
 # Vendor
 
-- How to Create Vendor
-
-       การสร้างรหัสเจ้าหนี้
+- How to Create Vendor<br/>
+การสร้างรหัสเจ้าหนี้<br/>
 
 <h3 style="margin: 0;">Account Payable AP - Vender Information (Windows Version)</h3>
 

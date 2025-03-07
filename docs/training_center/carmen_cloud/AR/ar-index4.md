@@ -1,8 +1,7 @@
 # Receipt
 
-- How to create a receipt and settle outstnading invoice fully or partially
-
-     การรับชำระเงินแบบเต็มจำนวน หรือ บางส่วน
+- How to create a receipt and settle outstnading invoice fully or partially<br/>
+การรับชำระเงินแบบเต็มจำนวน หรือ บางส่วน<br/>
 
 
 <h3 style="margin: 0;">Receipt  |  การสร้างใบเสร็จรับเงิน</h3>

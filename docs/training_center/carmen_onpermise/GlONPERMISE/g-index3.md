@@ -1,16 +1,11 @@
 # Journal Voucher
 
-- How to Create JV from Template 
-
-       การบันทึก JV ด้วย  Template
-
-- How to Create JV by copy
-
-       การบันทึก JV ด้วยการ Copy       
-
-- How to Create JV from Excel Clipboard
-
-       การบันทึกJVด้วยClipboardจากExcel  
+- How to Create JV from Template<br/> 
+การบันทึก JV ด้วย  Template<br/>
+- How to Create JV by copy<br/>
+การบันทึก JV ด้วยการ Copy<br/>       
+- How to Create JV from Excel Clipboard<br/>
+การบันทึกJVด้วยClipboardจากExcel<br/>  
 
 <h6 style="margin: 0;">General Ledger (GL) - Standard Journal Voucher (Windows Version)</h6>
 

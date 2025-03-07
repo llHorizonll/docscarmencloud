@@ -1,8 +1,7 @@
 # General Settings
 
-- How to set System setting
-
-       การตั้งค่าระบบ      
+- How to set System setting<br/>
+การตั้งค่าระบบ<br/>      
 
 <h3 style="margin: 0;">SY General Setting</h3>
 

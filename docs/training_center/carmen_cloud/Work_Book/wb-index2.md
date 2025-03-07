@@ -1,8 +1,7 @@
 # How to upload a journal voucher (JV) from excel
 
-- How to upload a journal voucher (JV) from excel
-
-       การสร้าง JV ผ่าน Excel
+- How to upload a journal voucher (JV) from excel<br/>
+การสร้าง JV ผ่าน Excel
 
 <h3 style="margin: 0;">Create JV from Excel|การสร้างใบสำคัญบันทึกบัญชีจาก Excel</h3>
 

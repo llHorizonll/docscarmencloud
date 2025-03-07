@@ -1,8 +1,7 @@
 # AR Profile
 
-- How to Create AR Profile
-
-       การสร้างรหัสลูกหนี้
+- How to Create AR Profile<br/>
+การสร้างรหัสลูกหนี้<br/>
 
 <h3 style="margin: 0;">Account Receivable (AR) - Add Profile (Windows Version)</h3>
 

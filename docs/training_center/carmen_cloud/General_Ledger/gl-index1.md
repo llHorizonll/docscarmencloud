@@ -1,8 +1,7 @@
 # Copy Function on JV
 
-- How to create a journal voucher (JV) by copy from existing voucher
-
-       การใช้ฟังค์ชั่น COPY บนหน้า Journal Voucher 
+- How to create a journal voucher (JV) by copy from existing voucher<br/>
+การใช้ฟังค์ชั่น COPY บนหน้า Journal Voucher <br/>
 
 <h3 style="margin: 0;">Copy Function on JV|การใช้คำสั่ง Copy ในการสร้างใบสำคัญบันทึกบัญชี</h3>
 

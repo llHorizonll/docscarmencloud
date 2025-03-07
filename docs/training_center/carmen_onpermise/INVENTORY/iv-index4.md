@@ -1,8 +1,7 @@
 # Issue
 
-- How to Issue Items
-
-       การตัดเบิกสินค้าเป็นต้นทุนของแผนก
+- How to Issue Items<br/>
+การตัดเบิกสินค้าเป็นต้นทุนของแผนก<br/>
 
 <h3 style="margin: 0;">Inventory & Recipe - Issue (Windows Version)</h3>
 

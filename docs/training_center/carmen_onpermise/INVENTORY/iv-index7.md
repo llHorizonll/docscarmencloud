@@ -1,8 +1,7 @@
 # Report
 
-- How to view Report
-
-       การดูรายงาน
+- How to view Report<br/>
+การดูรายงาน<br/>
 
 <h3 style="margin: 0;">Inventory & Recipe - Report (Windows Version)</h3>
 

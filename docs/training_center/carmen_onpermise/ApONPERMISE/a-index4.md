@@ -1,8 +1,7 @@
 # Payment
 
-- How to Record Payment
-
-       การบันทึกใบสำคัญจ่าย
+- How to Record Payment<br/>
+การบันทึกใบสำคัญจ่าย<br/>
 
 <h3 style="margin: 0;">Account Payable AP - Payment (Windows Version)</h3>
 

@@ -1,8 +1,7 @@
 # Chart of Account
 
-- How to Create Account Code 
-
-       การสร้างรหัสบัญชี
+- How to Create Account Code<br/> 
+การสร้างรหัสบัญชี<br/>
       
 <h6 style="margin: 0;">General Ledger (GL) - Account Code (Windows Version)</h6>
 

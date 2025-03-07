@@ -1,8 +1,7 @@
 # Customer(AR)Profile
 
-- How to create AR Profile
-
-       การสร้างทะเบียนลูกหนี้
+- How to create AR Profile<br/>
+การสร้างทะเบียนลูกหนี้<br/>
 
 <h3 style="margin: 0;">Customer (AR) Profile|การสร้างทะเบียนลูกหนี้</h3>
 

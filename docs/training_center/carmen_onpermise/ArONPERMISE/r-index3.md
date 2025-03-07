@@ -1,8 +1,7 @@
 # Receipt
 
-- How to Record Receipt
-
-       การบันทึกใบเสร็จรับเงิน
+- How to Record Receipt<br/>
+การบันทึกใบเสร็จรับเงิน<br/>
 
 <h3 style="margin: 0;">Account Receivable (AR) - Receipt (Windows Version)</h3>
 

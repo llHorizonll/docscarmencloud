@@ -1,8 +1,7 @@
 # Adjustment / Sale
 
-- How to Adjust Inventory
-
-       การปรับปรุงสินค้าคงคลัง
+- How to Adjust Inventory<br/>
+การปรับปรุงสินค้าคงคลัง<br/>
 
 <h3 style="margin: 0;">Inventory&Recipe-Adjustment/Sale(Windows Version)</h3>
 

@@ -1,8 +1,7 @@
 # Requisition
 
-- How to Request Items from Store
-
-       การเบิกสินค้าจากคลังสินค้า
+- How to Request Items from Store<br/>
+การเบิกสินค้าจากคลังสินค้า<br/>
 
 <h3 style="margin: 0;">Inventory & Recipe - Requisition (Windows Version)</h3>
 

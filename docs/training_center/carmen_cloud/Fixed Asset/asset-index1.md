@@ -1,8 +1,7 @@
 # Asset Registration
 
-- How to register fixed assets manually
-
-       การลงทะเบียนทรัพย์สินด้วยตนเอง
+- How to register fixed assets manually<br/>
+การลงทะเบียนทรัพย์สินด้วยตนเอง<br/>
 
 <h3 style="margin: 0;">Asset Registration|การลงทะเบียนสินทรัพย์</h3>
 

@@ -1,8 +1,7 @@
 # Add New Employee
 
-- How to Add New Employee
-
-       การสร้างพนักงานใหม่
+- How to Add New Employee<br/>
+การสร้างพนักงานใหม่<br/>
 
 <h3 style="margin: 0;">ST Add Employee</h3>
 

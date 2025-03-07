@@ -1,8 +1,7 @@
 # Receiving
 
-- How to Receiving Items
-
-       การรับสินค้า
+- How to Receiving Items<br/>
+การรับสินค้า<br/>
 
 <h3 style="margin: 0;">Inventory & Recipe - Receiving (Windows Version)</h3>
 
