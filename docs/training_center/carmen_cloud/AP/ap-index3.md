@@ -1,4 +1,4 @@
-# Input_Vat Reconciliation
+# Input Vat Reconciliation
 
 - How to reconcile input tax<br/>
 การตรวจสอบรายการใบกำกับภาษีซื้อ<br/>
