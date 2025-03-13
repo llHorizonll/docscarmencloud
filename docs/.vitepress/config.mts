@@ -57,120 +57,117 @@ export default defineConfig({
 
 function sidebarAll() {
   return [
-      {
-        text: "Dashboard",
-        link: "/dashboard",
-      },
-      {
-        text: "General Ledger",
-        collapsed: true,
-        base: '/carmen_cloud/gl/c-',
-        items: [
-          { text: "Journal Voucher", link: "journal_voucher" },
-          { text: "Template Voucher", link: "template_voucher" },
-          { text: "Recurring Voucher", link: "recurring_voucher" },
-          { text: "Amortization Voucher", link: "amortization_voucher" },
-          { text: "Allocation Voucher", link: "allocation_voucher" },
-          { text: "Budget", link: "budget" },
-          { text: "Posting Account Payable to GL", link: "posting_ap" },
-          { text: "Posting Account Receivable to GL", link: "posting_ar" },
-          { text: "Inventory & Extra Cost Posting to GL", link: "posting_inventory" },
-          { text: "Posting Fixed Assets to GL", link: "posting_asset" },
-          { text: "Close Period and Year End", link: "close_period" },
-        ],
-      },
-      {
-        text: "Account Payable",
-        collapsed: true,
-        base: '/carmen_cloud/ap/AP-',
-        items: [
-          { text: "Vendor", link: "vendor" },
-          { text: "Posting AP invoice from recieving", link: "recevingToAp" },
-          { text: "Invoice", link: "invoice" },
-          { text: "Payment", link: "payment" },
-          { text: "Deposit Payment", link: "deposit_payment" },
-          { text: "Apply Deposit with Invoice", link: "apply_deposit_pay_with_inv" },
-          { text: "Cheque Reconciliation", link: "cheque_reconciliation" },
-          { text: "Input Tax Reconciliation", link: "input_tax_reconciliation" },
-          { text: "WHT Reconciliation", link: "wht_reconciliation" },
-          { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 3", link: "RDPrep_3" },
-          { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 53", link: "RDPrep_53" },
-          { text: "Close Period AP", link: "close_period" },
-        ],
-      },
-      {
-        text: "Account Receivable",
-        collapsed: true,
-        base: '/carmen_cloud/ar/AR-',
-        items: [
-          { text: "Profile", link: "profile" },
-          { text: "AR Posting from PMS (PMS Interface)", link: "posting_pms" },
-          { text: "Folio", link: "folio" },
-          { text: "Invoice", link: "invoice" },
-          { text: "Contract", link: "contract" },
-          { text: "Apply AR Contract", link: "apply_contract" },
-          { text: "Receipt", link: "receipt" },
-          { text: "Receipt for Advance Deposit", link: "receipt_advance_deposit" },
-          { text: "Apply invoice for Advance Deposit", link: "apply_invoice_advance_deposit" },
-          { text: "Close Period AR", link: "close_period" },
-        ],
-      },
-      {
-        text: "Asset",
-        collapsed: true,
-        base: '/carmen_cloud/asset/AS-',
-        items: [
-          { text: "Pre-Register Asset Setting", link: "preasset_setting" },
-          { text: "Pre-Register Asset", link: "preasset" },
-          { text: "Asset Register", link: "asset_register" },
-          { text: "Print Asset QR Code", link: "print_asset" },
-          { text: "Asset Disposal", link: "asset_disposal" },
-          { text: "Asset Checker", link: "asset_checker" },
-          { text: "Close Period Asset", link: "close_period" },
-        ],
-      },
-      {
-        text: "Comment and Document Management & Activity Log",
-        collapsed: true,
-        base: '/carmen_cloud/comment/CM-',
-        items: [
-          { text: "Comment and Document Management & Activity Log", link: "index" },
-        ],
-      },
-     
-      {
-        text: "Work Book",
-        collapsed: true,
-        base: '/carmen_cloud/workbook/WB-',
-        items: [
-          { text: "Installation and Configuration", link: "install&config" },
-          { text: "Work Book Function", link: "function" },
-          { text: "Excel Security setting for Carmen Add-in", link: "excelsecurity" },
-        ],
-      },
-      {
-        text: "Configuration",
-        collapsed: true,
-        base: '/carmen_cloud/configuration/CF-',
-        items: [
-          { text: "Product License", link: "product_license" },
-          { text: "Company Profile", link: "company_profile" },
-          { text: "System Preference", link: "system_preference" },
-          { text: "Users", link: "users" },
-          { text: "Change Password User", link: "change_password_user" },
-          { text: "Permissions", link: "permissions" },
-          { text: "Currency Exchange Rate", link: "currency_exrate" },
-          { text: "Currency", link: "currency" },
-          { text: "Department", link: "department" },
-          { text: "Chart Of Accounts", link: "chart_of_account" },
-          { text: "Payment Type", link: "payment_type" },
-          { text: "Dimension", link: "dimension" },
-          { text: "Unit", link: "unit" },
-        ],
-      },
-    ]
-  }
- 
+    {
+      text: "Dashboard",
+      link: "/dashboard",
+    },
+    {
+      text: "General Ledger",
+      collapsed: true,
+      base: "/carmen_cloud/gl/c-",
+      items: [
+        { text: "Journal Voucher", link: "journal_voucher" },
+        { text: "Template Voucher", link: "template_voucher" },
+        { text: "Recurring Voucher", link: "recurring_voucher" },
+        { text: "Amortization Voucher", link: "amortization_voucher" },
+        { text: "Allocation Voucher", link: "allocation_voucher" },
+        { text: "Budget", link: "budget" },
+        { text: "Posting Account Payable to GL", link: "posting_ap" },
+        { text: "Posting Account Receivable to GL", link: "posting_ar" },
+        { text: "Inventory & Extra Cost Posting to GL", link: "posting_inventory" },
+        { text: "Posting Fixed Assets to GL", link: "posting_asset" },
+        { text: "Close Period and Year End", link: "close_period" },
+      ],
+    },
+    {
+      text: "Account Payable",
+      collapsed: true,
+      base: "/carmen_cloud/ap/AP-",
+      items: [
+        { text: "Vendor", link: "vendor" },
+        { text: "Posting AP invoice from recieving", link: "recevingToAp" },
+        { text: "Invoice", link: "invoice" },
+        { text: "Payment", link: "payment" },
+        { text: "Deposit Payment", link: "deposit_payment" },
+        { text: "Apply Deposit with Invoice", link: "apply_deposit_pay_with_inv" },
+        { text: "Cheque Reconciliation", link: "cheque_reconciliation" },
+        { text: "Input Tax Reconciliation", link: "input_tax_reconciliation" },
+        { text: "WHT Reconciliation", link: "wht_reconciliation" },
+        { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 3", link: "RDPrep_3" },
+        { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 53", link: "RDPrep_53" },
+        { text: "Close Period AP", link: "close_period" },
+      ],
+    },
+    {
+      text: "Account Receivable",
+      collapsed: true,
+      base: "/carmen_cloud/ar/AR-",
+      items: [
+        { text: "Profile", link: "profile" },
+        { text: "AR Posting from PMS (PMS Interface)", link: "posting_pms" },
+        { text: "Folio", link: "folio" },
+        { text: "Invoice", link: "invoice" },
+        { text: "Contract", link: "contract" },
+        { text: "Apply AR Contract", link: "apply_contract" },
+        { text: "Receipt", link: "receipt" },
+        { text: "Receipt for Advance Deposit", link: "receipt_advance_deposit" },
+        { text: "Apply invoice for Advance Deposit", link: "apply_invoice_advance_deposit" },
+        { text: "Close Period AR", link: "close_period" },
+      ],
+    },
+    {
+      text: "Asset",
+      collapsed: true,
+      base: "/carmen_cloud/asset/AS-",
+      items: [
+        { text: "Pre-Register Asset Setting", link: "preasset_setting" },
+        { text: "Pre-Register Asset", link: "preasset" },
+        { text: "Asset Register", link: "asset_register" },
+        { text: "Print Asset QR Code", link: "print_asset" },
+        { text: "Asset Disposal", link: "asset_disposal" },
+        { text: "Asset Checker", link: "asset_checker" },
+        { text: "Close Period Asset", link: "close_period" },
+      ],
+    },
+    {
+      text: "Comment and Document Management & Activity Log",
+      collapsed: true,
+      base: "/carmen_cloud/comment/CM-",
+      items: [{ text: "Comment and Document Management & Activity Log", link: "index" }],
+    },
+
+    {
+      text: "Work Book",
+      collapsed: true,
+      base: "/carmen_cloud/workbook/WB-",
+      items: [
+        { text: "Installation and Configuration", link: "install&config" },
+        { text: "Work Book Function", link: "function" },
+        { text: "Excel Security setting for Carmen Add-in", link: "excelsecurity" },
+      ],
+    },
+    {
+      text: "Configuration",
+      collapsed: true,
+      base: "/carmen_cloud/configuration/CF-",
+      items: [
+        { text: "Product License", link: "product_license" },
+        { text: "Company Profile", link: "company_profile" },
+        { text: "System Preference", link: "system_preference" },
+        { text: "Users", link: "users" },
+        { text: "Change Password User", link: "change_password_user" },
+        { text: "Permissions", link: "permissions" },
+        { text: "Currency Exchange Rate", link: "currency_exrate" },
+        { text: "Currency", link: "currency" },
+        { text: "Department", link: "department" },
+        { text: "Chart Of Accounts", link: "chart_of_account" },
+        { text: "Payment Type", link: "payment_type" },
+        { text: "Dimension", link: "dimension" },
+        { text: "Unit", link: "unit" },
+      ],
+    },
+  ];
+}
 
 function sidebarTraining() {
   return [
@@ -181,7 +178,7 @@ function sidebarTraining() {
         {
           text: "Account Payable",
           collapsed: true,
-          base: '/training_center/carmen_cloud/AP/ap-',
+          base: "/training_center/carmen_cloud/AP/ap-",
           items: [
             {
               text: "Vendor Profile",
@@ -203,13 +200,12 @@ function sidebarTraining() {
               text: "Withholding Tax Reconciliation",
               link: "index4",
             },
-            
           ],
         },
         {
           text: "Account Receivable",
           collapsed: true,
-          base: '/training_center/carmen_cloud/AR/ar-',
+          base: "/training_center/carmen_cloud/AR/ar-",
           items: [
             {
               text: "Customer(AR)Profile",
@@ -232,7 +228,7 @@ function sidebarTraining() {
         {
           text: "Fixed Asset",
           collapsed: true,
-          base: '/training_center/carmen_cloud/Fixed Asset/asset-',
+          base: "/training_center/carmen_cloud/Fixed Asset/asset-",
           items: [
             {
               text: "Asset Registration",
@@ -251,7 +247,7 @@ function sidebarTraining() {
         {
           text: "Asset Checker",
           collapsed: true,
-          base: '/training_center/carmen_cloud/Asset Checker/ac-',
+          base: "/training_center/carmen_cloud/Asset Checker/ac-",
           items: [
             {
               text: "Mobile Asset Checking ",
@@ -262,7 +258,7 @@ function sidebarTraining() {
         {
           text: "General Ledger",
           collapsed: true,
-          base: '/training_center/carmen_cloud/General_Ledger/gl-',
+          base: "/training_center/carmen_cloud/General_Ledger/gl-",
           items: [
             {
               text: "Journal Voucher",
@@ -305,7 +301,7 @@ function sidebarTraining() {
         {
           text: "Work Book",
           collapsed: true,
-          base: '/training_center/carmen_cloud/Work_Book/wb-',
+          base: "/training_center/carmen_cloud/Work_Book/wb-",
           items: [
             {
               text: "Set up a business unit (BU)",
@@ -342,7 +338,7 @@ function sidebarTraining() {
         {
           text: "Inventory",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/INVENTORY/iv-',
+          base: "/training_center/carmen_onpermise/INVENTORY/iv-",
           items: [
             {
               text: "Receiving",
@@ -383,7 +379,7 @@ function sidebarTraining() {
         {
           text: "Recipe",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/RECIPE/re-',
+          base: "/training_center/carmen_onpermise/RECIPE/re-",
           items: [
             {
               text: "Recipe",
@@ -394,7 +390,7 @@ function sidebarTraining() {
         {
           text: "Asset Management",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/ASSET/s-',
+          base: "/training_center/carmen_onpermise/ASSET/s-",
           items: [
             {
               text: "Asset Register",
@@ -420,7 +416,7 @@ function sidebarTraining() {
         {
           text: "General Ledger",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/GlONPERMISE/g-',
+          base: "/training_center/carmen_onpermise/GlONPERMISE/g-",
           items: [
             {
               text: "Chart of Account",
@@ -456,7 +452,7 @@ function sidebarTraining() {
         {
           text: "Add In",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/Addin/add-',
+          base: "/training_center/carmen_onpermise/Addin/add-",
           items: [
             {
               text: "Financial Report",
@@ -467,7 +463,7 @@ function sidebarTraining() {
         {
           text: "Account Payable",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/ApONPERMISE/a-',
+          base: "/training_center/carmen_onpermise/ApONPERMISE/a-",
           items: [
             {
               text: "Cloud Highlight",
@@ -503,7 +499,7 @@ function sidebarTraining() {
         {
           text: "Account Receivable",
           collapsed: true,
-          base: '/training_center/carmen_onpermise/ArONPERMISE/r-',
+          base: "/training_center/carmen_onpermise/ArONPERMISE/r-",
           items: [
             {
               text: "AR Profile",
@@ -531,7 +527,7 @@ function sidebarTraining() {
     {
       text: "Cadena",
       collapsed: false,
-      base: '/training_center/carmen_onpermise/CADENA/ca-',
+      base: "/training_center/carmen_onpermise/CADENA/ca-",
       items: [
         {
           text: "Time Attandance",
@@ -541,7 +537,7 @@ function sidebarTraining() {
               text: "TA Data Setup",
               link: "index1",
             },
-            
+
             {
               text: "TA Holiday Data Setup",
               link: "index2",
@@ -608,7 +604,6 @@ function sidebarTraining() {
               text: "Leave Data Setup",
               link: "index13",
             },
-          
           ],
         },
       ],
