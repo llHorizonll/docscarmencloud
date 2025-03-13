@@ -1,7 +1,9 @@
 {
-  "exclude": ["node_modules"],
   "compilerOptions": {
-    "paths": { "@/*": ["./docs/*"] },
+    "paths": {
+      "@/*": ["./docs/*"],
+      "vue": ["./node_modules/vue/types/vue"]
+    },
     // Enable latest features
     "lib": ["ESNext", "DOM"],
     "target": "ESNext",
@@ -10,6 +12,7 @@
     "jsx": "react-jsx",
     "allowJs": true,
     "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
     // Bundler mode
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
