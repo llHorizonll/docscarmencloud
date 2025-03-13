@@ -1,5 +1,4 @@
 {
-"include": ["docs/**/*.ts", "docs/**/*.d.ts", "docs/**/*.tsx", "docs/**/*.vue"],
   "exclude": ["node_modules"],
   "compilerOptions": {
     "paths": { "@/*": ["./docs/*"] },

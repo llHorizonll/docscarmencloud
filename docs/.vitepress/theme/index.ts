@@ -1,4 +1,4 @@
-// .vitepress/theme/index.js
+// .vitepress/theme/index.ts
 import DefaultTheme from "vitepress/theme";
 import Layout from "./Layout.vue";
 import "./custom.css";
