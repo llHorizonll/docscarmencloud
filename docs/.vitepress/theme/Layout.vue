@@ -47,19 +47,6 @@ watchEffect(() => {
   z-index: 1000;
 }
 
-@media (min-width: 768px) {
-  .translate-wrapper {
-    top: 60px;
-  }
-}
-
-@media (max-width: 1280px) {
-  .translate-wrapper {
-    top: 10px;
-  }
-}
-
-
 #google_translate_element select {
   width: 120px;
   padding: 5px;
