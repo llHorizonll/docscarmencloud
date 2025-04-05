@@ -47,6 +47,18 @@ watchEffect(() => {
   z-index: 1000;
 }
 
+@media (min-width: 768px) {
+  .translate-wrapper {
+    top: 60px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .translate-wrapper {
+    top: 60px;
+  }
+}
+
 #google_translate_element select {
   width: 100px;
   padding: 5px;
