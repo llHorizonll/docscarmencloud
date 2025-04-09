@@ -297,6 +297,10 @@ function sidebarTraining() {
               text: "Year Ending",
               link: "index8",
             },
+            {
+              text: "Financial Report",
+              link: "index9",
+            },
           ],
         },
         {
