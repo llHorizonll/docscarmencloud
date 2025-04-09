@@ -77,6 +77,7 @@ function sidebarAll() {
         { text: "Inventory & Extra Cost Posting to GL", link: "posting_inventory" },
         { text: "Posting Fixed Assets to GL", link: "posting_asset" },
         { text: "Close Period and Year End", link: "close_period" },
+        { text: "Financial Report", link: "FinancialGL" },
       ],
     },
     {
@@ -295,6 +296,10 @@ function sidebarTraining() {
             {
               text: "Year Ending",
               link: "index8",
+            },
+            {
+              text: "Financial Report",
+              link: "index9",
             },
           ],
         },
