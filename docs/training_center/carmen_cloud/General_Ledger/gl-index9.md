@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Financial Report
 lang: th-TH
 ---
 
@@ -7,143 +7,141 @@ lang: th-TH
 
 ## Financial Report (รายงานทางการเงิน)
 
+<<<<<<< HEAD
 Financial Report ใช้สำหรับการเรียกดูงบการเงินตามมาตรฐานของระบบ สำหรับงบการเงินที่ซับซ้อนนั้นลูกค้าสามารถใช้ Excel Add In ในการเรียกดูได้ตามปกติ
+=======
+Financial Report (รายงานทางการเงิน)
+
+Financial ใช้สำหรับการเรียกดูงบการเงินตามมาตรฐานของระบบ สำหรับงบการเงินที่ซับซ้อนนั้นลูกค้าสามารถใช้ Excel Add In ในการเรียกดูได้ตามปกติ
+>>>>>>> dev
 
 Financial Report ในระบบ Carmen แบ่งเป็น 2 รายงาน
 
-1.Profit and Loss (งบกำไร(ขาดทุน))
+A.Profit and Loss (งบกำไร(ขาดทุน))
 
-2.Balance Sheet (งบดุล หรือ งบแสดงฐานะทางการเงิน)
+B.Balance Sheet (งบดุล หรือ งบแสดงฐานะทางการเงิน)
 
-โดยไปที่ module “General Ledger” 
+สามารถเข้าใช้งานจาก module “General Ledger” 
 
 ไปที่หัวข้อ “Financial Report”
 ![alt text](image-95.png)
-1.ขั้นตอนการตั้งค่า รายงาน Profit and Loss และ Balance Sheet     
-การตั้งค่า mapping account code ก่อนเรียกดูรายงาน
 
-1.1 Click “Setting”
+1.ขั้นตอนการตั้งค่า Mapping Account Code ให้รายงาน Profit and Loss และ Balance Sheet ก่อนเริ่มดูรายงาน
+
+1.1เลือกรายงานที่ต้องการ และ Click ปุ่ม “Setting” รูปฟันเฟือง
 ![alt text](image-96.png)
-1.2 ที่ “Description” ฝั่งซ้ายมือ Click หัวข้อที่ต้องการ Mapping ผังบัญชี 
-สามารถเลือกได้มากกว่า 1 account code ระบบจะทำการ sum ตัวเลขจาก account code ที่เลือกมาให้
+
+1.2 ที่ “Description” .ให้ Click หัวข้อที่ต้องการ Mapping ผังบัญชี เช่น “Cash House Fund” แล้วระบบจะแสดงหน้าต่าง “Select Account Detail” ให้ทำการ mapping
+
+ขั้นตอนการ mapping Account codeในหน้าต่าง “Select Account Detail”
+
+1.3 “Search Box” สามารถค้นหาชื่อหรือรหัสของ Account code ที่ต้องการ mapping
+
+1.4 “Select All” สามารถเลือก account code ทั้งหมดที่ต้องการ
+
+1.5 Click เลือก Account code ที่ต้องการ mapping แล้ว ระบบจะย้าย Account code นั้นไปทางขวามือ และสามารถเลือกได้มากกว่า 1 account code ระบบจะทำการ “Summary” จาก account code ที่ Mapping เอาไว้สำหรับ “Cash House Fund”
+
+1.6 Click “Save” เพื่อบันทึกการ mapping หรือ “Cancel” เพื่อยกเลิกการ mapping
 ![alt text](image-97.png)
-1.3 ที่ “Detail” ขวามือจะแสดงตาราง Account code mapping จากหัวข้อที่ถูกเลือก
-การเพิ่มผังบัญชี
 
-1.3.1 Click “Select All” หากต้องการเลือก Mapping ทุกผังบัญชี หรือ ค้นหา ผังบัญชีที่ต้องการ ในช่อง “Search”
+ขั้นตอนการยกเลิก mapping Account codeในหน้าต่าง “Select Account Detail”
 
-1.3.2 หรือ Click ที่ ผังบัญชี แต่ละตัว ที่ต้องการ เพื่อ Mapping ผังบัญชี กับ “Detail” ที่แสดง
+1.7 “Remove All” สามารถเลือก account code ทั้งหมดที่ต้องการยกเลิก
+
+1.8 Click เลือก Account code ที่ต้องการยกเลิก mapping แล้ว ระบบจะย้าย Account code นั้นกลับไปซ้ายมือ 
+
+1.9 Click “Save” เพื่อบันทึก หรือ “Cancel” เพื่อยกเลิก
 ![alt text](image-98.png)
 
-การยกเลิกผังบัญชี
+2. ขั้นตอนการ “View” รายงาน “Balance Sheet”
 
-1.3.3 Click “Remove All” หากต้องการ ลบ Mapping ทุกผังบัญชี ที่เลือกไว้
+1.1 เลือกรายงาน “Balance Sheet”
 
-1.3.4 หรือ Click ที่ ผังบัญชี ที่ต้องการ เพื่อ ลบ ผังบัญชี ที่ทำการ Mapping ไว้
-
-การบันทึกข้อมูล
-
-1.3.5 Click “Save” เพื่อ บันทึก หรือ “Cancel” เพื่อ ยกเลิก
-
+1.2 Click ที่ปุ่ม “Select Department” เพื่อเลือก department ที่ต้องการ filter 
 ![alt text](image-99.png)
 
-2.ขั้นตอนการ “View” รายงาน Profit and Loss
+- ระบบจะแสดงหน้าต่างให้เลือก “Department” โดยระบบจะเลือกแผนกทั้งหมดเป็นค่าตั้งต้น
 
-2.1 Click เครื่องหมายถูก ที่ “All Department” หากต้องการเลือก Department ทั้งหมด
+- Click ที่รหัส “Department” ที่ไม่ต้องการแสดงในรายงาน แล้วระบบจะย้ายกลับไปทางซ้าย
 
-2.2 Click ที่ “Department” ระบบจะแสดง Department ให้เลือก
-
+- Click “Save” เพื่อบันทึก หรือ “Cancel” เพื่อยกเลิก
 ![alt text](image-100.png)
 
-2.3 Click เครื่องหมายถูก เพื่อ เลือก “Department” ที่ต้องการ
+1.3 “Select Period” กำหนดรอบบัญชีที่ต้องการดูรายงาน
 
-2.4 Click เครื่องหมายกากบาท เพื่อ ลบ “Department” ที่ไม่เกี่ยวข้อง
+1.4 “View By” กำหนดมุมมองของรายงานที่ต้องการ แบ่งได้เป็น 2 รูปแบบ
 
+- “Monthly” แสดงตัวเลขการเปรียบเทียบ ระหว่างยอดสะสมจนถึงเดือนที่เรียกรายงาน และยอดสะสมก่อนเดือนที่เรียกรายงาน
+ความหมายของ column ในรายงานแบบ “Monthly” มีดังนี้
+
+   - Current Month = ยอดรวมตั้งแต่ใช้ระบบ จนถึง Period ที่เลือกจาก “Select Period”
+   - Prior Month = ยอดรวมตั้งแต่ใช้ระบบ จนถึง Period ที่แล้ว ที่เลือกจาก “Select Period”|
+   - Variance = ผลต่างของ Current Month ลบด้วย Prior Month
+   - % = คำนวนจาก Variance 
+
+- “Annual” แสดงตัวเลขการเปรียบเทียบ ระหว่างยอดสะสมจนถึงเดือนที่เรียกรายงาน และยอดสะสม ณ สิ้นปีก่อนปีที่เรียกรายงาน
+ความหมายของ column ในรายงานแบบ “Annual” มีดังนี้
+   - Current Year = ยอดรวมตั้งแต่ใช้ระบบ จนถึง Period ที่เลือกจาก “Select Period”
+   - Prior Year = ยอดรวมตั้งแต่ใช้ระบบ จนถึง ปี ที่แล้ว ที่เลือกจาก “Select Period”
+   - Variance = ผลต่างของ Current Year ลบด้วย Prior Year
+   - % = คำนวนจากช่อง Variance
+
+1.5 Click ที่ “View” เพื่อดูรายงาน
 ![alt text](image-101.png)
-        
-2.5 ที่ “Select Period” Click เลือก “Period” ที่ต้องการ
 
-2.6 ที่ “Select Budget (Revision)” Click เลือก “Budget” ที่ต้องการให้แสดงเปรียบเทียบ
-
-2.6.1 Annual คือ Budget version หลัก
-
-2.6.2 Revision 1 – 4 คือ budget revision
-
-2.7 Click “View” ระบบจะแสดงข้อมูลตามที่เลือก
-
-2.8 Click “Expand All” เพื่อ แสดงรายละเอียดตาม account code ของแต่ละหัวข้อ ในรายงานหรือ Click “Collapse All” เพื่อ ย่อ ข้อมูล ในแต่ละหัวข้อ ในรายงาน
-
+1.6 ระบบจะแสดงรายงานตามรูปแบบมาตรฐานของระบบ และแสดงจำนวนเงินตามการ mapping “Account Code” ที่กำหนดไว้ 
 ![alt text](image-102.png)
-  
-2.9 การแสดงข้อมูลบนรายงาน P&L จะแบ่งออกเป็น 2 ส่วน
 
-2.9.1 MONTH TO DATE
- 
-- This Month = ยอดของ Period ที่เลือกจาก “Select Period”
-- Last Month = ยอดของ Period ที่ผ่านมาจาก “Select Period”
-- Budget = ยอดของ Budget ที่เลือกจาก “Select Budget (Revision)” ของ Period ที่เลือก จาก “Select Period”
+3. ขั้นตอนการ “View” รายงาน “Profit and Loss”
 
-2.9.2 YEAR TO DATE 
+2.1 เลือกรายงาน “Profit and Loss”
 
-- This Year = ยอดรวมจาก Period เริ่มต้น จนถึง Period ที่เลือก ณ ปีที่เลือก จาก “Select Period”
-- Last Year = ยอดรวมจาก Period เริ่มต้น จนถึง Period ที่เลือก ของปีที่ผ่านมา จาก “Select Period”
-- Year Budget = ยอดรวมของ Budget ที่เลือกจาก “Select Budget (Revision)” จาก Period เริ่มต้น จนถึง Period ที่เลือก ณ ปีที่เลือก จาก “Select Period”
+2.2 Click ที่ปุ่ม “Select Department” เพื่อเลือก department ที่ต้องการ filter 
+![alt text](image-103.png)
 
-![alt text](image-103.png)            
-
-3.ขั้นตอนการ “View” รายงาน Balance Sheet
-
-3.1 Click เครื่องหมายถูก ที่ “All Department” หากต้องการเลือก Department ทั้งหมด
-
-3.2 Click ที่ “Department” ระบบจะแสดง Department ให้เลือก
-
+   - ระบบจะแสดงหน้าต่างให้เลือก “Department” โดยระบบจะเลือกแผนกทั้งหมดเป็นค่าตั้งต้น
+   - Click ที่รหัส “Department” ที่ไม่ต้องการแสดงในรายงาน แล้วระบบจะย้ายกลับไปทางซ้าย
+   - Click “Save” เพื่อบันทึก หรือ “Cancel” เพื่อยกเลิก
 ![alt text](image-104.png)
 
-3.3 Click เครื่องหมายถูก เพื่อ เลือก “Department” ที่ต้องการ
 
-3.4 Click เครื่องหมายกากบาท เพื่อ ลบ “Department” ที่ไม่เกี่ยวข้อง
+2.3 “Select Period” กำหนดรอบบัญชีที่ต้องการดูรายงาน
 
-![alt text](image-105.png)         
+2.4 “Select Budget (Revision)” Click เลือก “Budget” ที่ต้องการให้แสดงเปรียบเทียบ
+  - Annual คือ Budget version หลัก
+  - Revision 1 – 4 คือ budget revision
+  ความหมายของ column ในรายงาน “Profit and Loss” มีดังนี้
 
-3.5 ที่ “Select Period” Click เลือก “Period” ที่ต้องการ
+2.4.1 MONTH TO DATE 
+  - This Month = ยอดของ Period ที่เลือกจาก “Select Period”
+  - Last Month = ยอดของ Period ที่ผ่านมาจาก “Select Period”
+  - Budget = ยอดของ Budget ที่เลือกจาก “Select Budget (Revision)” ของ Period ที่เลือก จาก “Select Period”
 
-3.6 ที่ “ViewBy” Click เลือก ได้ 2 วิธี คือ 1.Monthly 2.Annual (Yearly)
+2.4.2 YEAR TO DATE 
+  - This Year = ยอดรวมจาก Period เริ่มต้น จนถึง Period ที่เลือก ณ ปีที่เลือก จาก “Select Period”
+  - Last Year = ยอดรวมจาก Period เริ่มต้น จนถึง Period ที่เลือก ของปีที่ผ่านมา จาก “Select Period”
+  - Year Budget = ยอดรวมของ Budget ที่เลือกจาก “Select Budget (Revision)” จาก Period เริ่มต้น จนถึง Period ที่เลือก ณ ปีที่เลือก จาก “Select Period”
 
-3.7 Click “View” ระบบจะแสดงข้อมูลตามที่เลือก
+2.5 Click ที่ “View” เพื่อดูรายงาน
+![alt text](image-105.png)
 
-3.8 Click “Expand All” เพื่อ แสดง ข้อมูล ในแต่ละบรรทัด ในรายงาน หรือ Click “Collapse All” เพื่อ ย่อ ข้อมูล ในแต่ละบรรทัด ในรายงาน
-
-![alt text](image-106.png)   
-
-3.9 การดูรายงาน Balance sheet แบบ ViewBy “Monthly” คือการดูยอดสะสมของเดือนปัจจุบัน เปรียบเทียบกับยอดสะสมของเดือนที่แล้ว
-
-- Current Month = ยอดรวมตั้งแต่ใช้ระบบ จนถึง Period ที่เลือกจาก “Select Period”
-- Prior Month = ยอดรวมตั้งแต่ใช้ระบบ จนถึง Period ที่แล้ว ที่เลือกจาก “Select Period”
-- Variance = ผลต่างของ Current Month ลบด้วย Prior Month
-- % = คำนวนจาก Variance 
-
+2.6 ระบบจะแสดงรายงานตามรูปแบบมาตรฐานของระบบ และแสดงจำนวนเงินตามการ mapping “Account Code” ที่กำหนดไว้
+![alt text](image-106.png)  
+       
+4.Function อื่น ๆ เพิ่มเติมดังนี้
+  - Click ที่ “Expand” เพื่อแสดงรายละเอียดจำนวนเงินแยกตาม Account Code ที่ map เอาไว้ของทุกบรรทัด หรือ “Collapse” เพื่อย่อรายงานกลับมาเป็นแบบ Summary
+  - Click ที่เครื่องหมาย “>” เพื่อแสดงรายละเอียดจำนวนเงินแยกตาม Account Code ที่ map เอาไว้ของบรรทัดที่เลือก
 ![alt text](image-107.png)
 
-3.10 การดูรายงาน Balance sheet แบบ ViewBy “Annual”คือการดูยอดสะสมของเดือนปัจจุบัน เปรียบเทียบกับยอดสะสม ณ สิ้นปีที่แล้ว
+5. การตั้งค่า Reverse Sign
+5.1 ใน Chart Of Accounts มีการเพิ่มการตั้งค่า “Reverse Sign” 
 
-- Current Year = ยอดรวมตั้งแต่ใช้ระบบ จนถึง Period ที่เลือกจาก “Select Period”
-- Prior Year = ยอดรวมตั้งแต่ใช้ระบบ จนถึง ปี ที่แล้ว ที่เลือกจาก “Select Period”
-- Variance = ผลต่างของ Current Year ลบด้วย Prior Year
-- % = คำนวนจากช่อง Variance
+5.2 การตั้งค่านี้จะมีผลกับ Financial Report ในระบบเท่านั้น
 
+5.3 Function นี้ใช้ในกรณีที่ต้องการกลับตัวเลขให้แสดงผลตรงกันข้าม 
+  - 5.3.1 เช่น account code ที่เป็นตัวลดรายได้ จากตัวอย่างคือ “Rebate Service Charge” จะเห็นว่า Account code นี้มี nature เป็น Debit ดังนั้นระบบจะทำการคำนวณตาม nature และแสดงผลเป็นยอดบวก
 ![alt text](image-108.png)
 
-4.การตั้งค่า Reverse Sign
-
-4.1 ใน Chart Of Accounts มีการเพิ่มการตั้งค่า “Reverse Sign” 
-
-4.2 การตั้งค่านี้จะมีผลกับ Financial Report ในระบบเท่านั้น
-
-4.3 Function นี้ใช้ในกรณีที่ต้องการกลับตัวเลขให้แสดงผลตรงกันข้าม 
-
-4.3.1 เช่น account code ที่เป็นตัวลดรายได้ จากตัวอย่างคือ “Rebate Service Charge” 
-
+5.3.2 เมื่อตั้งค่า reverse sign แล้ว ระบบจะทำการแสดงผลตรงกันข้าม ดังนั้น “Rebate Service Charge” จะแสดงผลเป็นติดลบ เพื่อทำให้รายได้ในหมวด “Room” มีมูลค่าลดลง
 ![alt text](image-109.png)
-
-4.3.2 เมื่อตั้งค่า reverse sign แล้ว ระบบจะทำการแสดงผลตรงกันข้าม ดังนั้น “Rebate Service Charge” จะแสดงผลเป็นติดลบ เพื่อทำให้รายได้ในหมวด “Room” มีมุลค่าลดลง
 
