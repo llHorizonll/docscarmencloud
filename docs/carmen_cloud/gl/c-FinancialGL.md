@@ -106,7 +106,7 @@ B.Balance Sheet (งบดุล หรือ งบแสดงฐานะท�
 3.4 “Select Budget (Revision)” Click เลือก “Budget” ที่ต้องการให้แสดงเปรียบเทียบ
   - Annual คือ Budget version หลัก
   - Revision 1 – 4 คือ budget revision
-  
+
   ความหมายของ column ในรายงาน “Profit and Loss” มีดังนี้
 
 3.4.1 MONTH TO DATE 
@@ -131,6 +131,7 @@ B.Balance Sheet (งบดุล หรือ งบแสดงฐานะท�
 ![alt text](image-107.png)
 
 5. การตั้งค่า Reverse Sign
+
 5.1 ใน Chart Of Accounts มีการเพิ่มการตั้งค่า “Reverse Sign” 
 
 5.2 การตั้งค่านี้จะมีผลกับ Financial Report ในระบบเท่านั้น
