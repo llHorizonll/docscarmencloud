@@ -14,10 +14,11 @@ const loadGoogleTranslate = () => {
         script.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
         script.async = true;
         document.body.appendChild(script);
+        document.body.style.top = "0";
 
         window.googleTranslateElementInit = function () {
           new window.google.translate.TranslateElement(
-            { pageLanguage: "th", includedLanguages: "en" },
+            { pageLanguage: "th", includedLanguages: "en,th" },
             "google_translate_element"
           );
         };
@@ -42,13 +43,25 @@ watchEffect(() => {
 /* Wrapper for positioning */
 .translate-wrapper {
   position: fixed;
-  top: 10px;
+  top: 60px;
   right: 20px;
   z-index: 1000;
 }
 
+@media screen and (max-width: 960px) {
+  .translate-wrapper {
+    top: 120px;
+  }
+}
+
+@media screen and (min-width: 1710px) {
+  .translate-wrapper {
+    top: 20px;
+  }
+}
+
 #google_translate_element select {
-  width: 100px;
+  width: 120px;
   padding: 5px;
   border-radius: 5px;
   border: 1px solid #ccc;

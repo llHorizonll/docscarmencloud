@@ -7,7 +7,7 @@ lang: th-TH
 
 ## การสร้างรหัสบัญชี (Account Code) ในระบบ
 
-1.1 กดปุ่ม Configuration > Chat Of Account
+1.1 กดปุ่ม Configuration > Chart of Account
 
 1.2 กดปุ่ม <img src="/public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่าง Chart of Account ให้กำหนดค่าดังต่อไปนี้
 
@@ -57,7 +57,7 @@ lang: th-TH
 
 ## การแก้ไขรหัสบัญชี Account Code
 
-1.6 กดปุ่ม Chat Of Account
+1.6 กดปุ่ม Chart of Account
 
 1.7 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการแก้ไข
 
@@ -84,7 +84,7 @@ lang: th-TH
 
 ## การลบรหัสบัญชี Account Code
 
-1.11 กดปุ่ม Chat Of Account
+1.11 กดปุ่ม Chart of Account
 
 1.12 Click ที่ปุ่ม <img src="./visibility.png" style="display: inline-block;" /> Account Code ที่ต้องการลบ
 
