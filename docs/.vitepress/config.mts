@@ -53,6 +53,7 @@ export default defineConfig({
       "/carmen_cloud/": { base: "/carmen_cloud/", items: sidebarAll() },
       "/training_center/": { base: "/training_center/carmen_cloud/", items: sidebarTraining() },
       "/carmen_onpermise/": { base: "/training_center/carmen_onpermise/", items: sidebarTraining() },
+      "/Blueledgers/": { base: "/Blueledgers/", items: sidebarBL() },
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/llHorizonll/docscarmencloud" }],
@@ -619,6 +620,152 @@ function sidebarTraining() {
             },
           ],
         },
+      ],
+    },
+  ];
+}
+function sidebarBL() {
+  return [
+    {
+      text: "Procurement",
+      collapsed: true,
+      base: "/Blueledgers/Procurement/P-",
+      items: [
+        { text: "Purchase Request", link: "index" },
+        { text: "Purchase Order", link: "index1" },
+        { text: "Receiving", link: "index2" },
+        { text: "Credit Note", link: "index3" },
+        { text: "Product", link: "index4" },
+        {
+          text: "Configuration",
+          collapsed: true,
+          items: [
+            {
+              text: "Price List",
+              link: "index5",
+            },
+            {
+              text: "Extra Cost",
+              link: "index6",
+            },
+            {
+              text: "Market List",
+              link: "index7",
+            },
+            {
+              text: "Standard Order",
+              link: "index8",
+            },
+            {
+              text: "Account Code Mapping",
+              link: "index9",
+            },
+            {
+              text: "Currency",
+              link: "index10",
+            },
+            {
+              text: "Exchange Rate",
+              link: "index11",
+            },
+            {
+              text: "Delivery Point",
+              link: "index12",
+            },
+            {
+              text: "Unit",
+              link: "index13",
+            },
+            {
+              text: "Category",
+              link: "index14",
+            },
+            {
+              text: "Store/Location",
+              link: "index15",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      text: "Material",
+      collapsed: true,
+      base: "/carmen_cloud/ap/AP-",
+      items: [
+        { text: "Store Requisition", link: "Store Requisition" },
+        { text: "Stock In", link: "Stock In" },
+        { text: "Stock Out", link: "Stock Out" },
+        {
+          text: "Procedure",
+          collapsed: true,
+          items: [
+            {
+              text: "Closing Balance",
+              link: "index13",
+            },
+            {
+              text: "Period End",
+              link: "index13",
+            },
+          ],
+        },
+        { text: "Configuration", link: "Configuration" },
+        {
+          text: "Procedure",
+          collapsed: true,
+          items: [
+            {
+              text: "Adjustment Type",
+              link: "index13",
+            },
+            {
+              text: "Standard Requisition",
+              link: "index13",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      text: "Portions",
+      collapsed: true,
+      base: "/carmen_cloud/ar/AR-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "Options",
+      collapsed: true,
+      base: "/carmen_cloud/asset/AS-",
+      items: [
+        { text: "Personal Setting", link: "Personal Setting" },
+        {
+          text: "Administrator",
+          collapsed: true,
+          items: [
+            {
+              text: "Role",
+              link: "index13",
+            },
+            {
+              text: "User",
+              link: "index13",
+            },
+            {
+              text: "Department",
+              link: "index13",
+            },
+            {
+              text: "Work-flow Configuration",
+              link: "index13",
+            },
+          ],
+        },
+        { text: "System Setting", link: "System Setting" },
       ],
     },
   ];
