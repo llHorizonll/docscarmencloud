@@ -49,7 +49,7 @@ B.Balance Sheet (งบดุล หรือ งบแสดงฐานะท�
 1.9 Click “Save” เพื่อบันทึก หรือ “Cancel” เพื่อยกเลิก
 ![alt text](image-98.png)
 
-2. ขั้นตอนการ “View” รายงาน “Balance Sheet”
+2. ขั้นตอนการดูรายงาน “Balance Sheet”
 
 1.1 เลือกรายงาน “Balance Sheet”
 
@@ -88,7 +88,7 @@ B.Balance Sheet (งบดุล หรือ งบแสดงฐานะท�
 1.6 ระบบจะแสดงรายงานตามรูปแบบมาตรฐานของระบบ และแสดงจำนวนเงินตามการ mapping “Account Code” ที่กำหนดไว้ 
 ![alt text](image-102.png)
 
-3. ขั้นตอนการ “View” รายงาน “Profit and Loss”
+3. ขั้นตอนการดูรายงาน “Profit and Loss”
 
 2.1 เลือกรายงาน “Profit and Loss”
 
