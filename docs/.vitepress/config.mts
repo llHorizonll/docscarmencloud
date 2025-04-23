@@ -654,7 +654,7 @@ function sidebarBL() {
             },
             {
               text: "Standard Order",
-              link: "StandardOrder",
+              link: "Standardorder",
             },
             {
               text: "Account Code Mapping",
