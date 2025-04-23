@@ -631,58 +631,58 @@ function sidebarBL() {
       collapsed: true,
       base: "/Blueledgers/Procurement/P-",
       items: [
-        { text: "Purchase Request", link: "index" },
-        { text: "Purchase Order", link: "index1" },
-        { text: "Receiving", link: "index2" },
-        { text: "Credit Note", link: "index3" },
-        { text: "Product", link: "index4" },
+        { text: "Purchase Request", link: "Purchase Request" },
+        { text: "Purchase Order", link: "Purchase Order" },
+        { text: "Receiving", link: "Receiving" },
+        { text: "Credit Note", link: "Credit Note" },
+        { text: "Product", link: "Product" },
         {
           text: "Configuration",
           collapsed: true,
           items: [
             {
               text: "Price List",
-              link: "index5",
+              link: "Price List",
             },
             {
               text: "Extra Cost",
-              link: "index6",
+              link: "Extra Cost",
             },
             {
               text: "Market List",
-              link: "index7",
+              link: "Market List",
             },
             {
               text: "Standard Order",
-              link: "index8",
+              link: "Standard Order",
             },
             {
               text: "Account Code Mapping",
-              link: "index9",
+              link: "Account Code Mapping",
             },
             {
               text: "Currency",
-              link: "index10",
+              link: "Currency",
             },
             {
               text: "Exchange Rate",
-              link: "index11",
+              link: "Exchange Rate",
             },
             {
               text: "Delivery Point",
-              link: "index12",
+              link: "Delivery Point",
             },
             {
               text: "Unit",
-              link: "index13",
+              link: "Unit",
             },
             {
               text: "Category",
-              link: "index14",
+              link: "Category",
             },
             {
               text: "Store/Location",
-              link: "index15",
+              link: "Store/Location",
             },
           ],
         },
