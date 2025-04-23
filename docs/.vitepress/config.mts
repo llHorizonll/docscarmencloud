@@ -682,7 +682,7 @@ function sidebarBL() {
             },
             {
               text: "Store/Location",
-              link: "Store/Location",
+              link: "StoreLocation",
             },
           ],
         },
