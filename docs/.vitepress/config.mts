@@ -691,7 +691,7 @@ function sidebarBL() {
     {
       text: "Material",
       collapsed: true,
-      base: "/carmen_cloud/ap/AP-",
+      base: "/Blueledgers/Material/M-",
       items: [
         { text: "Store Requisition", link: "Store Requisition" },
         { text: "Stock In", link: "Stock In" },
@@ -702,11 +702,11 @@ function sidebarBL() {
           items: [
             {
               text: "Closing Balance",
-              link: "index13",
+              link: "Closing Balance",
             },
             {
               text: "Period End",
-              link: "index13",
+              link: "Period End",
             },
           ],
         },
@@ -717,11 +717,11 @@ function sidebarBL() {
           items: [
             {
               text: "Adjustment Type",
-              link: "index13",
+              link: "Adjustment Type",
             },
             {
               text: "Standard Requisition",
-              link: "index13",
+              link: "Standard Requisition",
             },
           ],
         },
