@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Credit Note
 lang: th-TH
 ---
 

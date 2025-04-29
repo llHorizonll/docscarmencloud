@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Receiving
 lang: th-TH
 ---
 # Receiving (การรับสินค้า)
