@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Extra Cost Type
 lang: th-TH
 ---
 

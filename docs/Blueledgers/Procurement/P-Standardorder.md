@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Standard Order
 lang: th-TH
 ---
 

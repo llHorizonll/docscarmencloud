@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Price List
 lang: th-TH
 ---
 
