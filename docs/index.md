@@ -3,12 +3,13 @@
 layout: home
 
 hero:
-  name: "Carmen Cloud Manual"
-  text: "Document for carmen.blue"
+  name: "Carmen Cloud "
+  text: "Learning Center"
   tagline: Self Learning Portal
   image:
     src: /logo_CARMEN_Classic-Blue_low-res.png
     alt: Carmen Cloud
+    width: 900
   # actions:
   #   - theme: brand
   #     text: Document
