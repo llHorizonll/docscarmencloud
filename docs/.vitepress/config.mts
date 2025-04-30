@@ -710,9 +710,9 @@ function sidebarBL() {
             },
           ],
         },
-        { text: "Configuration", link: "Configuration" },
+        { text: "Product Restock", link: "Product Restock" },
         {
-          text: "Procedure",
+          text: "Configuration",
           collapsed: true,
           items: [
             {
