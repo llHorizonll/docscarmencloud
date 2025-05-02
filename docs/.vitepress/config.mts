@@ -730,7 +730,7 @@ function sidebarBL() {
     {
       text: "Portions",
       collapsed: true,
-      base: "/carmen_cloud/ar/AR-",
+      base: "/Blueledgers/Portions/O-",
       items: [
         { text: "Recipe", link: "Recipe" },
         { text: "Category", link: "Category" },
