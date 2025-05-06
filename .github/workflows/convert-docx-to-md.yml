@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "llHorizonll"
           git config user.email "thagoon.work@gmail.com"
-          git remote set-url origin https://llHorizonll:${GH_PAT}@github.com/llHorizonll/docscarmencloud.git
+          git remote set-url origin https://${GH_PAT}@github.com/llHorizonll/docscarmencloud.git
           git add docs/dest-docs/*.md
           git commit -m "Auto-convert DOCX to Markdown"
           git push origin HEAD
