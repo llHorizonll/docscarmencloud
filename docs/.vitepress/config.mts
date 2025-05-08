@@ -740,7 +740,7 @@ function sidebarBL() {
     {
       text: "Options",
       collapsed: true,
-      base: "/carmen_cloud/asset/AS-",
+      base: "/Blueledgers/Options/op-",
       items: [
         { text: "Personal Setting", link: "Personal Setting" },
         {
@@ -749,19 +749,19 @@ function sidebarBL() {
           items: [
             {
               text: "Role",
-              link: "index13",
+              link: "Role",
             },
             {
               text: "User",
-              link: "index13",
+              link: "User",
             },
             {
               text: "Department",
-              link: "index13",
+              link: "Department",
             },
             {
               text: "Work-flow Configuration",
-              link: "index13",
+              link: "Work-flow Configuration",
             },
           ],
         },
