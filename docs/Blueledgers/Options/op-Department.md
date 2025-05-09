@@ -1,5 +1,5 @@
 ---
-title: Allocation Voucher
+title: Department
 lang: th-TH
 ---
 # Department
