@@ -55,4 +55,10 @@ lang: th-TH
 
 6.กด OK อีกครั้งเพื่อเสร็จสิ้นการตั้งค่า Excel Options
 
+7. ActiveX Settings ให้เลือกPrompt brfore enabling all controls with minimal restrictions
+และเลือก Sade mode(helps limit the control's access to your computer)
+<p align="center">
+    <img src="./image.png"  />
+</p>
 
+8.กดOK
