@@ -154,6 +154,7 @@ function sidebarAll() {
         { text: "Installation and Configuration", link: "install&config" },
         { text: "Work Book Function", link: "function" },
         { text: "Excel Security setting for Carmen Add-in", link: "excelsecurity" },
+        { text: "troubleshootguide", link: "troubleshootguide" },
       ],
     },
     {
