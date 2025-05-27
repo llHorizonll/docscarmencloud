@@ -26,3 +26,11 @@ Antivirus ไป Block Add In Version ใหม่ที่ติดตั้ง
 2. กดApply
 3. กด OK
 ![alt text](image-43.png)
+## ถอดการติดตั้งAddin 
+เปิดExcel แล้วไปที่ File>Excel Options>Add-ins 
+1. กดไปที่หัวข้อ Add-ins
+2. หัวข้อManage กด GO
+![alt text](image-44.png)
+3. เลือกAdd in ที่ลูกค้าจะใช้งานนำ Carmen Add in ออก
+![alt text](image-45.png)
+4. กด OK
