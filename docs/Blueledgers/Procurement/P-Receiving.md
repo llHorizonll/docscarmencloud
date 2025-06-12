@@ -158,6 +158,7 @@ Function นี้ใช้กรอกข้อมูลในส่วนข�
 
 -	“Quantity” คำนวณ Extra Cost โดยเฉลี่ยตามจำนวนของสินค้า
 -	“Amount” คำนวณ Extra Cost โดยเฉลี่ยตามมูลค่าของสินค้า
+
 5.1.3.	“Detail” เพื่อ เลือก ประเภท “Extra Cost” 
 ![alt text](image-47.png) 
 5.1.4.	เลือก “Extra Cost” ที่ต้องการ 
