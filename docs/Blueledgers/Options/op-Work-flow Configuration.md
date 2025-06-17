@@ -6,7 +6,11 @@ lang: th-TH
 Work – Flow Configurations คือ การกำหนดขอบเขตการมองเห็น และลำดับขั้นในการอนุมัติเอกสาร ซึ่งประกอบไปด้วย เอกสารใบขอซื้อ (Purchase Request) และเอกสารใบขอเบิก (Store Requisition)
  ![alt text](image-18.png)
 
-A.	Purchase Request Workflow หมายถึง ขั้นตอนการทำงานในส่วนของเอกสารใบขอซื้อ มีขั้นตอนดังต่อไปนี้
+A.Module ใช้ในการกำหนดว่าต้องการตั้งค่า workflow ของ เอกสารใด
+      
+"Purchase Request" หมายถึง ขั้นตอนการอนุมัติ สำหรับเอกสารใบขอซื้อ 
+
+"Store Requisition" หมายถึง ขั้นตอนการอนุมัติ สำหรับเอกสารใบขอเบิก
 
 A1.  ให้ตรวจสอบหัวข้อ Workflow ว่าอยู่ลำดับใด จากนั้นClick  Edit Approval เพื่อเพิ่ม User สำหรับให้สามารถใช้งานใน Workflow ได้
 ![alt text](image-19.png)
