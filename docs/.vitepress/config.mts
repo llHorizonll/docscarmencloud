@@ -58,6 +58,7 @@ export default defineConfig({
       "/training_center/": { base: "/training_center/carmen_cloud/", items: sidebarTraining() },
       "/carmen_onpermise/": { base: "/training_center/carmen_onpermise/", items: sidebarTraining() },
       "/Blueledgers/": { base: "/Blueledgers/", items: sidebarBL() },
+      "/Knowledge Base/": { base: "/Knowledge Base/", items: sidebarKB() },
     },
 
     socialLinks: [{ icon: "github", link: "https://github.com/llHorizonll/docscarmencloud" }],
@@ -778,4 +779,107 @@ function sidebarBL() {
       ],
     },
   ];
+}
+function sidebarKB() {
+  return [
+    {
+      text: "AP",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "AR",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "GL",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "Asset",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "Asset Checker",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "Add in",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "Procurement",
+      collapsed: true,
+      base: "/Knowledge Base/Procurement/KB-",
+      items: [
+        { text: "Product Category อยู่ในหมวด PR Type ใด", link: "Index1" },
+        { text: "ต้องการแก้ไขหมายเลขInvoice ของเอกสาร Receiving แต่Commit แล้ว", link: "Index2" },
+        { text: "Save Receiving ไม่ได้แจ้ง Error While saving", link: "Index3" },
+        { text: "มองไม่เห็นProduct เมื่อสร้างPR", link: "Index4" },
+        { text: "วิธีเช็คProduct  Unit", link: "Index5" },
+        { text: "อยากรู้จำนวนสินค้าคงเหลือในระบบดูได้ที่ไหน", link: "Index6" },
+        { text: "กดApproved PR ไม่ได้ แก้ไขอย่างไร", link: "Index7" },
+        { text: "posting form inventory to GL error message : Emtry Department code and account code", link: "Index8" },
+        { text: "ไม่สามารถ ดึง PR ไปสร้างเป็น PO ได้", link: "Index9" },
+        { text: "Receiving รับเกินราคาและจำนวนของPO ไม่ได้ทำไง ระบบแจ้ง Warning", link: "Index10" },
+        { text: "เรียกดูReport Inventory Balance แล้วไม่พบStore ที่ต้องการจะดู", link: "Index11" },
+      ],
+    },
+    {
+      text: "Material",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+    {
+      text: "Portions",
+      collapsed: true,
+      base: "/Blueledgers/Portions/O-",
+      items: [
+        { text: "Recipe", link: "Recipe" },
+        { text: "Category", link: "Category" },
+        { text: "Sale", link: "Sale" },
+      ],
+    },
+  ];
+  
 }
