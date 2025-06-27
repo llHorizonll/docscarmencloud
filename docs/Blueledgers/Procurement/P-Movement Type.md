@@ -17,41 +17,41 @@ lang: th-TH
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>TR</strong></td>
-      <td style="border: 1px solid #ccc; padding: 10px;">Transfer</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">การโอนย้ายสินค้าจากสถานที่หนึ่งไปยังอีกสถานที่หนึ่ง โดยยังคงสถานะเป็นสินค้าคงคลัง (Inventory)</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">ย้ายสินค้าจาก Store A ไป Store B</td>
-    </tr>
     <tr style="background-color: #fafafa;">
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>SI</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">Stock In</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">การปรับปรุงยอดเพิ่มของจำนวนสินค้าและราคาในคลังสินค้า</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">Inventory มีของไม่ครบ ต้องปรับเพิ่มให้ตรงกับของจริง</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">การปรับปรุงเพื่อเพิ่มจำนวนสินค้าและราคาในคลังสินค้า</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">จำนวนสินค้าในคลังสินค้ามากกว่าระบบ จึงทำการปรับปรุงในระบบให้เท่ากัน</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>SO</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">Stock Out</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">การปรับปรุงเพื่อลดยอดจำนวนสินค้าในคลังสินค้า</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">Inventory มีของเกิน ต้องปรับลดให้ตรงกับของจริง</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">การปรับปรุงเพื่อลดจำนวนสินค้าในคลังสินค้า</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">จำนวนสินค้าในคลังสินค้าน้อยกว่าในระบบ จึงทำการปรับปรุงในระบบให้เท่ากัน</td>
     </tr>
     <tr style="background-color: #fafafa;">
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>SR</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">Issues</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">เบิกสินค้าและตัดเป็นค่าใช้จ่าย</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">เบิกของจาก Store Inventory ไปยัง Store Expenses</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">เบิกสินค้าและตัดเป็นค่าใช้จ่ายในทันที</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">การเบิกสินค้าด้วย movement type ประเภท issue</td>
+    </tr>
+        <tr>
+      <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>TR</strong></td>
+      <td style="border: 1px solid #ccc; padding: 10px;">Transfer</td>
+      <td style="border: 1px solid #ccc; padding: 10px;"> การเบิกสินค้าแบบโอนย้ายสินค้าระหว่างกัน</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">การเบิกสินค้าด้วย movement type ประเภท transfer</td>
     </tr>
     <tr>
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>EOPI</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">End of Period In</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">ปรับยอดเพิ่มเมื่อจำนวนสินค้าจริงมากกว่าที่ระบบแสดง</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">ตอนทำ Physical Count Inventory ในระบบมี 10 หยอดของที่นับจริงได้ 15 จะมีรายการ EOPI = 5 </td>
+      <td style="border: 1px solid #ccc; padding: 10px;">การปรับปรุงเพื่อเพิ่มจำนวนสินค้าโดยอัตโนมัติหลังจากยืนยันการทำ Physical Count</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">ในกรณีที่นับ stock แล้วสินค้าที่นับได้มากกว่า On Hand ในระบบ จึงทำการปรับปรุงในระบบให้เท่ากัน</td>
     </tr>
     <tr style="background-color: #fafafa;">
       <td style="border: 1px solid #ccc; padding: 10px; text-align: center;"><strong>EOPO</strong></td>
       <td style="border: 1px solid #ccc; padding: 10px;">End of Period Out</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">ปรับยอดลดเมื่อจำนวนสินค้าจริงน้อยกว่าที่ระบบแสดง</td>
-      <td style="border: 1px solid #ccc; padding: 10px;">ตอนทำ Physical Count Inventory ในระบบมี 20 หยอดของที่นับจริงได้ 15 จะมีรายการ EOPO = 5</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">การปรับปรุงเพื่อลดจำนวนสินค้าโดยอัตโนมัติหลังจากยืนยันการทำ Physical Count</td>
+      <td style="border: 1px solid #ccc; padding: 10px;">ในกรณีที่นับ stock แล้วสินค้าที่นับได้น้อยกว่า On Hand ในระบบ จึงทำการปรับปรุงในระบบให้เท่ากัน</td>
     </tr>
   </tbody>
 </table>

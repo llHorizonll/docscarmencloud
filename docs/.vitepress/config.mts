@@ -662,10 +662,6 @@ function sidebarBL() {
               link: "Standardorder",
             },
             {
-          text: "Account Code Mapping",
-          collapsed: true,
-          items: [
-            {
               text: "Account Code Mapping",
               link: "Account Code Mapping",
             },
@@ -673,8 +669,6 @@ function sidebarBL() {
               text: "Movement Type",
               link: "Movement Type",
             },
-          ],
-        },
             {
               text: "Currency",
               link: "Currency",
