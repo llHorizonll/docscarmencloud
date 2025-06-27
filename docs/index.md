@@ -28,4 +28,7 @@ features:
   - title: Training Center
     details: รวบรวม Video การใช้งานระบบ Carmen
     link: /training_center/
+  - title: Knowledge Base
+    details: คำถามที่พบบ่อยและปัญหาการใช้งาน
+    link: /Knowledge Base/
 ---
