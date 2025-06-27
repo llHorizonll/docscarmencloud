@@ -666,7 +666,7 @@ function sidebarBL() {
               link: "Account Code Mapping",
             },
             {
-              text: "Movement Type",
+              text: "Movement Type Definition",
               link: "Movement Type",
             },
             {

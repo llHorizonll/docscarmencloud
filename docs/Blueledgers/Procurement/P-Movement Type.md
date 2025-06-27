@@ -1,9 +1,9 @@
 ---
-title: Movement Type
+title: Movement Type Definition
 lang: th-TH
 ---
 
-# Movement Type
+# Movement Type Definition
 ความหมายของ Movement Type ในหน้า Account Code Mapping 
 ![alt text](image-145.png)
 
