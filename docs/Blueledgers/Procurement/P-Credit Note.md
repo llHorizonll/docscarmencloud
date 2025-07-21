@@ -27,7 +27,7 @@ lang: th-TH
 
 3.4 Vendor ให้ระบุร้านค้าตามเอกสารลดหนี้
 
-3.5 Currency ระบบจะแสดงสกุลเงินตามการ Commit ในเอกสารReceiving
+3.5 Currency กำหนดสกุลเงินตามเอกสารใบลดหนี้
 
 3.6 Currency Rate ระบบจะแสดงค่าเงิน (Currency Rate) ตามสกุลเงิน (Currency) ที่เลือกใช้
 
