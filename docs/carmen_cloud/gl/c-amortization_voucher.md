@@ -113,3 +113,5 @@ Function นี้ใช้เพื่อสร้างแม่แบบเ�
 </h5>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZHfIB1hFa4?si=aVvrRHq2aDDbc4eE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuAYQVXXMeI?si=X6JRw5ZJZSw2JtSi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

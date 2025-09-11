@@ -50,3 +50,5 @@ lang: th-TH
 <h3 style="margin: 0;">Year Ending | การปิดปีบัญชี</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-8mV5Mkb2yk?si=wPnP1OMqwQldKfic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Diet4ICD8ek?si=mMFTbPXa9T3jaIn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

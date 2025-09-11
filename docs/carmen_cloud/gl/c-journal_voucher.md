@@ -71,6 +71,8 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1l56IQeyTPI?si=cprMY0-VDohZqRe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/udlQspommVs?si=LAQ1ekfrQGphES0H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## การสร้าง Journal Voucher โดย Copy
 
 2.1 Click เข้าสู่ General Ledger Module
@@ -181,6 +183,8 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G2GIeVFl_h4?si=EFRHIwDQ-bdRBJ3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRHHf8oPddk?si=-FDUaNTyTworhkBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## การสร้าง Journal Voucher จาก Template
 
 3.1 Click เข้าสู่ General Ledger Module
@@ -224,6 +228,9 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 </h5>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Ns4pX7l-JI?si=UTR98KtbWwuBCwdK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GepvvkmLdkM?si=KfrNyft48yzSU5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## การใช้งานปุ่มอื่น ๆ หน้าจอ
 
