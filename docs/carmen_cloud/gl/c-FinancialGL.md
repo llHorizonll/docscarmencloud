@@ -142,7 +142,8 @@ B.Balance Sheet (งบดุล หรือ งบแสดงฐานะท�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BczkO99PT7E?si=FJncfLlSQiEfco2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1DGcJbGJH6g?si=APeru4hmt3MIhh9q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-4.Function อื่น ๆ เพิ่มเติมดังนี้
+
+4. Function อื่น ๆ เพิ่มเติมดังนี้
   - Click ที่ “Expand” เพื่อแสดงรายละเอียดจำนวนเงินแยกตาม Account Code ที่ map เอาไว้ของทุกบรรทัด หรือ “Collapse” เพื่อย่อรายงานกลับมาเป็นแบบ Summary
   - Click ที่เครื่องหมาย “>” เพื่อแสดงรายละเอียดจำนวนเงินแยกตาม Account Code ที่ map เอาไว้ของบรรทัดที่เลือก
 ![alt text](image-107.png)
