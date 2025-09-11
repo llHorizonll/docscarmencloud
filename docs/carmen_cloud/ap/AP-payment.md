@@ -138,3 +138,5 @@ Function นี้ใช้สำหรับการชำระเงิน�
 <h3 style="margin: 0;">Payment | การชำระใบแจ้งหนี้</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sqoL-_wDfZ4?si=7Mv8diqm8hk_37If" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93AS2d1HLls?si=9rtsH0lKPSQI_L5v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

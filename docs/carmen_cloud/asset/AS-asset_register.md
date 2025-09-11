@@ -87,6 +87,8 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hnREj9whgUc?si=MqybJ9QImp5b_-g9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p0GvQwEjajU?si=1rd57v3N4-jWAk50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 
@@ -154,6 +156,8 @@ Asset Account กำหนดรหัส Department Code และ Account Code
 <h3 style="margin: 0;">Asset Registration | การลงทะเบียนสินทรัพย์หลายชิ้นในคราวเดียว</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2T6wIdPu_Kg?si=oGA4fRIEoMjna4iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gqy1ZRfSOEI?si=Gnf2EctmQcBytItX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## การบันทึกสินทรัพย์โดยใช้ข้อมูลจาก Pre-Register Asset

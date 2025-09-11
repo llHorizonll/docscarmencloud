@@ -75,6 +75,8 @@ Carmen Work Book คือ Excel file ตาม Standard ของ Carmen ที
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AAl70vMVPCE?si=qYMwk9sOS7RPlG1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QVSJfS3igbE?si=heVsZ_MQCk0ecuRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## JV Allocation Import
 
 ใช้สำหรับกระจายค่าใช้จ่ายโดยเฉลี่ยตามสัดส่วนต่อ Unit
@@ -134,6 +136,8 @@ Carmen Work Book คือ Excel file ตาม Standard ของ Carmen ที
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODyTIH1U1d0?si=R_NDIxlCbE5b0aJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73qHeS30xXA?si=E6Mi7Sd2DnDyEkab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Budget Import Sheet
 
 ใช้สำหรับใส่ข้อมูล Budget Amount เพื่อ Upload ข้อมูลเข้าสู่ระบบ
@@ -165,6 +169,8 @@ Carmen Work Book คือ Excel file ตาม Standard ของ Carmen ที
 <h3 style="margin: 0;">Import Budget from Excel | การนำเข้างบประมาณจาก Excel</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7vcH7hh1_XQ?si=WyFsbs81Afjjp4sD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NEo9ubtxSYg?si=W-3P2S9AR-3iPz7d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Account Detail
 
