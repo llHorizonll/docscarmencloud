@@ -15,7 +15,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 1.3 กดปุ่ม <img src="/public/add_icon.png" style="display: inline-block;" />
 
-![alt text](image.png)
+![alt text](image-110.png)
 
 1.4 ระบบจะแสดงหน้า Journal Voucher ให้กำหนดข้อมูลดังต่อไปนี้
 
@@ -81,9 +81,10 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 2.3 Click สัญลักษณ์ <img src="./image-5.png" style="display: inline-block;" /> ใน JV ที่ต้องการจะทำการคัดลอก
 
-![alt text](image-6.png)
+![alt text](image-111.png)
 
 2.4 ระบบจะเปิด JV ที่เลือกมา
+
 2.5 Click เมนูคำสั่ง <img src="/public/copy_icon.png" style="display: inline-block;" /> เพื่อทำการคัดลอก JV ใบนั้น
 
 ![alt text](image-7.png)
@@ -103,7 +104,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 ใช้ในกรณีต้องการสร้าง JV ขึ้นใหม่โดยรายละเอียดใน JV มีข้อมูลใกล้เคียงกับเอกสารต้นฉบับ เพื่อลดขั้นตอนในการทำงาน
 
-เปิดเอกสาร JV ที่ต้องการ copy
+2.6.1.1.เปิดเอกสาร JV ที่ต้องการ copy
 
 2.6.1.2 Click เลือก <img src="/public/copy_icon.png" style="display: inline-block;" /> และเลือก Copy to new Journal Voucher
 
@@ -193,7 +194,7 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 3.3 กดปุ่ม <img src="/public/add_icon.png" style="display: inline-block;" /> ระบบจะแสดงหน้าต่างการสร้าง Journal Voucher
 
-![alt text](image-19.png)
+![alt text](image-112.png)
 
 3.4 กดปุ่ม <img src="./template_btn.png" style="display: inline-block;" /> เพื่อเลือก Template
 
@@ -223,6 +224,14 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
     <img src="./image-4.png"  />
 </p>
 
+## การใช้งานปุ่มอื่น ๆ หน้าจอ
+
+1.1. กดปุ่ม <img src="/public/edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไขเอกสาร JV ที่เปิดขึ้นมา
+
+1.2. กดปุ่ม <img src="/public/void_icon.png" style="display: inline-block;" /> เพื่อยกเลิกเอกสาร JV ที่เปิดขึ้นมา
+
+1.3. กดปุ่ม <img src="/public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์เอกสาร Journal Voucher
+
 <p style="margin: 0;">Video ประกอบ</p>
 <h5 style="margin: 0;">Create and Apply Template Voucher | การสร้างเทมเพลทใบสำคัญบันทึกบัญชีและการนำไปใช้
 </h5>
@@ -231,11 +240,3 @@ Journal Voucher คือ สมุดบัญชีรายวัน มี�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GepvvkmLdkM?si=KfrNyft48yzSU5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-## การใช้งานปุ่มอื่น ๆ หน้าจอ
-
-1.1. กดปุ่ม <img src="/public/edit_icon.png" style="display: inline-block;" /> เพื่อแก้ไขเอกสาร JV ที่เปิดขึ้นมา
-
-1.2. กดปุ่ม <img src="/public/void_icon.png" style="display: inline-block;" /> เพื่อยกเลิกเอกสาร JV ที่เปิดขึ้นมา
-
-1.3. กดปุ่ม <img src="/public/print_icon.svg" style="display: inline-block;" /> เพื่อพิมพ์เอกสาร Journal Voucher
