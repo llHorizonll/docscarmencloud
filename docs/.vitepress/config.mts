@@ -123,7 +123,7 @@ function sidebarAll() {
             },
             {
               text: "Philippines Process",
-              link: "input_tax_reconciliation",
+              link: "input_tax_reconciliationPhilippines",
             },
           ],
         },
