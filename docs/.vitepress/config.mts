@@ -114,7 +114,35 @@ function sidebarAll() {
         { text: "Apply Deposit with Invoice", link: "apply_deposit_pay_with_inv" },
         { text: "Cheque Reconciliation", link: "cheque_reconciliation" },
         { text: "Input Tax Reconciliation", link: "input_tax_reconciliation" },
+        {
+          text: "Input Tax Reconciliation",
+          collapsed: true,
+          items: [
+            {
+              text: "Thai and Japan Process",
+              link: "input_tax_reconciliation",
+            },
+            {
+              text: "Philippines Process",
+              link: "input_tax_reconciliation",
+            },
+          ],
+        },
         { text: "WHT Reconciliation", link: "wht_reconciliation" },
+        {
+          text: "WHT Reconciliation",
+          collapsed: true,
+          items: [
+            {
+              text: "Thai and Japan Process",
+              link: "wht_reconciliation",
+            },
+            {
+              text: "Philippines Process",
+              link: "wht_reconciliation",
+            },
+          ],
+        },
         { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 3", link: "RDPrep_3" },
         { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 53", link: "RDPrep_53" },
         { text: "Close Period AP", link: "close_period" },
