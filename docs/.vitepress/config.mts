@@ -137,7 +137,7 @@ function sidebarAll() {
             },
             {
               text: "Philippines Process",
-              link: "wht_reconciliation",
+              link: "AP-wht_reconciliationPhilippines",
             },
           ],
         },

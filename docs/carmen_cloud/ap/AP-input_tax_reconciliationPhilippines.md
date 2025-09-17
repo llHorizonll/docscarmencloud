@@ -82,7 +82,7 @@ Function ที่ใช้ในกรณี ต้องการเพิ่�
 -	Tax Rate > อัตราภาษีจะอ้างอิงตาม Tax Profile
 -	*Tax > จำนวนเงินภาษีซื้อ
 -	Total > จำนวนเงินรวมตามใบกำกับภาษีซื้อ
-10.	กด <span class="btn">OK</span> เพื่อบันทึกข้อมูล หรือ Cancel เพื่อยกเลิก
+10.	กด <img src="./image-180.png" style="height: 1.8em; vertical-align: middle; display: inline;" /> เพื่อบันทึกข้อมูล หรือ Cancel เพื่อยกเลิก
 ![alt text](image-160.png)
 11.	Click “Finish” เพื่อจบขั้นตอนการบันทึกใบกำกับภาษีจาก module อื่น ๆ
 
