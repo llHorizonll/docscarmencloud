@@ -113,7 +113,6 @@ function sidebarAll() {
         { text: "Deposit Payment", link: "deposit_payment" },
         { text: "Apply Deposit with Invoice", link: "apply_deposit_pay_with_inv" },
         { text: "Cheque Reconciliation", link: "cheque_reconciliation" },
-        { text: "Input Tax Reconciliation", link: "input_tax_reconciliation" },
         {
           text: "Input Tax Reconciliation",
           collapsed: true,
@@ -128,7 +127,6 @@ function sidebarAll() {
             },
           ],
         },
-        { text: "WHT Reconciliation", link: "wht_reconciliation" },
         {
           text: "WHT Reconciliation",
           collapsed: true,
