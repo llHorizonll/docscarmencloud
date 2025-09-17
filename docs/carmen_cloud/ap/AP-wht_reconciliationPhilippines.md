@@ -58,67 +58,67 @@ Address, Tax ID, Branch No โดยวิธีการแก้ไข ดั�
 7.2	ระบบจะแสดงหน้าต่างให้ระบุข้อมูล ดังต่อไปนี้
 
 หมายเหตุ : เครื่องหมาย *  คือช่องที่จำเป็นต้องกรอกข้อมูล 
--	Payment Ref. No	เลขที่ Payment หรือเลขที่ถูกระบุด้วยตนเอง หรือเลขที่ที่เกิดจากระบบสร้างอัตโนมัติ
--	Vendor		ระบุ Vendor Code (ใส่หรือไม่ใส่ก็ได้)
--	*Payee		ระบุชื่อ ที่จะใช้แสดงในรายงาน และ แบบฟอร์มภาษีหัก ณ ที่จ่าย
--	*Address	ระบุที่อยู่ที่จะใช้แสดงในรายงาน และ แบบฟอร์มภาษีหัก ณ ที่จ่าย
--	*Tax ID		ระบุหมายเลขประจำตัวผู้เสียภาษีอากร (13 หลัก) ของผู้ที่ถูกหัก
--	*Branch No.	ระบุรหัสสาขา (5 หลัก) เช่น 00000 (รหัสสาขาของสำนักงานใหญ่) ของผู้ที่ถูกหัก
--	*Withholding Tax Date	ระบุวันที่ หัก ณ ที่จ่าย
--	WHT. No	ระบุเลขที่ หัก ณ ที่จ่าย โดยระบุจะคำนวณให้อัตโนมัติ
--	*WHT. Form		ระบุประเภท หัก ณ ที่จ่าย ว่าเป็น ภ.ง.ด. 3 หรือ ภ.ง.ด. 53 
+-	Payment Ref. No > เลขที่ Payment หรือเลขที่ถูกระบุด้วยตนเอง หรือเลขที่ที่เกิดจากระบบสร้างอัตโนมัติ
+-	Vendor	> ระบุ Vendor Code 
+-	*Payee > ชื่อผู้ถูกหักภาษีตามรหัส Vendor ที่ถูกเลือก
+-	Address > ที่อยู่ผู้ถูกหักภาษีตามรหัส Vendor ที่ถูกเลือก
+-	Tax ID	 > Tin No ตามรหัส Vendor ที่ถูกเลือก
+-	*Branch No. > Tin No ตามรหัส Vendor ที่ถูกเลือก
+-	*Withholding Tax Date	> ระบุวันที่ หัก ณ ที่จ่าย
+-	WHT. No > ระบุเลขที่ หัก ณ ที่จ่าย โดยระบุจะคำนวณให้อัตโนมัติ
+-	*WHT. Form > ระบุประเภท หัก ณ ที่จ่าย เช่น WI หรือ WC
 -	*WHT Service Type	ระบุประเภทค่าบริการที่ถูกหักภาษี ณ ที่จ่าย
 -	*WHT Rate %		ระบุจำนวนร้อยละที่หัก (เปอร์เซ็นต์) (ระบบจะแสดง % ตามที่ตั้งค่าใน WHT Service Type)
--	WHT Condition		ระบุเงื่อนไขในการหักภาษี 
-
-o	หัก ณ ที่จ่าย
-
-o	ออกให้ตลอดไป
-
-o	ออกให้ครั้งเดียว
-
+-	WHT Condition		ระบุเงื่อนไขในการหักภาษี (สามารถเว้นว่างไว้ได้)
 -	*Payment Amount	ระบุจำนวนเงินที่จะนำมาคำนวณภาษี หัก ณ ที่จ่าย
 -	*WHT. Amount		ระบบคำนวนให้อัตโนมัติ (ผู้ใช้งานสามารถคีย์ยอดที่หัก ได้เอง)
 
 เมื่อใส่ข้อมูลครบถ้วน ถูกต้อง เรียบร้อยแล้ว กดที่ปุ่ม<img src="./image-180.png" style="height: 1.8em; vertical-align: middle; display: inline;" />เพื่อบันทึกรายการ หรือกด “Cancel” เพื่อยกเลิก โดยรายการที่เพิ่มด้วยตนเองจะแสดง Source = “User”
-![alt text](image-168.png)
-C การ Print แบบฟอร์มภาษีหัก ณ ที่จ่าย (8-12)
+![alt text](image-185.png)
 
-8.	ทำตามขั้นตอนที่ 1 – 4 
-9.	ติ๊กถูก ☑️ รายการภาษีหัก ณ ที่จ่ายเพื่อกำหนดข้อมูลที่ต้องการ print 
-10.	ปุ่ม Print Form <img src="./image-177.png" style="height: 1.8em; vertical-align: middle; display: inline;" />	เพื่อแสดงแบบฟอร์มหนังสือรับรอง หัก ณ ที่จ่าย
-![alt text](image-169.png)
-11.	จากนั้นสามารถเลือกว่าต้องการ print พร้อมสำเนาหรือไม่ 
-12.	กด Print  เพื่อพิมพ์แบบฟอร์ม หรือ กด Cancel เพื่อยกเลิก
-![alt text](image-178.png)
+## C ขั้นตอนการ Print รายงานภาษีหัก ณ ที่จ่าย (BIR FORM 1604E - SCHEDULE 3) “Philippines Version”
 
-ตัวอย่างแบบฟอร์มภาษีหัก ณ ที่จ่ายในระบบ
-![alt text](image-171.png)
-## D การ Print ใบแนบภาษีหัก ณ ที่จ่ายประเภท 3 และ 53 (13-16)
-13.	ทำตามขั้นตอน 1 – 4
-14.	กดปุ่ม Print Report <img src="./image-179.png" style="height: 1.8em; vertical-align: middle; display: inline;" />เพื่อพิมพ์ใบแนบที่ต้องการ
-![alt text](image-172.png)
-15.	สามารถเลือก ประเภทรายงาน  ภ.ง.ด. 3 หรือ ภ.ง.ด. 53 เพื่อ print
-16.	กดปุ่ม <img src="./image-180.png" style="height: 1.8em; vertical-align: middle; display: inline;" />เพื่อยืนยัน หรือ Cancel เพื่อยกเลิก
- ![alt text](image-173.png)
+1.	Click “Account Payable”
+2.	Click “Procedure”
+3.	Click “Withholding Tax Reconciliation”
+ ![alt text](image-186.png)
+
+4.	ขั้นตอนการเลือกข้อมูลก่อนเรียกรายงาน
+
+4.1.	Month กำหนดเดือนที่ต้องการ
+
+4.2.	Year กำหนดปีที่ต้องการ
+
+4.3.	WHT Form เลือกแบบการหัก ณ ที่จ่าย ประกอบด้วย
+
+•	WI = Withholding Tax – Individual (หัก ณ ที่จ่ายประเภทบุคคลธรรมดา)
+
+•	WC = Withholding Tax – Corporate (หัก ณ ที่จ่ายประเภทนิติบุคคล)
+
+5.	Click เครื่องหมาย☑️ในเอกสารที่ต้องการ Print Report
+6.	Click “Print Report”
+![alt text](image-187.png)
+7.	ตัวอย่างรายงาน BIR FORM 1604E - SCHEDULE 3
+ ![alt text](image-188.png)
  
-ตัวอย่างใบแนบ ภ.ง.ด. 3
-![alt text](image-174.png)
+## D ขั้นตอนการ Print “Certificate of Creditable Tax Withheld at Source” (BIR FORM 2307 01/18ENCS) “Philippines Version”
+1.	Click “Account Payable”
+2.	Click “Report”
+3.	Click “Withholding Tax Certificate”
 
-ตัวอย่างใบแนบ ภ.ง.ด. 53
-![alt text](image-175.png)
+4.	กำหนด Parameter ก่อนเรียกรายงาน
 
-E การ Export ข้อมูลภาษีหัก ณ ที่จ่าย เป็น text file เพื่อ upload เข้าระบบ RDPrep (17-22)
-17.	ทำตามขั้นตอน 1 – 4
-18.	ติ๊กถูก ☑️ รายการภาษีหัก ณ ที่จ่ายเพื่อกำหนดข้อมูลที่ต้องการ export
+4.1.	Date Type > กำหนดประเภทวันที่เช่น “Payment Date” หรือ “Cheque Date”
 
-19.	กดปุ่ม ที่<img src="./image-181.png" style="height: 3em; vertical-align: middle; display: inline;" />อยู่ด้านบนขวา
-20.	เพื่อ export text file<img src="./image-182.png" style="height: 4em; vertical-align: middle; display: inline;" />โดยสามารถดูได้ที่ function Download ของ Browser ที่ใช้งาน
-![alt text](image-176.png)
-21.	ระบบจะทำการ Export ไฟล์ข้อมูล เมื่อเรียบร้อยแล้วจะจัดเก็บอยู่ที่ Folder Download (folder อาจเก็บที่อื่นตามการตั้งค่าของ Browser ที่ใช้งาน และ User สามารถย้ายไฟล์ไปเก็บไว้ที่ Drive ที่ต้องการได้ในภายหลัง) 
-22.	นำไฟล์ที่ได้ไปอัพโหลดเข้าสู่โปรแกรมโอนย้ายข้อมูล (RDPrep) ของสรรพกร
-23.	เมื่อเสร็จสิ้นกระบวนการให้กดปุ่มกากบาท<img src="./image-183.png" style="height: 4em; vertical-align: middle; display: inline;" />ด้านบนขวามือเพื่อออกจากหน้า Withholding Tax Reconciliation
+4.2.	Year > กำหนดปีที่ต้องการ
 
-หมายเหตุ : 
-รายการที่เพิ่มเข้ามาจากฟังก์ชันนี้ เพื่อให้แสดงรายการใน แบบฟอร์ม รายงานภาษี หัก ณ ที่จ่ายเท่านั้น ไม่มีส่วนที่เกี่ยวข้องกับ Payment ในระบบ และไม่เกี่ยวข้องกับการบันทึกบัญชีใน General Ledger Module
+4.3.	Quarter > กำหนด Quarter ที่ต้องการ
+
+4.4.	Tax Type > กำหนดประเภทภาษีหัก ณ ที่จ่าย เช่น “WI” หรือ “WC”
+และกดปุ่ม “Preview” เพื่อดูรายงาน
+ ![alt text](image-189.png)
+
+5.	ตัวอย่างรายงาน “Certificate of Creditable Tax Withheld at Source”
+![alt text](image-190.png)
+ 
 
