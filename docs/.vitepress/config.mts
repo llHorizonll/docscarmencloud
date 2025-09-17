@@ -132,7 +132,7 @@ function sidebarAll() {
           collapsed: true,
           items: [
             {
-              text: "Thai and Japan Process",
+              text: "Thai Process",
               link: "wht_reconciliation",
             },
             {
