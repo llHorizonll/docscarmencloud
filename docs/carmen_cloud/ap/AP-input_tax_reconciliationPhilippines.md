@@ -1,5 +1,5 @@
 ---
-title: Input Tax Reconciliation
+title: Input Tax Reconciliation Philippines
 lang: th-TH
 ---
 
@@ -53,11 +53,11 @@ Found Updated data: - transactions จำนวนใบกำกับภาษ
 -	การกลับบัญชีจะมีผลกับใบกำกับภาษีที่บันทึกบน A/P Invoice เท่านั้น
 ![alt text](image-147.png)
 
-## การบันทึกใบกำกับภาษีซื้อจาก module อื่น ๆ เช่น AR และ GL (6-11)
+## ขั้นตอนการบันทึกใบกำกับภาษีจาก Manual และการ Print ใบกำกับภาษี (Philippines Version)
 
-Function ที่ใช้ในกรณี ต้องการเพิ่มเติมรายการในรายงานภาษีซื้อ (Tax Invoice) ที่มีการสั่งซื้อของ ต่างๆ ของบริษัท แต่บันทึกที่ module อื่น ๆ ของระบบ เช่นใบกำกับภาษีซื้อที่ซื้อด้วยเงินสดย่อย หรือ ภาษีซื้อจาก Credit Card Commission เป็นต้น 
+การบันทึกใบกำกับภาษีซื้อจาก module อื่น ๆ เช่น AR และ GL (6-11)
 
-สามารถนำใบกำกับภาษีมาบันทึกเพื่อนำส่ง และ ออกรายงานภาษีซื้อเป็นชุดเดียวกัน
+Function ที่ใช้ในกรณี ต้องการเพิ่มเติมรายการในรายงานภาษีซื้อ (Tax Invoice) ที่มีการสั่งซื้อของ ต่างๆ ของบริษัท แต่บันทึกที่ module อื่น ๆ ของระบบ เช่นใบกำกับภาษีซื้อที่ซื้อด้วยเงินสดย่อย หรือ ภาษีซื้อจาก Credit Card Commission เป็นต้น สามารถนำใบกำกับภาษีมาบันทึกเพื่อนำส่ง และ ออกรายงานภาษีซื้อเป็นชุดเดียวกัน
 
 <p>
 6. ทำตามขั้นตอน 1 และ 2 อีกครั้ง จากนั้น click 
@@ -67,16 +67,15 @@ Function ที่ใช้ในกรณี ต้องการเพิ่�
 7.	เลือก Period หรือเดือนของภาษีซื้อ ที่ต้องการ จะเพิ่มใบกำกับภาษีซื้อ 
 ระบบจะแสดงรายการใบกำกับภาษีซื้อที่ถูก Reconcile แล้ว เพื่อเป็นข้อมูลตั้งต้น
 8.	กดปุ่ม + เพื่อเพิ่มรายการภาษีซื้อ
-![alt text](image-148.png)
+![alt text](image-159.png)
 9.	การกรอกรายละเอียดใบกำกับภาษีซื้อ 
-
 หมายเหตุ สัญลักษณ์  * ช่องที่จำเป็นต้องระบุ
 -	*Tax Invoice No > เลขที่ใบกำกับภาษี
 -	*Tax Invoice Date > วันที่ในใบกำกับภาษี
--	*Tax ID > ระบุหมายเลขประจำตัวผู้เสียภาษีอากร (13 หลัก)
--	*Branch No > ระบุรหัสสาขา (5 หลัก) เช่น 00000 (รหัสสาขาของสำนักงานใหญ่)
--	Vendor > กำหนดรหัสร้านค้า หากมีข้อมูลอยู่ในระบบ สามารถปล่อยว่างเอาไว้ได้หากไม่มีข้อมูลในระบบ
--	*Vendor Name > ระบุชื่อร้านค้า หรือชื่อผู้ขายตามใบกำกับภาษี
+-	Tax ID (Tin No.) > หมายเลขประจำตัวผู้เสียภาษีอากรตามที่กำหนดไว้ใน Vendor
+-	Branch No (Tin No) > รหัสสาขาตามที่กำหนดไว้ใน Vendor
+-	*Vendor > กำหนดรหัสร้านค้า
+-	Vendor Name > ชื่อร้านค้าตามที่กำหนดไว้ใน Vendor
 -	Description > คำอธิบายเพิ่มเติม
 -	*Tax Profile > ระบุประเภทของภาษี
 -	*Net Amount > จำนวนเงินก่อนภาษีซื้อ
@@ -84,57 +83,31 @@ Function ที่ใช้ในกรณี ต้องการเพิ่�
 -	*Tax > จำนวนเงินภาษีซื้อ
 -	Total > จำนวนเงินรวมตามใบกำกับภาษีซื้อ
 10.	กด <span class="btn">OK</span> เพื่อบันทึกข้อมูล หรือ Cancel เพื่อยกเลิก
-![alt text](image-149.png)
-11.	กด “Finish” เพื่อจบขั้นตอนการบันทึกใบกำกับภาษีจาก module อื่น ๆ
+![alt text](image-160.png)
+11.	Click “Finish” เพื่อจบขั้นตอนการบันทึกใบกำกับภาษีจาก module อื่น ๆ
 
 Source บนหน้าจอใช้ในการระบุแหล่งที่มาของใบกำกับภาษีแต่ละใบโดยแบ่งเป็น 2 รูปแบบ
 
-11.1.	Exported คือ ใบกำกับภาษีที่มาจาก A/P Invoice ที่มี Tax Status เป็น Confirm ไม่สามารถลบรายการออกไปได้ แต่สามารถแก้ไขข้อมูลได้บางส่วน และมีวิธีการแก้ไข ดังนี้
+11.1	Exported คือ ใบกำกับภาษีที่มาจาก A/P Invoice ที่มี Tax Status เป็น Confirm ไม่สามารถลบรายการออกไปได้ 
+แต่สามารถแก้ไขข้อมูลได้บางส่วน และมีวิธีการแก้ไข ดังนี้
+
 -	กดที่ช่อง Tax Period เพื่อเลือก Period ที่ต้องการแก้ไข
--	กดปุ่ม <img src="/public/edit_icon.svg" style="display: inline-block;" /> หน้ารายการที่ต้องการแก้ไข 
+-	กดปุ่ม <img src="/public/edit_icon.svg" style="display: inline-block;" /> หน้ารายการที่ต้องการแก้ไข
 -	ระบบจะแสดงหน้าต่าง ให้แก้ไขข้อมูลได้บางส่วน ได้แก่ Vendor Name, Tax ID, Branch No
 
-11.2.	User คือ ใบกำกับภาษีที่ ผู้ใช้งานทำการเพิ่มเองในระบบ
-![alt text](image-150.png)
+11.2	User คือ ใบกำกับภาษีที่ ผู้ใช้งานทำการเพิ่มเองในระบบ
+![alt text](image-161.png)
 
-## การ Print รายงานภาษีซื้อ Thai version (12)
-
-เมื่อทำการบันทึกใบกำกับภาษีซื้อที่จะใช้ในการนำส่งภาษีของเดือนนั้นเสร็จแล้ว สามารถ Print รายงานภาษีซื้อได้จากหน้าจอ Input Tax Reconciliation ตามขั้นตอนดังนี้
-
+## ขั้นตอนการ Print รายงานภาษีซื้อ Philippines Version
 12.	 เมื่อบันทึกข้อมูลใบกำกับภาษีทั้งหมด และกด ปุ่ม<span class="btn">FINISH</span> จากข้อ 11 ระบบ จะเปิด tab<img src="./image-48.png" style="height: 1.8em; vertical-align: middle; display: inline;" />เพื่อทำการ Print รายงานภาษีซื้อ 
-โดยมีขั้นตอนดังนี้
 
 12.1.กำหนด Tax Period ที่ต้องการ Print รายงานภาษีซื้อ
 
 12.2.เลือก Print Input TAX Report เมื่อต้องการพิมพ์รายงานภาษีซื้อ
 
 12.3.เลือก Export Input TAX xlsx file เมื่อต้องการ Export ข้อมูลภาษีซื้อเป็นไฟล์ Excel
-![alt text](image-151.png)
-
-ตัวอย่างรายงานภาษีซื้อ
-![alt text](image-152.png)
-
-## ขั้นตอนการ Print รายงานภาษีซื้อ Japan Version
-1.	Select “Account Payable”
-2.	Click “Procedure”
-3.	Click “Input Tax Reconciliation”
-![alt text](image-153.png)
-4.	Click “Input Tax Reconciliation Complete”
-![alt text](image-154.png)
-5.	Click “Export Input Tax xlsx file”
-![alt text](image-155.png)
+![alt text](image-162.png)
 
 “หลังจากทำการ Export Excel file เรียบร้อยแล้ว ให้ทำการตรวจสอบความถูกต้องทั้งในส่วนของข้อมูล และการจัดหน้ากระดาษ”
 ![alt text](image-156.png)
-6.	ตั้งค่าหน้ากระดาษให้อยู่ใน Scaling ที่ต้องการ
-7.	Click "Print Preview" เพื่อตรวจสอบก่อน Print
-![alt text](image-157.png)
-8.	เมื่อตรวจสอบเรียบร้อยแล้ว click "print" เพื่อสั่งพิมพ์เอกสาร
-![alt text](image-158.png)
 
-<p style="margin: 0;">Video ประกอบ</p>
-<h3 style="margin: 0;">Input Vat Reconciliation | การตรวจสอบรายการใบกำกับภาษีซื้อ</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9VefhfqbF1A?si=qDpprUdG2-2Z0hD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sV4VCwWPUFM?si=PSM2pVFLbhEuVlpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
