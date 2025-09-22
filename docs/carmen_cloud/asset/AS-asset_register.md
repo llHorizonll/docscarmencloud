@@ -100,8 +100,11 @@ Depre Account กำหนด Account Code ที่จะใช้บันท�
 <img src="/public/print_barcode_icon.png" style="display: inline-block;" /> ใช้ในกรณีพิมพ์ Barcode <br/>
 
 2. การบันทึกสินทรัพย์ด้วยการ Copy จากสินทรัพย์ที่มีอยู่ในระบบ
+
 2.1 CLICK เข้าสู่ Asset Module
+
 2.2 กดปุ่ม Asset Register
+
 2.3 Click เครื่องหมาย      เลือกรายการสินทรัพย์ที่ต้องการจะทำการ Copy รายการสินค้า
 ![alt text](image-58.png) 
 
