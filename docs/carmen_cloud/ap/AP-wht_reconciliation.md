@@ -118,10 +118,17 @@ o	ออกให้ครั้งเดียว
 ![alt text](image-176.png)
 21.	ระบบจะทำการ Export ไฟล์ข้อมูล เมื่อเรียบร้อยแล้วจะจัดเก็บอยู่ที่ Folder Download (folder อาจเก็บที่อื่นตามการตั้งค่าของ Browser ที่ใช้งาน และ User สามารถย้ายไฟล์ไปเก็บไว้ที่ Drive ที่ต้องการได้ในภายหลัง) 
 22.	นำไฟล์ที่ได้ไปอัพโหลดเข้าสู่โปรแกรมโอนย้ายข้อมูล (RDPrep) ของสรรพกร
-23.	เมื่อเสร็จสิ้นกระบวนการให้กดปุ่มกากบาท<img src="./image-183.png" style="height: 4em; vertical-align: middle; display: inline;" />ด้านบนขวามือเพื่อออกจากหน้า Withholding Tax Reconciliation
+23.	เมื่อเสร็จสิ้นกระบวนการให้กดปุ่มกากบาท<img src="./image-183.png" style="height: 2.5em; vertical-align: middle; display: inline;" />ด้านบนขวามือเพื่อออกจากหน้า Withholding Tax Reconciliation
 
 หมายเหตุ : 
 รายการที่เพิ่มเข้ามาจากฟังก์ชันนี้ เพื่อให้แสดงรายการใน แบบฟอร์ม รายงานภาษี หัก ณ ที่จ่ายเท่านั้น ไม่มีส่วนที่เกี่ยวข้องกับ Payment ในระบบ และไม่เกี่ยวข้องกับการบันทึกบัญชีใน General Ledger Module
+
+<p style="margin: 0;">Video ประกอบ</p>
+<h3 style="margin: 0;">Withholding Tax Reconciliation | การตรวจสอบภาษีหัก ณ ที่จ่าย</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sT1E-a-yGQ?si=hJrJv1bhSRzmHRSo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvQBNtYNVkU?si=YcaHroTWfOCIfFnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
 
