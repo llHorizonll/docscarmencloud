@@ -738,6 +738,7 @@ function sidebarBL() {
             },
           ],
         },
+        { text: "Troubleshoot Guide", link: "TroubleshootGuidePR" },
       ],
     },
     {
