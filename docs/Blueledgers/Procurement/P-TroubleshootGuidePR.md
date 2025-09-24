@@ -3,8 +3,8 @@ title: Purchase Request
 lang: th-TH
 ---
 # Troubleshoot Guide PR
-## กด ตั้งค่า PR ไม่ได้ 
-ตัวอย่าง PR24020004 กดเข้ามาแล้วไม่พบปุ่มปุ่ม ตั้งค่า / Reject / Send Back ให้กด
+## กด Approved PR ไม่ได้ 
+ตัวอย่าง PR24020004 กดเข้ามาแล้วไม่พบปุ่มปุ่ม Approved / Reject / Send Back ให้กด
 ![alt text](image-146.png)
 
 สาเหตุเกิดจากอยู่ในหัวข้อ View All ทำให้ไม่สามารถแก้ไขได้
@@ -17,10 +17,10 @@ lang: th-TH
 ![alt text](image-149.png)
 
 
-จะพบว่าปุ่ม ตั้งค่า/Reject/Send Back ปรากฏขึ้นมาแล้วตามรูปภาพ
+จะพบว่าปุ่ม Approved/Reject/Send Back ปรากฏขึ้นมาแล้วตามรูปภาพ
 ![alt text](image-150.png)
 
-## ตั้งค่า PR ช้า
+## Approved PR ช้า
 
 ตัวอย่าง กด Approved PR25060001 ช้าผิดปกติ
 ![alt text](image-151.png)
@@ -76,7 +76,7 @@ lang: th-TH
 ![alt text](image-161.png)
 
 ## หาหัวข้อ View Approved PR ไม่เจอ
-ตัวอย่าง จะกด PR24050002 ที่ Step ตั้งค่า By HOD แต่เลือกหัวข้อ View ลำดับขั้นในการอนุมัติเอกสาร ไม่พบ ทำอย่างไร 
+ตัวอย่าง จะกด PR24050002 ที่ Step Approved By HOD แต่เลือกหัวข้อ View ลำดับขั้นในการอนุมัติเอกสาร ไม่พบ ทำอย่างไร 
 ![alt text](image-162.png) 
 ![alt text](image-163.png)
 สาเหตุ 
@@ -102,7 +102,7 @@ User ที่ติดปัญหา ไม่ได้ถูก Assign เอ
 
 กลับไปที่ หัวข้อ PR คลิก View จะปรากฏ View ของ ตั้งค่า By HOD เรียบร้อย
 
-ทำการคลิก ตั้งค่า By HOD จะพบเอกสาร กด PR24050002 ที่ Step ตั้งค่า By HOD เรียบร้อย
+ทำการคลิก Approved By HOD จะพบเอกสาร กด PR24050002 ที่ Step Approved By HOD เรียบร้อย
 
 สามารถดำเนินการ ตั้งค่า เอกสารได้ตามปกติ
 ![alt text](image-167.png)
@@ -142,9 +142,9 @@ User ที่ติดปัญหา ไม่ได้ถูก Assign เอ
 ![alt text](image-171.png)
 3. คลิกเลือก Product 10000002 หรือพิมพ์ Product Code 10000002 หรือตาม Product ที่ต้องการ ในช่องค้นหา
 ![alt text](image-172.png)
-4. ดูในช่อง Assign to Store/Location ว่า Store 1GR01หรือStore ที่ต้องการ ถูกติ๊กเลือกไว้หรือไม่
+4. ดูในช่อง Assign to Store/Location ว่า Store 1GR01 หรือ Store ที่ต้องการ ถูกติ๊กเลือกไว้หรือไม่
 ![alt text](image-173.png)
-5. หากยังให้ทำการ Assign to Store/Location ที่1GR01 หรือ Store ที่ต้องการและกด Assign และกด Save
+5. หากยังให้ทำการ Assign to Store/Location ที่ 1GR01 หรือ Store ที่ต้องการและกด Assign และกด Save
 ![alt text](image-174.png)
-6. กลับไปที่PR จะปรากฏรายการ Product 10000002  และสามารถดำเนินการทำเอกสาร PR ได้ตามปกติ 
+6. กลับไปที่ PR จะปรากฏรายการ Product 10000002  และสามารถดำเนินการทำเอกสาร PR ได้ตามปกติ 
 ![alt text](image-175.png)
