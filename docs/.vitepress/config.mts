@@ -4,7 +4,16 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "CARMEN",
   description: "Document for carmen.blue",
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+    [
+      "script",
+      {},
+      `
+      (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="hv1plekDVwHl-A3Tv2Sjk";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+      `,
+    ],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -133,7 +142,7 @@ function sidebarAll() {
           collapsed: true,
           items: [
             {
-              text: "Thai and Japan Process",
+              text: "Thai Process",
               link: "wht_reconciliation",
             },
             {
