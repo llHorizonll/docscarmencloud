@@ -12,8 +12,16 @@ export default defineConfig({
       {
         text: "Changelog",
         items: [
-           {
-            text: "🆕 May2025 Relaese Infomation",
+          {
+            text: "🆕 September2025 Relaese Infomation",
+            link: "/sep2025",
+          },
+          {
+            text: "Jul2025 Relaese Infomation",
+            link: "/jul2025",
+          },
+          {
+            text: "May2025 Relaese Infomation",
             link: "/may2025",
           },
           {
@@ -106,8 +114,34 @@ function sidebarAll() {
         { text: "Deposit Payment", link: "deposit_payment" },
         { text: "Apply Deposit with Invoice", link: "apply_deposit_pay_with_inv" },
         { text: "Cheque Reconciliation", link: "cheque_reconciliation" },
-        { text: "Input Tax Reconciliation", link: "input_tax_reconciliation" },
-        { text: "WHT Reconciliation", link: "wht_reconciliation" },
+        {
+          text: "Input Tax Reconciliation",
+          collapsed: true,
+          items: [
+            {
+              text: "Thai and Japan Process",
+              link: "input_tax_reconciliation",
+            },
+            {
+              text: "Philippines Process",
+              link: "input_tax_reconciliationPhilippines",
+            },
+          ],
+        },
+        {
+          text: "WHT Reconciliation",
+          collapsed: true,
+          items: [
+            {
+              text: "Thai and Japan Process",
+              link: "wht_reconciliation",
+            },
+            {
+              text: "Philippines Process",
+              link: "wht_reconciliationPhilippines",
+            },
+          ],
+        },
         { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 3", link: "RDPrep_3" },
         { text: "RDPrep_การโอนย้ายข้อมูลใบแนบ ภงด 53", link: "RDPrep_53" },
         { text: "Close Period AP", link: "close_period" },
