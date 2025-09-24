@@ -3,29 +3,29 @@ title: Purchase Request
 lang: th-TH
 ---
 # Troubleshoot Guide PR
-## กด Approved PR ไม่ได้ 
-ตัวอย่าง PR24020004 กดเข้ามาแล้วไม่พบปุ่มปุ่ม Approved / Reject / Send Back ให้กด
+## กด ตั้งค่า PR ไม่ได้ 
+ตัวอย่าง PR24020004 กดเข้ามาแล้วไม่พบปุ่มปุ่ม ตั้งค่า / Reject / Send Back ให้กด
 ![alt text](image-146.png)
 
 สาเหตุเกิดจากอยู่ในหัวข้อ View All ทำให้ไม่สามารถแก้ไขได้
 ![alt text](image-147.png)
 
-ไปที่หัวข้อ View  หรือตาม View Step เอกสาร PR ของลูกค้า <!-- ( [หากไม่เจอไปที่หัวข้อ View PR ไม่เจอ](#หาหัวข้อ-view-approve-pr-ไม่เจอ) ) -->
+ไปที่หัวข้อ View  หรือตาม View Step เอกสาร PR ของลูกค้า <!-- ( [หากไม่เจอไปที่หัวข้อ View PR ไม่เจอ](#หาหัวข้อ-view-Approved-pr-ไม่เจอ) ) -->
 ![alt text](image-148.png)
 
 ทำการคลิกที่PR24020004หรือหมายเลขPR ของลูกค้า
 ![alt text](image-149.png)
 
 
-จะพบว่าปุ่ม Approved/Reject/Send Back ปรากฏขึ้นมาแล้วตามรูปภาพ
+จะพบว่าปุ่ม ตั้งค่า/Reject/Send Back ปรากฏขึ้นมาแล้วตามรูปภาพ
 ![alt text](image-150.png)
 
-## Approve PR ช้า
+## ตั้งค่า PR ช้า
 
-ตัวอย่าง กด Approve PR25060001 ช้าผิดปกติ
+ตัวอย่าง กด Approved PR25060001 ช้าผิดปกติ
 ![alt text](image-151.png)
 
-สาเหตุ มีการตั้งค่า Web & Mail Server แต่ Mail Server ไม่สามารถส่ง Email ได้และมีการเลือก Receive Notification Via Email ในหัวข้อการ Approved ใน Workflow Configuration 
+สาเหตุ มีการตั้งค่า Web & Mail Server แต่ Mail Server ไม่สามารถส่ง Email ได้และมีการเลือก Receive Notification Via Email ในหัวข้อการ ตั้งค่า ใน Workflow Configuration 
 
 วิธีตรวจสอบและแก้ไข
 
@@ -35,7 +35,7 @@ lang: th-TH
 จากตัวอย่าง พบError : (400) Bad Request.
 ![alt text](image-152.png)
 
-3. ให้ทำการแก้ไข Setting Mail Server ให้ถูกต้อง ก็จะสามารถแก้ไขการ Approve ช้า ได้ครับซึ่งสามารถดูได้ที่
+3. ให้ทำการแก้ไข Setting Mail Server ให้ถูกต้อง ก็จะสามารถแก้ไขการ Approved ช้า ได้ครับซึ่งสามารถดูได้ที่
 คู่มือการตั่งค่า Mail Setting
 ![alt text](image-153.png)
  
@@ -75,13 +75,13 @@ lang: th-TH
 กลับมาที่เอกสาร PR ก็จะพบ Store A&G-Accounting ให้คลิกเลือกแล้วครับ ตามรูปภาพด้านล่าง
 ![alt text](image-161.png)
 
-## หาหัวข้อ View Approve PR ไม่เจอ
-ตัวอย่าง จะกด PR24050002 ที่ Step Approved By HOD แต่เลือกหัวข้อ View ลำดับขั้นในการอนุมัติเอกสาร ไม่พบ ทำอย่างไร 
+## หาหัวข้อ View Approved PR ไม่เจอ
+ตัวอย่าง จะกด PR24050002 ที่ Step ตั้งค่า By HOD แต่เลือกหัวข้อ View ลำดับขั้นในการอนุมัติเอกสาร ไม่พบ ทำอย่างไร 
 ![alt text](image-162.png) 
 ![alt text](image-163.png)
 สาเหตุ 
 
-User ที่ติดปัญหา ไม่ได้ถูก Assign เอาไว้ที่หัวข้อ Step Approved By HOD ใน Workflow Configuration ส่วนของ Purchase Request 
+User ที่ติดปัญหา ไม่ได้ถูก Assign เอาไว้ที่หัวข้อ Step ตั้งค่า By HOD ใน Workflow Configuration ส่วนของ Purchase Request 
 
 วิธีแก้ไข
 
@@ -90,21 +90,21 @@ User ที่ติดปัญหา ไม่ได้ถูก Assign เอ
 2. Administrator
 3. Workflow Configuration
 ![alt text](image-164.png)
-4. ไปที่ Step Approved By HOD ใน Workflow Configuration จากตัวอย่างคือ (2) Approved By HOD
+4. ไปที่ Step ตั้งค่า By HOD ใน Workflow Configuration จากตัวอย่างคือ (2) ตั้งค่า By HOD
 5. กดปุ่ม Edit Approval 
 ![alt text](image-165.png)
-6. ทำการเลือก User ที่ต้องการเปิดสิทธิ์การ Approved By HOD จากตัวอย่าง คือ User:Support
+6. ทำการเลือก User ที่ต้องการเปิดสิทธิ์การ ตั้งค่า By HOD จากตัวอย่าง คือ User:Support
 
 หมายเหตุ:การเลือกสามารถเลือกได้ทั่ง2แบบ คือ 1.Role(s) 2.User(s)
 
 7. กด Save
 ![alt text](image-166.png)
 
-กลับไปที่ หัวข้อ PR คลิก View จะปรากฏ View ของ Approved By HOD เรียบร้อย
+กลับไปที่ หัวข้อ PR คลิก View จะปรากฏ View ของ ตั้งค่า By HOD เรียบร้อย
 
-ทำการคลิก Approved By HOD จะพบเอกสาร กด PR24050002 ที่ Step Approved By HOD เรียบร้อย
+ทำการคลิก ตั้งค่า By HOD จะพบเอกสาร กด PR24050002 ที่ Step ตั้งค่า By HOD เรียบร้อย
 
-สามารถดำเนินการ Approved เอกสารได้ตามปกติ
+สามารถดำเนินการ ตั้งค่า เอกสารได้ตามปกติ
 ![alt text](image-167.png)
 
 ## สร้าง PR แล้วไม่พบ Product ที่ต้องการ
