@@ -71,8 +71,31 @@ Function นี้ใช้สำหรับการ Post ข้อมูล�
     + **Posted** > ข้อมูลถูกบันทึกเป็นทรัพย์สินแล้ว
     + **Void** > ข้อมูลถูกยกเลิก
 
-<p align="center">
-    <img src="./image-10.png"  />
-</p>
+![alt text](image-10.png)
+
+3.	การ “Void” Pre-Register Asset 
+
+สำหรับ Pre-Register Asset ที่มี status “Draft” เท่านั้นที่จะสามารถ void ได้ สามารถทำตามขั้นตอนดังนี้
+
+3.1	กดปุ่ม “รูปถังขยะ” ที่ Pre-Register Asset ที่ต้องการ
+ ![alt text](image-78.png)
+3.2	กดปุ่ม “Yes” เพื่อยืนยันการ void
+
+3.3	กดปุ่ม “No” เพื่อยกเลิกการ void
+ ![alt text](image-79.png)
+3.4	Status จะถูกเปลี่ยนเป็น void
+ ![alt text](image-80.png)
+4.	การ “Un-Void” Pre-Register Asset 
+
+สำหรับ Pre-Register Asset ที่มี status “Void” เท่านั้นที่จะสามารถ UnVoid ได้ สามารถทำตามขั้นตอนดังนี้
+
+4.1	กดปุ่ม “รูป Undo” ที่ Pre-Register Asset ที่ต้องการ
+ ![alt text](image-81.png)
+4.2	กดปุ่ม “Yes” เพื่อยืนยันการ Un-void
+
+4.3	กดปุ่ม “No” เพื่อยกเลิกการ Un-void
+ ![alt text](image-82.png)
+4.4	Status จะถูกเปลี่ยนเป็น Draft
+ ![alt text](image-83.png)
 
 
