@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(find:*)",
+      "Read(//d/source/vscodeRepos/carmen.document/**)",
+      "Bash(pip install:*)",
+      "Bash(timeout:*)",
+      "Bash(curl:*)",
+      "Bash(findstr:*)",
+      "Bash(npm run build:*)",
+      "Bash(wmic process where \"ProcessId=37180\" delete:*)",
+      "Bash(wmic:*)",
+      "Bash(taskkill:*)",
+      "Bash(netstat:*)",
+      "Bash(powershell:*)"
+    ]
+  }
+}

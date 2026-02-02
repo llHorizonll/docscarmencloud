@@ -6,13 +6,30 @@ export default defineConfig({
   description: "Document for carmen.blue",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
+    // Carmen AI Chatbot Widget (React + CSS)
+    ["link", { rel: "stylesheet", href: "/carmen-chatbot.css" }],
+    ["script", { src: "/carmen-chatbot.js" }],
+    // Carmen AI Chatbot Configuration
     [
       "script",
       {},
       `
-      (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="hv1plekDVwHl-A3Tv2Sjk";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+      // Carmen AI Chatbot Configuration
+      window.CARMEN_CHATBOT_CONFIG = {
+        apiUrl: "http://127.0.0.1:8001/api/v1",
+        position: "bottom-right",
+        theme: "auto"
+      };
       `,
     ],
+    // Chatbase (existing chatbot - can be removed if using Carmen AI instead)
+    // [
+    //   "script",
+    //   {},
+    //   `
+    //   (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="hv1plekDVwHl-A3Tv2Sjk";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+    //   `,
+    // ],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

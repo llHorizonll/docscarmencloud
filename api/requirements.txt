@@ -1,0 +1,18 @@
+# Carmen RAG API - Python Dependencies
+
+# FastAPI and server
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# ChromaDB and embeddings
+chromadb>=0.5.0
+sentence-transformers>=2.2.0
+
+# LLM API client
+httpx>=0.24.0
+nest-asyncio>=1.5.0
+
+# Utilities
+python-multipart>=0.0.6

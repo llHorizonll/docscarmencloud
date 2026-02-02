@@ -1,9 +1,8 @@
 <script setup lang="ts">
 import DefaultTheme from "vitepress/theme";
-import { useData, inBrowser } from "vitepress";
 import { watchEffect, nextTick } from "vue";
 import { useRoute } from "vitepress/client";
-import ClientOnly from "./ClientOnly.vue";
+
 const route = useRoute();
 
 const loadGoogleTranslate = () => {

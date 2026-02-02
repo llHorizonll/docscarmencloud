@@ -1,0 +1,23 @@
+# Carmen Documentation RAG System Requirements
+
+# Vector Database
+chromadb>=0.4.22
+
+# Embeddings - Recommended for Thai-English bilingual content
+sentence-transformers>=2.2.2
+# FlagEmbedding>=1.2.2  # Alternative: For multilingual-e5 models
+
+# Data processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: For better Thai language support
+pythainlp>=3.0.0
+
+# Optional: For translation
+# googletrans>=4.0.0rc1
+# deep-translator>=1.11.4
+
+# Optional: LangChain integration
+# langchain>=0.1.0
+# langchain-community>=0.0.10
