@@ -55,34 +55,63 @@ lang: th-TH
 
 6.9) Remark ระบุข้อมูลรายละเอียด เพิ่มเติม (จะระบุหรือไม่ระบุก็ได้)
 
-6.10) Click Menu เพิ่มรายการประเภทการชำระภาษี หัก ณ ที่จ่าย 
+6.10) Click Menu <span class="btn">WHT SERVICE TYPE</span> เพิ่มรายการประเภทการชำระภาษี หัก ณ ที่จ่าย 
 ![alt text](image-135.png)
  
 หากมีการกำหนดเงื่อนไขการหักภาษี ณ ที่จ่ายจาก Vendor Information หรือมีการระบุบริการในขั้นตอน Payment ระบบจะ Default Value ยอดหัก ณ ที่จ่าย 
-
+	
+	
 •	*Code กำหนดประเภทการชำระภาษีหัก ณ ที่จ่าย เช่น ค่าบริการ, ค่าจ้าง เป็นต้น
+ 
+ หมายเหตุ : สำหรับ ภ.ง.ด. 2 ให้เลือกบริการรหัส 21, 22, 23, หรือ 24 หากเลือกรหัสอื่น จะถือเป็นประเภทอื่น ๆ
 
 •	Tax Rate (%) ระบุอัตราภาษีหัก ณ ที่จ่าย
 
-•	Total Base Amount ระบุยอดที่จะน าไปคำนวณภาษีหัก ณ ที่จ่าย
+•	Total Base Amount ระบุยอดที่จะนำไปคำนวณภาษีหัก ณ ที่จ่าย
 
 •	Tax Amount ยอดภาษี หัก ณ ที่จ่าย ระบบจะคำนวณให้อัตโนมัติ หรือ user สามารถคีย์ยอดภาษีหัก ณ ที่จ่ายได้เองที่ช่องนี้
 
-•	กด<span class="btn">OK</span>เพื่อบันทึกรายการ 
+•	กด <span class="btn">OK</span> เพื่อบันทึกรายการ 
 
 •	หากมีมากกว่า 1 รายการให้ทำตามขั้นตอนในข้อ 6.9) จนครบ 
 ![alt text](image-136.png)
 ระบบจะแสดงหน้าจอ ตัวอย่างตามภาพด้านล่าง 
-- กด<img src="/public/edit_icon.svg" style="display: inline-block;" />ในกรณีต้องการแก้ไขข้อมูลประเภท หัก ณ ที่จ่าย
-- กด<img src="/public/delete_icon.svg" style="display: inline-block;" />ในกรณีต้องการ ลบ ข้อมูลประเภท หัก ณ ที่จ่าย
+<style>
+  .icon-inline {
+    width: 30px;
+    height: 30px;
+    display: inline;
+    vertical-align: middle;
+    margin: 0 6px;
+  }
+
+  .text-danger {
+    color: red;
+    font-weight: bold; /* ถ้าต้องการให้เด่นขึ้น */
+  }
+</style>
+
+<ul>
+  <li>
+    กด <img src="./image-200.png" class="icon-inline" alt="Edit">
+    ในกรณีต้องการแก้ไขข้อมูลประเภท หัก ณ ที่จ่าย
+  </li>
+
+  <li>
+    กด <img src="./image-201.png" class="icon-inline" alt="Delete">
+    ในกรณีต้องการ <span class="text-danger">ลบ</span> ข้อมูลประเภท หัก ณ ที่จ่าย
+  </li>
+</ul>
+
+  ในกรณีต้องการลบข้อมูลประเภท หัก ณ ที่จ่าย
 ![alt text](image-137.png)
 7. เลื่อน scroll bar ลงที่ด้านล่างสุด ให้กำหนดรหัสผังบัญชีที่จะใช้บันทึกบัญชีไปที่ General Ledger Module ดังต่อไปนี้
 ![alt text](image-138.png)
- 	7.1) Payment Accountก าหนดรหัสบัญชีที่จะใช้บันทึกการตัดจ่าย เช่น บัญชี Bank  
+ 	7.1) Payment Account กำหนดรหัสบัญชีที่จะใช้บันทึกการตัดจ่าย เช่น บัญชี Bank  
 
-•	*Dept. Code กำหนด Department Code สำหรับใช้บันทึกบัญชี
+•	Dept. Code กำหนด Department Code สำหรับใช้บันทึกบัญชี
 
-•	*Acc. Code กำหนด Account Code สำหรับใช้บันทึกบัญชี
+•	Acc. Code กำหนด Account Code สำหรับใช้บันทึกบัญชี
 
 7.2) Gain/Loss account กำหนดรหัสบัญชีที่จะใช้บันทึกยอดส่วนต่างจากอัตราการแลกเปลี่ยน (หากมีต้องระบุ)
 
@@ -90,7 +119,7 @@ lang: th-TH
 
 •	Acc. Code กำหนด Account Code สำหรับใช้บันทึกบัญชี
 
-7.3) WHT. Account ก าหนดรหัสบัญชีที่จะใช้บันทึก ภาษี หัก ณ ที่จ่าย
+7.3) WHT. Account กำหนดรหัสบัญชีที่จะใช้บันทึก ภาษี หัก ณ ที่จ่าย
 
 •	*Dept. Code กำหนด Department Code สำหรับใช้บันทึกบัญชี
 
@@ -108,7 +137,21 @@ lang: th-TH
 
 •	Net Payment ยอดสุทธิหลังจากหักภาษี ณ ที่จ่าย สำหรับตัดชำระหนี้ 
 
-9. กดปุ่ม             เพื่อบันทึกข้อมูล
+<style>
+  .icon-inline {
+    width: 50px;
+    height: 30px;
+    display: inline;
+    vertical-align: middle;
+    margin: 0 6px;
+  }
+</style>
+
+<p>
+  9. กด <img src="./image-202.png" class="icon-inline" alt="Save">
+  เพื่อบันทึกข้อมูล
+</p>
+
 ![alt text](image-139.png) 
 10. เมื่อระบบทำการบันทึกข้อมูลเรียบร้อยแล้ว ระบบจะแสดงข้อความ Success ให้กดปุ่ม OK 
 ![alt text](image-140.png)
