@@ -26,7 +26,7 @@ export default defineConfig({
             link: "/may2026",
           },
           {
-            text: "🆕 March 2026 Relaese Infomation",
+            text: "March 2026 Relaese Infomation",
             link: "/mar2026",
           },
           {
