@@ -22,7 +22,11 @@ export default defineConfig({
         text: "Changelog",
         items: [
           {
-            text: "🆕 May 2026 Relaese Infomation",
+            text: "🆕 July 2026 Relaese Infomation",
+            link: "/july2026",
+          },
+          {
+            text: "May 2026 Relaese Infomation",
             link: "/may2026",
           },
           {
@@ -88,12 +92,23 @@ export default defineConfig({
     ],
     sidebar: {
       "/carmen_cloud/": { base: "/carmen_cloud/", items: sidebarAll() },
-      "/training_center/": { base: "/training_center/carmen_cloud/", items: sidebarTraining() },
-      "/carmen_onpermise/": { base: "/training_center/carmen_onpermise/", items: sidebarTraining() },
+      "/training_center/": {
+        base: "/training_center/carmen_cloud/",
+        items: sidebarTraining(),
+      },
+      "/carmen_onpermise/": {
+        base: "/training_center/carmen_onpermise/",
+        items: sidebarTraining(),
+      },
       "/Blueledgers/": { base: "/Blueledgers/", items: sidebarBL() },
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/llHorizonll/docscarmencloud" }],
+    socialLinks: [
+      {
+        icon: "github",
+        link: "https://github.com/llHorizonll/docscarmencloud",
+      },
+    ],
     search: {
       provider: "local",
     },
@@ -120,7 +135,10 @@ function sidebarAll() {
         { text: "Budget", link: "budget" },
         { text: "Posting Account Payable to GL", link: "posting_ap" },
         { text: "Posting Account Receivable to GL", link: "posting_ar" },
-        { text: "Inventory & Extra Cost Posting to GL", link: "posting_inventory" },
+        {
+          text: "Inventory & Extra Cost Posting to GL",
+          link: "posting_inventory",
+        },
         { text: "Posting Fixed Assets to GL", link: "posting_asset" },
         { text: "Close Period and Year End", link: "close_period" },
         { text: "Financial Report", link: "FinancialGL" },
@@ -136,7 +154,10 @@ function sidebarAll() {
         { text: "Invoice", link: "invoice" },
         { text: "Payment", link: "payment" },
         { text: "Deposit Payment", link: "deposit_payment" },
-        { text: "Apply Deposit with Invoice", link: "apply_deposit_pay_with_inv" },
+        {
+          text: "Apply Deposit with Invoice",
+          link: "apply_deposit_pay_with_inv",
+        },
         { text: "Cheque Reconciliation", link: "cheque_reconciliation" },
         {
           text: "Input Tax Reconciliation",
@@ -183,8 +204,14 @@ function sidebarAll() {
         { text: "Contract", link: "contract" },
         { text: "Apply AR Contract", link: "apply_contract" },
         { text: "Receipt", link: "receipt" },
-        { text: "Receipt for Advance Deposit", link: "receipt_advance_deposit" },
-        { text: "Apply invoice for Advance Deposit", link: "apply_invoice_advance_deposit" },
+        {
+          text: "Receipt for Advance Deposit",
+          link: "receipt_advance_deposit",
+        },
+        {
+          text: "Apply invoice for Advance Deposit",
+          link: "apply_invoice_advance_deposit",
+        },
         { text: "Close Period AR", link: "close_period" },
       ],
     },
@@ -206,7 +233,12 @@ function sidebarAll() {
       text: "Comment and Document Management & Activity Log",
       collapsed: true,
       base: "/carmen_cloud/comment/CM-",
-      items: [{ text: "Comment and Document Management & Activity Log", link: "index" }],
+      items: [
+        {
+          text: "Comment and Document Management & Activity Log",
+          link: "index",
+        },
+      ],
     },
 
     {
@@ -216,7 +248,10 @@ function sidebarAll() {
       items: [
         { text: "Installation and Configuration", link: "install&config" },
         { text: "Work Book Function", link: "function" },
-        { text: "Excel Security setting for Carmen Add-in", link: "excelsecurity" },
+        {
+          text: "Excel Security setting for Carmen Add-in",
+          link: "excelsecurity",
+        },
         { text: "Troubleshoot Guide", link: "troubleshootguide" },
       ],
     },
